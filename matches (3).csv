@@ -1,0 +1,2461 @@
+,date,team,opponent,venue,time,pf,pa,result
+0,2024-10-22,Boston Celtics,New York Knicks,Home,19:30,132,109,W
+1,2024-10-22,Los Angeles Lakers,Minnesota Timberwolves,Home,22:00,110,103,W
+2,2024-10-22,Minnesota Timberwolves,Los Angeles Lakers,Away,22:00,103,110,L
+3,2024-10-22,New York Knicks,Boston Celtics,Away,19:30,109,132,L
+4,2024-10-23,Atlanta Hawks,Brooklyn Nets,Home,19:30,120,116,W
+5,2024-10-23,Brooklyn Nets,Atlanta Hawks,Away,19:30,116,120,L
+6,2024-10-23,Charlotte Hornets,Houston Rockets,Away,20:00,110,105,W
+7,2024-10-23,Chicago Bulls,New Orleans Pelicans,Away,20:00,111,123,L
+8,2024-10-23,Cleveland Cavaliers,Toronto Raptors,Away,19:30,136,106,W
+9,2024-10-23,Detroit Pistons,Indiana Pacers,Home,19:00,109,115,L
+10,2024-10-23,Golden State Warriors,Portland Trail Blazers,Away,22:00,140,104,W
+11,2024-10-23,Houston Rockets,Charlotte Hornets,Home,20:00,105,110,L
+12,2024-10-23,Indiana Pacers,Detroit Pistons,Away,19:00,115,109,W
+13,2024-10-23,Los Angeles Clippers,Phoenix Suns,Home,22:00,113,116,L
+14,2024-10-23,Memphis Grizzlies,Utah Jazz,Away,21:00,126,124,W
+15,2024-10-23,Miami Heat,Orlando Magic,Home,19:30,97,116,L
+16,2024-10-23,Milwaukee Bucks,Philadelphia 76ers,Away,19:30,124,109,W
+17,2024-10-23,New Orleans Pelicans,Chicago Bulls,Home,20:00,123,111,W
+18,2024-10-23,Orlando Magic,Miami Heat,Away,19:30,116,97,W
+19,2024-10-23,Philadelphia 76ers,Milwaukee Bucks,Home,19:30,109,124,L
+20,2024-10-23,Phoenix Suns,Los Angeles Clippers,Away,22:00,116,113,W
+21,2024-10-23,Portland Trail Blazers,Golden State Warriors,Home,22:00,104,140,L
+22,2024-10-23,Toronto Raptors,Cleveland Cavaliers,Home,19:30,106,136,L
+23,2024-10-23,Utah Jazz,Memphis Grizzlies,Home,21:00,124,126,L
+24,2024-10-24,Boston Celtics,Washington Wizards,Away,19:00,122,102,W
+25,2024-10-24,Dallas Mavericks,San Antonio Spurs,Home,19:30,120,109,W
+26,2024-10-24,Denver Nuggets,Oklahoma City Thunder,Home,22:00,87,102,L
+27,2024-10-24,Minnesota Timberwolves,Sacramento Kings,Away,22:00,117,115,W
+28,2024-10-24,Oklahoma City Thunder,Denver Nuggets,Away,22:00,102,87,W
+29,2024-10-24,Sacramento Kings,Minnesota Timberwolves,Home,22:00,115,117,L
+30,2024-10-24,San Antonio Spurs,Dallas Mavericks,Away,19:30,109,120,L
+31,2024-10-24,Washington Wizards,Boston Celtics,Home,19:00,102,122,L
+32,2024-10-25,Atlanta Hawks,Charlotte Hornets,Home,19:30,125,120,W
+33,2024-10-25,Brooklyn Nets,Orlando Magic,Away,19:00,101,116,L
+34,2024-10-25,Charlotte Hornets,Atlanta Hawks,Away,19:30,120,125,L
+35,2024-10-25,Chicago Bulls,Milwaukee Bucks,Away,20:00,133,122,W
+36,2024-10-25,Cleveland Cavaliers,Detroit Pistons,Home,19:30,113,101,W
+37,2024-10-25,Detroit Pistons,Cleveland Cavaliers,Away,19:30,101,113,L
+38,2024-10-25,Golden State Warriors,Utah Jazz,Away,21:30,127,86,W
+39,2024-10-25,Houston Rockets,Memphis Grizzlies,Home,20:00,128,108,W
+40,2024-10-25,Indiana Pacers,New York Knicks,Away,19:30,98,123,L
+41,2024-10-25,Los Angeles Lakers,Phoenix Suns,Home,22:00,123,116,W
+42,2024-10-25,Memphis Grizzlies,Houston Rockets,Away,20:00,108,128,L
+43,2024-10-25,Milwaukee Bucks,Chicago Bulls,Home,20:00,122,133,L
+44,2024-10-25,New Orleans Pelicans,Portland Trail Blazers,Away,22:00,105,103,W
+45,2024-10-25,New York Knicks,Indiana Pacers,Home,19:30,123,98,W
+46,2024-10-25,Orlando Magic,Brooklyn Nets,Home,19:00,116,101,W
+47,2024-10-25,Philadelphia 76ers,Toronto Raptors,Away,19:00,107,115,L
+48,2024-10-25,Phoenix Suns,Los Angeles Lakers,Away,22:00,116,123,L
+49,2024-10-25,Portland Trail Blazers,New Orleans Pelicans,Home,22:00,103,105,L
+50,2024-10-25,Toronto Raptors,Philadelphia 76ers,Home,19:00,115,107,W
+51,2024-10-25,Utah Jazz,Golden State Warriors,Home,21:30,86,127,L
+52,2024-10-26,Boston Celtics,Detroit Pistons,Away,19:00,124,118,W
+53,2024-10-26,Charlotte Hornets,Miami Heat,Home,19:00,106,114,L
+54,2024-10-26,Chicago Bulls,Oklahoma City Thunder,Home,20:00,95,114,L
+55,2024-10-26,Cleveland Cavaliers,Washington Wizards,Away,19:00,135,116,W
+56,2024-10-26,Dallas Mavericks,Phoenix Suns,Away,22:00,102,114,L
+57,2024-10-26,Denver Nuggets,Los Angeles Clippers,Home,17:00,104,109,L
+58,2024-10-26,Detroit Pistons,Boston Celtics,Home,19:00,118,124,L
+59,2024-10-26,Houston Rockets,San Antonio Spurs,Away,20:30,106,109,L
+60,2024-10-26,Los Angeles Clippers,Denver Nuggets,Away,17:00,109,104,W
+61,2024-10-26,Los Angeles Lakers,Sacramento Kings,Home,22:30,131,127,W
+62,2024-10-26,Memphis Grizzlies,Orlando Magic,Home,20:00,124,111,W
+63,2024-10-26,Miami Heat,Charlotte Hornets,Away,19:00,114,106,W
+64,2024-10-26,Minnesota Timberwolves,Toronto Raptors,Home,20:00,112,101,W
+65,2024-10-26,Oklahoma City Thunder,Chicago Bulls,Away,20:00,114,95,W
+66,2024-10-26,Orlando Magic,Memphis Grizzlies,Away,20:00,111,124,L
+67,2024-10-26,Phoenix Suns,Dallas Mavericks,Home,22:00,114,102,W
+68,2024-10-26,Sacramento Kings,Los Angeles Lakers,Away,22:30,127,131,L
+69,2024-10-26,San Antonio Spurs,Houston Rockets,Home,20:30,109,106,W
+70,2024-10-26,Toronto Raptors,Minnesota Timberwolves,Away,20:00,101,112,L
+71,2024-10-26,Washington Wizards,Cleveland Cavaliers,Home,19:00,116,135,L
+72,2024-10-27,Atlanta Hawks,Oklahoma City Thunder,Away,19:00,104,128,L
+73,2024-10-27,Brooklyn Nets,Milwaukee Bucks,Home,18:00,115,102,W
+74,2024-10-27,Golden State Warriors,Los Angeles Clippers,Home,20:30,104,112,L
+75,2024-10-27,Indiana Pacers,Philadelphia 76ers,Home,15:30,114,118,L
+76,2024-10-27,Los Angeles Clippers,Golden State Warriors,Away,20:30,112,104,W
+77,2024-10-27,Milwaukee Bucks,Brooklyn Nets,Away,18:00,102,115,L
+78,2024-10-27,New Orleans Pelicans,Portland Trail Blazers,Away,18:00,103,125,L
+79,2024-10-27,Oklahoma City Thunder,Atlanta Hawks,Home,19:00,128,104,W
+80,2024-10-27,Philadelphia 76ers,Indiana Pacers,Away,15:30,118,114,W
+81,2024-10-27,Portland Trail Blazers,New Orleans Pelicans,Home,18:00,125,103,W
+82,2024-10-28,Atlanta Hawks,Washington Wizards,Home,19:30,119,121,L
+83,2024-10-28,Boston Celtics,Milwaukee Bucks,Home,19:30,119,108,W
+84,2024-10-28,Chicago Bulls,Memphis Grizzlies,Away,20:00,126,123,W
+85,2024-10-28,Cleveland Cavaliers,New York Knicks,Away,19:30,110,104,W
+86,2024-10-28,Dallas Mavericks,Utah Jazz,Home,20:30,110,102,W
+87,2024-10-28,Denver Nuggets,Toronto Raptors,Away,19:30,127,125,W
+88,2024-10-28,Detroit Pistons,Miami Heat,Away,19:30,98,106,L
+89,2024-10-28,Houston Rockets,San Antonio Spurs,Away,20:00,106,101,W
+90,2024-10-28,Indiana Pacers,Orlando Magic,Away,19:00,115,119,L
+91,2024-10-28,Los Angeles Lakers,Phoenix Suns,Away,22:00,105,109,L
+92,2024-10-28,Memphis Grizzlies,Chicago Bulls,Home,20:00,123,126,L
+93,2024-10-28,Miami Heat,Detroit Pistons,Home,19:30,106,98,W
+94,2024-10-28,Milwaukee Bucks,Boston Celtics,Away,19:30,108,119,L
+95,2024-10-28,New York Knicks,Cleveland Cavaliers,Home,19:30,104,110,L
+96,2024-10-28,Orlando Magic,Indiana Pacers,Home,19:00,119,115,W
+97,2024-10-28,Phoenix Suns,Los Angeles Lakers,Home,22:00,109,105,W
+98,2024-10-28,Portland Trail Blazers,Sacramento Kings,Away,22:00,98,111,L
+99,2024-10-28,Sacramento Kings,Portland Trail Blazers,Home,22:00,111,98,W
+100,2024-10-28,San Antonio Spurs,Houston Rockets,Home,20:00,101,106,L
+101,2024-10-28,Toronto Raptors,Denver Nuggets,Home,19:30,125,127,L
+102,2024-10-28,Utah Jazz,Dallas Mavericks,Away,20:30,102,110,L
+103,2024-10-28,Washington Wizards,Atlanta Hawks,Away,19:30,121,119,W
+104,2024-10-29,Brooklyn Nets,Denver Nuggets,Home,19:30,139,144,L
+105,2024-10-29,Dallas Mavericks,Minnesota Timberwolves,Away,19:30,120,114,W
+106,2024-10-29,Denver Nuggets,Brooklyn Nets,Away,19:30,144,139,W
+107,2024-10-29,Golden State Warriors,New Orleans Pelicans,Home,22:00,124,106,W
+108,2024-10-29,Minnesota Timberwolves,Dallas Mavericks,Home,19:30,114,120,L
+109,2024-10-29,New Orleans Pelicans,Golden State Warriors,Away,22:00,106,124,L
+110,2024-10-29,Sacramento Kings,Utah Jazz,Away,21:00,113,96,W
+111,2024-10-29,Utah Jazz,Sacramento Kings,Home,21:00,96,113,L
+112,2024-10-30,Atlanta Hawks,Washington Wizards,Away,19:00,120,133,L
+113,2024-10-30,Boston Celtics,Indiana Pacers,Away,19:00,132,135,L
+114,2024-10-30,Brooklyn Nets,Memphis Grizzlies,Away,20:00,119,106,W
+115,2024-10-30,Charlotte Hornets,Toronto Raptors,Home,19:00,138,133,W
+116,2024-10-30,Chicago Bulls,Orlando Magic,Home,20:00,102,99,W
+117,2024-10-30,Cleveland Cavaliers,Los Angeles Lakers,Home,19:00,134,110,W
+118,2024-10-30,Detroit Pistons,Philadelphia 76ers,Away,19:00,105,95,W
+119,2024-10-30,Golden State Warriors,New Orleans Pelicans,Home,22:00,104,89,W
+120,2024-10-30,Indiana Pacers,Boston Celtics,Home,19:00,135,132,W
+121,2024-10-30,Los Angeles Clippers,Portland Trail Blazers,Home,22:30,105,106,L
+122,2024-10-30,Los Angeles Lakers,Cleveland Cavaliers,Away,19:00,110,134,L
+123,2024-10-30,Memphis Grizzlies,Brooklyn Nets,Home,20:00,106,119,L
+124,2024-10-30,Miami Heat,New York Knicks,Home,19:30,107,116,L
+125,2024-10-30,New Orleans Pelicans,Golden State Warriors,Away,22:00,89,104,L
+126,2024-10-30,New York Knicks,Miami Heat,Away,19:30,116,107,W
+127,2024-10-30,Oklahoma City Thunder,San Antonio Spurs,Home,21:30,105,93,W
+128,2024-10-30,Orlando Magic,Chicago Bulls,Away,20:00,99,102,L
+129,2024-10-30,Philadelphia 76ers,Detroit Pistons,Home,19:00,95,105,L
+130,2024-10-30,Portland Trail Blazers,Los Angeles Clippers,Away,22:30,106,105,W
+131,2024-10-30,San Antonio Spurs,Oklahoma City Thunder,Away,21:30,93,105,L
+132,2024-10-30,Toronto Raptors,Charlotte Hornets,Away,19:00,133,138,L
+133,2024-10-30,Washington Wizards,Atlanta Hawks,Home,19:00,133,120,W
+134,2024-10-31,Dallas Mavericks,Houston Rockets,Home,20:30,102,108,L
+135,2024-10-31,Houston Rockets,Dallas Mavericks,Away,20:30,108,102,W
+136,2024-10-31,Los Angeles Clippers,Phoenix Suns,Home,22:30,119,125,L
+137,2024-10-31,Memphis Grizzlies,Milwaukee Bucks,Home,20:00,122,99,W
+138,2024-10-31,Milwaukee Bucks,Memphis Grizzlies,Away,20:00,99,122,L
+139,2024-10-31,Phoenix Suns,Los Angeles Clippers,Away,22:30,125,119,W
+140,2024-10-31,San Antonio Spurs,Utah Jazz,Away,21:00,106,88,W
+141,2024-10-31,Utah Jazz,San Antonio Spurs,Home,21:00,88,106,L
+142,2024-11-01,Atlanta Hawks,Sacramento Kings,Home,19:30,115,123,L
+143,2024-11-01,Boston Celtics,Charlotte Hornets,Away,19:00,124,109,W
+144,2024-11-01,Brooklyn Nets,Chicago Bulls,Home,19:30,120,112,W
+145,2024-11-01,Charlotte Hornets,Boston Celtics,Home,19:00,109,124,L
+146,2024-11-01,Chicago Bulls,Brooklyn Nets,Away,19:30,112,120,L
+147,2024-11-01,Cleveland Cavaliers,Orlando Magic,Home,19:00,120,109,W
+148,2024-11-01,Denver Nuggets,Minnesota Timberwolves,Away,21:30,116,119,L
+149,2024-11-01,Detroit Pistons,New York Knicks,Home,19:00,98,128,L
+150,2024-11-01,Indiana Pacers,New Orleans Pelicans,Away,20:00,118,125,L
+151,2024-11-01,Los Angeles Lakers,Toronto Raptors,Away,19:30,131,125,W
+152,2024-11-01,Minnesota Timberwolves,Denver Nuggets,Home,21:30,119,116,W
+153,2024-11-01,New Orleans Pelicans,Indiana Pacers,Home,20:00,125,118,W
+154,2024-11-01,New York Knicks,Detroit Pistons,Away,19:00,128,98,W
+155,2024-11-01,Oklahoma City Thunder,Portland Trail Blazers,Away,22:00,137,114,W
+156,2024-11-01,Orlando Magic,Cleveland Cavaliers,Away,19:00,109,120,L
+157,2024-11-01,Portland Trail Blazers,Oklahoma City Thunder,Home,22:00,114,137,L
+158,2024-11-01,Sacramento Kings,Atlanta Hawks,Away,19:30,123,115,W
+159,2024-11-01,Toronto Raptors,Los Angeles Lakers,Home,19:30,125,131,L
+160,2024-11-02,Boston Celtics,Charlotte Hornets,Away,18:00,113,103,W
+161,2024-11-02,Charlotte Hornets,Boston Celtics,Home,18:00,103,113,L
+162,2024-11-02,Cleveland Cavaliers,Milwaukee Bucks,Away,20:00,114,113,W
+163,2024-11-02,Denver Nuggets,Utah Jazz,Home,22:00,129,103,W
+164,2024-11-02,Golden State Warriors,Houston Rockets,Away,20:00,127,121,W
+165,2024-11-02,Houston Rockets,Golden State Warriors,Home,20:00,121,127,L
+166,2024-11-02,Los Angeles Clippers,Oklahoma City Thunder,Home,22:30,92,105,L
+167,2024-11-02,Memphis Grizzlies,Philadelphia 76ers,Away,19:30,124,107,W
+168,2024-11-02,Miami Heat,Washington Wizards,Away,21:30,118,98,W
+169,2024-11-02,Milwaukee Bucks,Cleveland Cavaliers,Home,20:00,113,114,L
+170,2024-11-02,Minnesota Timberwolves,San Antonio Spurs,Away,20:00,103,113,L
+171,2024-11-02,Oklahoma City Thunder,Los Angeles Clippers,Away,22:30,105,92,W
+172,2024-11-02,Philadelphia 76ers,Memphis Grizzlies,Home,19:30,107,124,L
+173,2024-11-02,Phoenix Suns,Portland Trail Blazers,Home,22:00,103,97,W
+174,2024-11-02,Portland Trail Blazers,Phoenix Suns,Away,22:00,97,103,L
+175,2024-11-02,Sacramento Kings,Toronto Raptors,Away,19:30,128,131,L
+176,2024-11-02,San Antonio Spurs,Minnesota Timberwolves,Home,20:00,113,103,W
+177,2024-11-02,Toronto Raptors,Sacramento Kings,Home,19:30,131,128,W
+178,2024-11-02,Utah Jazz,Denver Nuggets,Away,22:00,103,129,L
+179,2024-11-02,Washington Wizards,Miami Heat,Home,21:30,98,118,L
+180,2024-11-03,Atlanta Hawks,New Orleans Pelicans,Away,19:00,126,111,W
+181,2024-11-03,Brooklyn Nets,Detroit Pistons,Home,15:30,92,106,L
+182,2024-11-03,Dallas Mavericks,Orlando Magic,Home,19:30,108,85,W
+183,2024-11-03,Detroit Pistons,Brooklyn Nets,Away,15:30,106,92,W
+184,2024-11-03,New Orleans Pelicans,Atlanta Hawks,Home,19:00,111,126,L
+185,2024-11-03,Orlando Magic,Dallas Mavericks,Away,19:30,85,108,L
+186,2024-11-04,Atlanta Hawks,Boston Celtics,Home,19:45,93,123,L
+187,2024-11-04,Boston Celtics,Atlanta Hawks,Away,19:45,123,93,W
+188,2024-11-04,Brooklyn Nets,Memphis Grizzlies,Home,20:00,106,104,W
+189,2024-11-04,Charlotte Hornets,Minnesota Timberwolves,Away,21:00,93,114,L
+190,2024-11-04,Chicago Bulls,Utah Jazz,Home,20:30,126,135,L
+191,2024-11-04,Cleveland Cavaliers,Milwaukee Bucks,Home,19:00,116,114,W
+192,2024-11-04,Dallas Mavericks,Indiana Pacers,Home,21:45,127,134,L
+193,2024-11-04,Denver Nuggets,Toronto Raptors,Home,22:00,121,119,W
+194,2024-11-04,Detroit Pistons,Los Angeles Lakers,Home,19:30,115,103,W
+195,2024-11-04,Golden State Warriors,Washington Wizards,Away,19:15,125,112,W
+196,2024-11-04,Houston Rockets,New York Knicks,Home,20:45,109,97,W
+197,2024-11-04,Indiana Pacers,Dallas Mavericks,Away,21:45,134,127,W
+198,2024-11-04,Los Angeles Clippers,San Antonio Spurs,Home,22:30,113,104,W
+199,2024-11-04,Los Angeles Lakers,Detroit Pistons,Away,19:30,103,115,L
+200,2024-11-04,Memphis Grizzlies,Brooklyn Nets,Away,20:00,104,106,L
+201,2024-11-04,Miami Heat,Sacramento Kings,Home,20:15,110,111,L
+202,2024-11-04,Milwaukee Bucks,Cleveland Cavaliers,Away,19:00,114,116,L
+203,2024-11-04,Minnesota Timberwolves,Charlotte Hornets,Home,21:00,114,93,W
+204,2024-11-04,New Orleans Pelicans,Portland Trail Blazers,Home,21:30,100,118,L
+205,2024-11-04,New York Knicks,Houston Rockets,Away,20:45,97,109,L
+206,2024-11-04,Oklahoma City Thunder,Orlando Magic,Home,21:15,102,86,W
+207,2024-11-04,Orlando Magic,Oklahoma City Thunder,Away,21:15,86,102,L
+208,2024-11-04,Philadelphia 76ers,Phoenix Suns,Away,22:15,116,118,L
+209,2024-11-04,Phoenix Suns,Philadelphia 76ers,Home,22:15,118,116,W
+210,2024-11-04,Portland Trail Blazers,New Orleans Pelicans,Away,21:30,118,100,W
+211,2024-11-04,Sacramento Kings,Miami Heat,Away,20:15,111,110,W
+212,2024-11-04,San Antonio Spurs,Los Angeles Clippers,Away,22:30,104,113,L
+213,2024-11-04,Toronto Raptors,Denver Nuggets,Away,22:00,119,121,L
+214,2024-11-04,Utah Jazz,Chicago Bulls,Away,20:30,135,126,W
+215,2024-11-04,Washington Wizards,Golden State Warriors,Home,19:15,112,125,L
+216,2024-11-06,Atlanta Hawks,New York Knicks,Home,19:30,121,116,W
+217,2024-11-06,Boston Celtics,Golden State Warriors,Home,19:30,112,118,L
+218,2024-11-06,Charlotte Hornets,Detroit Pistons,Home,19:00,108,107,W
+219,2024-11-06,Chicago Bulls,Dallas Mavericks,Away,20:30,99,119,L
+220,2024-11-06,Cleveland Cavaliers,New Orleans Pelicans,Away,20:00,131,122,W
+221,2024-11-06,Dallas Mavericks,Chicago Bulls,Home,20:30,119,99,W
+222,2024-11-06,Denver Nuggets,Oklahoma City Thunder,Home,21:00,124,122,W
+223,2024-11-06,Detroit Pistons,Charlotte Hornets,Away,19:00,107,108,L
+224,2024-11-06,Golden State Warriors,Boston Celtics,Away,19:30,118,112,W
+225,2024-11-06,Houston Rockets,San Antonio Spurs,Home,20:00,127,100,W
+226,2024-11-06,Indiana Pacers,Orlando Magic,Home,19:00,118,111,W
+227,2024-11-06,Los Angeles Clippers,Philadelphia 76ers,Home,22:00,110,98,W
+228,2024-11-06,Los Angeles Lakers,Memphis Grizzlies,Away,20:00,114,131,L
+229,2024-11-06,Memphis Grizzlies,Los Angeles Lakers,Home,20:00,131,114,W
+230,2024-11-06,Miami Heat,Phoenix Suns,Away,21:00,112,115,L
+231,2024-11-06,New Orleans Pelicans,Cleveland Cavaliers,Home,20:00,122,131,L
+232,2024-11-06,New York Knicks,Atlanta Hawks,Away,19:30,116,121,L
+233,2024-11-06,Oklahoma City Thunder,Denver Nuggets,Away,21:00,122,124,L
+234,2024-11-06,Orlando Magic,Indiana Pacers,Away,19:00,111,118,L
+235,2024-11-06,Philadelphia 76ers,Los Angeles Clippers,Away,22:00,98,110,L
+236,2024-11-06,Phoenix Suns,Miami Heat,Home,21:00,115,112,W
+237,2024-11-06,Sacramento Kings,Toronto Raptors,Home,22:00,122,107,W
+238,2024-11-06,San Antonio Spurs,Houston Rockets,Away,20:00,100,127,L
+239,2024-11-06,Toronto Raptors,Sacramento Kings,Away,22:00,107,122,L
+240,2024-11-07,Chicago Bulls,Minnesota Timberwolves,Home,20:00,119,135,L
+241,2024-11-07,Milwaukee Bucks,Utah Jazz,Home,20:00,123,100,W
+242,2024-11-07,Minnesota Timberwolves,Chicago Bulls,Away,20:00,135,119,W
+243,2024-11-07,Portland Trail Blazers,San Antonio Spurs,Away,20:00,105,118,L
+244,2024-11-07,San Antonio Spurs,Portland Trail Blazers,Home,20:00,118,105,W
+245,2024-11-07,Utah Jazz,Milwaukee Bucks,Away,20:00,100,123,L
+246,2024-11-08,Atlanta Hawks,Detroit Pistons,Away,19:00,121,122,L
+247,2024-11-08,Boston Celtics,Brooklyn Nets,Home,19:30,108,104,W
+248,2024-11-08,Brooklyn Nets,Boston Celtics,Away,19:30,104,108,L
+249,2024-11-08,Charlotte Hornets,Indiana Pacers,Home,19:00,103,83,W
+250,2024-11-08,Cleveland Cavaliers,Golden State Warriors,Home,19:30,136,117,W
+251,2024-11-08,Dallas Mavericks,Phoenix Suns,Home,19:30,113,114,L
+252,2024-11-08,Denver Nuggets,Miami Heat,Home,21:00,135,122,W
+253,2024-11-08,Detroit Pistons,Atlanta Hawks,Home,19:00,122,121,W
+254,2024-11-08,Golden State Warriors,Cleveland Cavaliers,Away,19:30,117,136,L
+255,2024-11-08,Houston Rockets,Oklahoma City Thunder,Away,20:00,107,126,L
+256,2024-11-08,Indiana Pacers,Charlotte Hornets,Away,19:00,83,103,L
+257,2024-11-08,Los Angeles Clippers,Sacramento Kings,Away,22:00,107,98,W
+258,2024-11-08,Los Angeles Lakers,Philadelphia 76ers,Home,22:00,116,106,W
+259,2024-11-08,Memphis Grizzlies,Washington Wizards,Home,20:00,128,104,W
+260,2024-11-08,Miami Heat,Denver Nuggets,Away,21:00,122,135,L
+261,2024-11-08,Milwaukee Bucks,New York Knicks,Away,19:30,94,116,L
+262,2024-11-08,Minnesota Timberwolves,Portland Trail Blazers,Home,21:00,127,102,W
+263,2024-11-08,New Orleans Pelicans,Orlando Magic,Away,19:00,88,115,L
+264,2024-11-08,New York Knicks,Milwaukee Bucks,Home,19:30,116,94,W
+265,2024-11-08,Oklahoma City Thunder,Houston Rockets,Home,20:00,126,107,W
+266,2024-11-08,Orlando Magic,New Orleans Pelicans,Home,19:00,115,88,W
+267,2024-11-08,Philadelphia 76ers,Los Angeles Lakers,Away,22:00,106,116,L
+268,2024-11-08,Phoenix Suns,Dallas Mavericks,Away,19:30,114,113,W
+269,2024-11-08,Portland Trail Blazers,Minnesota Timberwolves,Away,21:00,102,127,L
+270,2024-11-08,Sacramento Kings,Los Angeles Clippers,Home,22:00,98,107,L
+271,2024-11-08,Washington Wizards,Memphis Grizzlies,Away,20:00,104,128,L
+272,2024-11-09,Atlanta Hawks,Chicago Bulls,Home,19:30,113,125,L
+273,2024-11-09,Brooklyn Nets,Cleveland Cavaliers,Away,19:30,100,105,L
+274,2024-11-09,Chicago Bulls,Atlanta Hawks,Away,19:30,125,113,W
+275,2024-11-09,Cleveland Cavaliers,Brooklyn Nets,Home,19:30,105,100,W
+276,2024-11-09,Los Angeles Clippers,Toronto Raptors,Home,22:30,105,103,W
+277,2024-11-09,San Antonio Spurs,Utah Jazz,Home,17:00,110,111,L
+278,2024-11-09,Toronto Raptors,Los Angeles Clippers,Away,22:30,103,105,L
+279,2024-11-09,Utah Jazz,San Antonio Spurs,Away,17:00,111,110,W
+280,2024-11-10,Boston Celtics,Milwaukee Bucks,Away,15:30,113,107,W
+281,2024-11-10,Charlotte Hornets,Philadelphia 76ers,Away,19:00,105,107,L
+282,2024-11-10,Dallas Mavericks,Denver Nuggets,Away,20:00,120,122,L
+283,2024-11-10,Denver Nuggets,Dallas Mavericks,Home,20:00,122,120,W
+284,2024-11-10,Detroit Pistons,Houston Rockets,Home,15:00,99,101,L
+285,2024-11-10,Golden State Warriors,Oklahoma City Thunder,Away,19:00,127,116,W
+286,2024-11-10,Houston Rockets,Detroit Pistons,Away,15:00,101,99,W
+287,2024-11-10,Indiana Pacers,New York Knicks,Home,17:00,132,121,W
+288,2024-11-10,Los Angeles Lakers,Toronto Raptors,Home,21:30,123,103,W
+289,2024-11-10,Memphis Grizzlies,Portland Trail Blazers,Away,21:00,134,89,W
+290,2024-11-10,Miami Heat,Minnesota Timberwolves,Away,19:00,95,94,W
+291,2024-11-10,Milwaukee Bucks,Boston Celtics,Home,15:30,107,113,L
+292,2024-11-10,Minnesota Timberwolves,Miami Heat,Home,19:00,94,95,L
+293,2024-11-10,New York Knicks,Indiana Pacers,Away,17:00,121,132,L
+294,2024-11-10,Oklahoma City Thunder,Golden State Warriors,Home,19:00,116,127,L
+295,2024-11-10,Orlando Magic,Washington Wizards,Home,18:00,121,94,W
+296,2024-11-10,Philadelphia 76ers,Charlotte Hornets,Home,19:00,107,105,W
+297,2024-11-10,Phoenix Suns,Sacramento Kings,Home,20:00,118,127,L
+298,2024-11-10,Portland Trail Blazers,Memphis Grizzlies,Home,21:00,89,134,L
+299,2024-11-10,Sacramento Kings,Phoenix Suns,Away,20:00,127,118,W
+300,2024-11-10,Toronto Raptors,Los Angeles Lakers,Away,21:30,103,123,L
+301,2024-11-10,Washington Wizards,Orlando Magic,Away,18:00,94,121,L
+302,2024-11-11,Brooklyn Nets,New Orleans Pelicans,Away,20:00,107,105,W
+303,2024-11-11,Chicago Bulls,Cleveland Cavaliers,Home,20:00,113,119,L
+304,2024-11-11,Cleveland Cavaliers,Chicago Bulls,Away,20:00,119,113,W
+305,2024-11-11,Houston Rockets,Washington Wizards,Home,20:00,107,92,W
+306,2024-11-11,Los Angeles Clippers,Oklahoma City Thunder,Away,20:00,128,134,L
+307,2024-11-11,New Orleans Pelicans,Brooklyn Nets,Home,20:00,105,107,L
+308,2024-11-11,Oklahoma City Thunder,Los Angeles Clippers,Home,20:00,134,128,W
+309,2024-11-11,Sacramento Kings,San Antonio Spurs,Away,20:00,96,116,L
+310,2024-11-11,San Antonio Spurs,Sacramento Kings,Home,20:00,116,96,W
+311,2024-11-11,Washington Wizards,Houston Rockets,Away,20:00,92,107,L
+312,2024-11-12,Atlanta Hawks,Boston Celtics,Away,19:00,117,116,W
+313,2024-11-12,Boston Celtics,Atlanta Hawks,Home,19:00,116,117,L
+314,2024-11-12,Charlotte Hornets,Orlando Magic,Away,19:00,89,114,L
+315,2024-11-12,Dallas Mavericks,Golden State Warriors,Away,22:00,117,120,L
+316,2024-11-12,Detroit Pistons,Miami Heat,Home,19:00,123,121,W
+317,2024-11-12,Golden State Warriors,Dallas Mavericks,Home,22:00,120,117,W
+318,2024-11-12,Miami Heat,Detroit Pistons,Away,19:00,121,123,L
+319,2024-11-12,Milwaukee Bucks,Toronto Raptors,Home,20:00,99,85,W
+320,2024-11-12,Minnesota Timberwolves,Portland Trail Blazers,Away,22:00,108,122,L
+321,2024-11-12,New York Knicks,Philadelphia 76ers,Away,19:30,111,99,W
+322,2024-11-12,Orlando Magic,Charlotte Hornets,Home,19:00,114,89,W
+323,2024-11-12,Philadelphia 76ers,New York Knicks,Home,19:30,99,111,L
+324,2024-11-12,Phoenix Suns,Utah Jazz,Away,21:00,120,112,W
+325,2024-11-12,Portland Trail Blazers,Minnesota Timberwolves,Home,22:00,122,108,W
+326,2024-11-12,Toronto Raptors,Milwaukee Bucks,Away,20:00,85,99,L
+327,2024-11-12,Utah Jazz,Phoenix Suns,Home,21:00,112,120,L
+328,2024-11-13,Boston Celtics,Brooklyn Nets,Away,19:30,139,114,W
+329,2024-11-13,Brooklyn Nets,Boston Celtics,Home,19:30,114,139,L
+330,2024-11-13,Chicago Bulls,New York Knicks,Away,19:30,124,123,W
+331,2024-11-13,Cleveland Cavaliers,Philadelphia 76ers,Away,19:30,114,106,W
+332,2024-11-13,Detroit Pistons,Milwaukee Bucks,Away,20:00,120,127,L
+333,2024-11-13,Houston Rockets,Los Angeles Clippers,Home,20:00,111,103,W
+334,2024-11-13,Indiana Pacers,Orlando Magic,Away,19:00,90,94,L
+335,2024-11-13,Los Angeles Clippers,Houston Rockets,Away,20:00,103,111,L
+336,2024-11-13,Los Angeles Lakers,Memphis Grizzlies,Home,22:00,128,123,W
+337,2024-11-13,Memphis Grizzlies,Los Angeles Lakers,Away,22:00,123,128,L
+338,2024-11-13,Milwaukee Bucks,Detroit Pistons,Home,20:00,127,120,W
+339,2024-11-13,Minnesota Timberwolves,Portland Trail Blazers,Away,22:00,98,106,L
+340,2024-11-13,New Orleans Pelicans,Oklahoma City Thunder,Away,19:30,88,106,L
+341,2024-11-13,New York Knicks,Chicago Bulls,Home,19:30,123,124,L
+342,2024-11-13,Oklahoma City Thunder,New Orleans Pelicans,Home,19:30,106,88,W
+343,2024-11-13,Orlando Magic,Indiana Pacers,Home,19:00,94,90,W
+344,2024-11-13,Philadelphia 76ers,Cleveland Cavaliers,Home,19:30,106,114,L
+345,2024-11-13,Phoenix Suns,Sacramento Kings,Away,22:00,104,127,L
+346,2024-11-13,Portland Trail Blazers,Minnesota Timberwolves,Home,22:00,106,98,W
+347,2024-11-13,Sacramento Kings,Phoenix Suns,Home,22:00,127,104,W
+348,2024-11-13,San Antonio Spurs,Washington Wizards,Home,20:00,139,130,W
+349,2024-11-13,Washington Wizards,San Antonio Spurs,Away,20:00,130,139,L
+350,2024-11-14,Dallas Mavericks,Utah Jazz,Away,21:00,113,115,L
+351,2024-11-14,Utah Jazz,Dallas Mavericks,Home,21:00,115,113,W
+352,2024-11-15,Atlanta Hawks,Washington Wizards,Home,19:30,129,117,W
+353,2024-11-15,Brooklyn Nets,New York Knicks,Away,19:30,122,124,L
+354,2024-11-15,Chicago Bulls,Cleveland Cavaliers,Away,19:30,126,144,L
+355,2024-11-15,Cleveland Cavaliers,Chicago Bulls,Home,19:30,144,126,W
+356,2024-11-15,Denver Nuggets,New Orleans Pelicans,Away,20:00,94,101,L
+357,2024-11-15,Detroit Pistons,Toronto Raptors,Away,19:00,99,95,W
+358,2024-11-15,Golden State Warriors,Memphis Grizzlies,Home,22:00,123,118,W
+359,2024-11-15,Houston Rockets,Los Angeles Clippers,Home,20:00,125,104,W
+360,2024-11-15,Indiana Pacers,Miami Heat,Home,19:00,111,124,L
+361,2024-11-15,Los Angeles Clippers,Houston Rockets,Away,20:00,104,125,L
+362,2024-11-15,Los Angeles Lakers,San Antonio Spurs,Away,19:30,120,115,W
+363,2024-11-15,Memphis Grizzlies,Golden State Warriors,Away,22:00,118,123,L
+364,2024-11-15,Miami Heat,Indiana Pacers,Away,19:00,124,111,W
+365,2024-11-15,Minnesota Timberwolves,Sacramento Kings,Away,22:00,130,126,W
+366,2024-11-15,New Orleans Pelicans,Denver Nuggets,Home,20:00,101,94,W
+367,2024-11-15,New York Knicks,Brooklyn Nets,Home,19:30,124,122,W
+368,2024-11-15,Oklahoma City Thunder,Phoenix Suns,Home,20:00,99,83,W
+369,2024-11-15,Orlando Magic,Philadelphia 76ers,Home,19:00,98,86,W
+370,2024-11-15,Philadelphia 76ers,Orlando Magic,Away,19:00,86,98,L
+371,2024-11-15,Phoenix Suns,Oklahoma City Thunder,Away,20:00,83,99,L
+372,2024-11-15,Sacramento Kings,Minnesota Timberwolves,Home,22:00,126,130,L
+373,2024-11-15,San Antonio Spurs,Los Angeles Lakers,Home,19:30,115,120,L
+374,2024-11-15,Toronto Raptors,Detroit Pistons,Home,19:00,95,99,L
+375,2024-11-15,Washington Wizards,Atlanta Hawks,Away,19:30,117,129,L
+376,2024-11-16,Boston Celtics,Toronto Raptors,Home,20:00,126,123,W
+377,2024-11-16,Charlotte Hornets,Milwaukee Bucks,Home,15:00,115,114,W
+378,2024-11-16,Dallas Mavericks,San Antonio Spurs,Home,20:30,110,93,W
+379,2024-11-16,Los Angeles Lakers,New Orleans Pelicans,Away,20:00,104,99,W
+380,2024-11-16,Milwaukee Bucks,Charlotte Hornets,Away,15:00,114,115,L
+381,2024-11-16,New Orleans Pelicans,Los Angeles Lakers,Home,20:00,99,104,L
+382,2024-11-16,Sacramento Kings,Utah Jazz,Home,22:00,121,117,W
+383,2024-11-16,San Antonio Spurs,Dallas Mavericks,Away,20:30,93,110,L
+384,2024-11-16,Toronto Raptors,Boston Celtics,Away,20:00,123,126,L
+385,2024-11-16,Utah Jazz,Sacramento Kings,Away,22:00,117,121,L
+386,2024-11-17,Atlanta Hawks,Portland Trail Blazers,Away,18:00,110,114,L
+387,2024-11-17,Brooklyn Nets,New York Knicks,Away,19:00,104,114,L
+388,2024-11-17,Charlotte Hornets,Cleveland Cavaliers,Away,18:00,114,128,L
+389,2024-11-17,Chicago Bulls,Houston Rockets,Home,19:00,107,143,L
+390,2024-11-17,Cleveland Cavaliers,Charlotte Hornets,Home,18:00,128,114,W
+391,2024-11-17,Dallas Mavericks,Oklahoma City Thunder,Away,19:00,121,119,W
+392,2024-11-17,Denver Nuggets,Memphis Grizzlies,Away,18:00,90,105,L
+393,2024-11-17,Detroit Pistons,Washington Wizards,Away,18:00,124,104,W
+394,2024-11-17,Houston Rockets,Chicago Bulls,Away,19:00,143,107,W
+395,2024-11-17,Indiana Pacers,Miami Heat,Home,17:00,119,110,W
+396,2024-11-17,Los Angeles Clippers,Utah Jazz,Home,21:00,116,105,W
+397,2024-11-17,Memphis Grizzlies,Denver Nuggets,Home,18:00,105,90,W
+398,2024-11-17,Miami Heat,Indiana Pacers,Away,17:00,110,119,L
+399,2024-11-17,Minnesota Timberwolves,Phoenix Suns,Home,15:30,120,117,W
+400,2024-11-17,New York Knicks,Brooklyn Nets,Home,19:00,114,104,W
+401,2024-11-17,Oklahoma City Thunder,Dallas Mavericks,Home,19:00,119,121,L
+402,2024-11-17,Phoenix Suns,Minnesota Timberwolves,Away,15:30,117,120,L
+403,2024-11-17,Portland Trail Blazers,Atlanta Hawks,Home,18:00,114,110,W
+404,2024-11-17,Utah Jazz,Los Angeles Clippers,Away,21:00,105,116,L
+405,2024-11-17,Washington Wizards,Detroit Pistons,Home,18:00,104,124,L
+406,2024-11-18,Atlanta Hawks,Sacramento Kings,Away,22:00,109,108,W
+407,2024-11-18,Chicago Bulls,Detroit Pistons,Away,19:00,122,112,W
+408,2024-11-18,Detroit Pistons,Chicago Bulls,Home,19:00,112,122,L
+409,2024-11-18,Golden State Warriors,Los Angeles Clippers,Away,22:30,99,102,L
+410,2024-11-18,Houston Rockets,Milwaukee Bucks,Away,20:00,100,101,L
+411,2024-11-18,Indiana Pacers,Toronto Raptors,Away,19:30,119,130,L
+412,2024-11-18,Los Angeles Clippers,Golden State Warriors,Home,22:30,102,99,W
+413,2024-11-18,Miami Heat,Philadelphia 76ers,Home,19:30,106,89,W
+414,2024-11-18,Milwaukee Bucks,Houston Rockets,Home,20:00,101,100,W
+415,2024-11-18,New York Knicks,Washington Wizards,Home,19:30,134,106,W
+416,2024-11-18,Orlando Magic,Phoenix Suns,Away,21:00,109,99,W
+417,2024-11-18,Philadelphia 76ers,Miami Heat,Away,19:30,89,106,L
+418,2024-11-18,Phoenix Suns,Orlando Magic,Home,21:00,99,109,L
+419,2024-11-18,Sacramento Kings,Atlanta Hawks,Home,22:00,108,109,L
+420,2024-11-18,Toronto Raptors,Indiana Pacers,Home,19:30,130,119,W
+421,2024-11-18,Washington Wizards,New York Knicks,Away,19:30,106,134,L
+422,2024-11-19,Boston Celtics,Cleveland Cavaliers,Home,19:00,120,117,W
+423,2024-11-19,Brooklyn Nets,Charlotte Hornets,Home,19:30,116,115,W
+424,2024-11-19,Charlotte Hornets,Brooklyn Nets,Away,19:30,115,116,L
+425,2024-11-19,Cleveland Cavaliers,Boston Celtics,Away,19:00,117,120,L
+426,2024-11-19,Dallas Mavericks,New Orleans Pelicans,Home,20:30,132,91,W
+427,2024-11-19,Denver Nuggets,Memphis Grizzlies,Away,20:00,122,110,W
+428,2024-11-19,Los Angeles Lakers,Utah Jazz,Home,22:30,124,118,W
+429,2024-11-19,Memphis Grizzlies,Denver Nuggets,Home,20:00,110,122,L
+430,2024-11-19,New Orleans Pelicans,Dallas Mavericks,Away,20:30,91,132,L
+431,2024-11-19,Oklahoma City Thunder,San Antonio Spurs,Away,21:30,104,110,L
+432,2024-11-19,San Antonio Spurs,Oklahoma City Thunder,Home,21:30,110,104,W
+433,2024-11-19,Utah Jazz,Los Angeles Lakers,Away,22:30,118,124,L
+434,2024-11-20,Atlanta Hawks,Golden State Warriors,Away,22:00,97,120,L
+435,2024-11-20,Chicago Bulls,Milwaukee Bucks,Away,19:30,106,122,L
+436,2024-11-20,Cleveland Cavaliers,New Orleans Pelicans,Home,19:30,128,100,W
+437,2024-11-20,Golden State Warriors,Atlanta Hawks,Home,22:00,120,97,W
+438,2024-11-20,Houston Rockets,Indiana Pacers,Home,20:00,130,113,W
+439,2024-11-20,Indiana Pacers,Houston Rockets,Away,20:00,113,130,L
+440,2024-11-20,Los Angeles Clippers,Orlando Magic,Home,22:30,104,93,W
+441,2024-11-20,Memphis Grizzlies,Philadelphia 76ers,Home,20:00,117,111,W
+442,2024-11-20,Milwaukee Bucks,Chicago Bulls,Home,19:30,122,106,W
+443,2024-11-20,New Orleans Pelicans,Cleveland Cavaliers,Away,19:30,100,128,L
+444,2024-11-20,New York Knicks,Phoenix Suns,Away,22:00,138,122,W
+445,2024-11-20,Oklahoma City Thunder,Portland Trail Blazers,Home,20:00,109,99,W
+446,2024-11-20,Orlando Magic,Los Angeles Clippers,Away,22:30,93,104,L
+447,2024-11-20,Philadelphia 76ers,Memphis Grizzlies,Away,20:00,111,117,L
+448,2024-11-20,Phoenix Suns,New York Knicks,Home,22:00,122,138,L
+449,2024-11-20,Portland Trail Blazers,Oklahoma City Thunder,Away,20:00,99,109,L
+450,2024-11-21,Charlotte Hornets,Detroit Pistons,Home,19:00,123,121,W
+451,2024-11-21,Detroit Pistons,Charlotte Hornets,Away,19:00,121,123,L
+452,2024-11-21,Los Angeles Lakers,Orlando Magic,Home,22:30,118,119,L
+453,2024-11-21,Minnesota Timberwolves,Toronto Raptors,Away,19:30,105,110,L
+454,2024-11-21,Orlando Magic,Los Angeles Lakers,Away,22:30,119,118,W
+455,2024-11-21,San Antonio Spurs,Utah Jazz,Home,20:00,126,118,W
+456,2024-11-21,Toronto Raptors,Minnesota Timberwolves,Home,19:30,110,105,W
+457,2024-11-21,Utah Jazz,San Antonio Spurs,Away,20:00,118,126,L
+458,2024-11-22,Atlanta Hawks,Chicago Bulls,Away,20:00,122,136,L
+459,2024-11-22,Boston Celtics,Washington Wizards,Away,19:00,108,96,W
+460,2024-11-22,Brooklyn Nets,Philadelphia 76ers,Away,19:00,98,113,L
+461,2024-11-22,Chicago Bulls,Atlanta Hawks,Home,20:00,136,122,W
+462,2024-11-22,Dallas Mavericks,Denver Nuggets,Away,22:00,123,120,W
+463,2024-11-22,Denver Nuggets,Dallas Mavericks,Home,22:00,120,123,L
+464,2024-11-22,Golden State Warriors,New Orleans Pelicans,Away,19:30,112,108,W
+465,2024-11-22,Houston Rockets,Portland Trail Blazers,Home,20:00,116,88,W
+466,2024-11-22,Indiana Pacers,Milwaukee Bucks,Away,20:00,117,129,L
+467,2024-11-22,Los Angeles Clippers,Sacramento Kings,Home,22:30,104,88,W
+468,2024-11-22,Milwaukee Bucks,Indiana Pacers,Home,20:00,129,117,W
+469,2024-11-22,New Orleans Pelicans,Golden State Warriors,Home,19:30,108,112,L
+470,2024-11-22,Philadelphia 76ers,Brooklyn Nets,Home,19:00,113,98,W
+471,2024-11-22,Portland Trail Blazers,Houston Rockets,Away,20:00,88,116,L
+472,2024-11-22,Sacramento Kings,Los Angeles Clippers,Away,22:30,88,104,L
+473,2024-11-22,Washington Wizards,Boston Celtics,Home,19:00,96,108,L
+474,2024-11-23,Charlotte Hornets,Milwaukee Bucks,Away,20:00,119,125,L
+475,2024-11-23,Chicago Bulls,Memphis Grizzlies,Home,20:00,131,142,L
+476,2024-11-23,Denver Nuggets,Los Angeles Lakers,Away,22:30,127,102,W
+477,2024-11-23,Detroit Pistons,Orlando Magic,Away,19:00,100,111,L
+478,2024-11-23,Golden State Warriors,San Antonio Spurs,Away,20:30,94,104,L
+479,2024-11-23,Houston Rockets,Portland Trail Blazers,Home,20:00,98,104,L
+480,2024-11-23,Los Angeles Lakers,Denver Nuggets,Home,22:30,102,127,L
+481,2024-11-23,Memphis Grizzlies,Chicago Bulls,Away,20:00,142,131,W
+482,2024-11-23,Milwaukee Bucks,Charlotte Hornets,Home,20:00,125,119,W
+483,2024-11-23,New York Knicks,Utah Jazz,Away,17:00,106,121,L
+484,2024-11-23,Orlando Magic,Detroit Pistons,Home,19:00,111,100,W
+485,2024-11-23,Portland Trail Blazers,Houston Rockets,Away,20:00,104,98,W
+486,2024-11-23,San Antonio Spurs,Golden State Warriors,Home,20:30,104,94,W
+487,2024-11-23,Utah Jazz,New York Knicks,Home,17:00,121,106,W
+488,2024-11-24,Boston Celtics,Minnesota Timberwolves,Home,15:30,107,105,W
+489,2024-11-24,Brooklyn Nets,Sacramento Kings,Away,21:00,108,103,W
+490,2024-11-24,Cleveland Cavaliers,Toronto Raptors,Home,19:30,122,108,W
+491,2024-11-24,Dallas Mavericks,Miami Heat,Away,18:00,118,123,L
+492,2024-11-24,Indiana Pacers,Washington Wizards,Home,17:00,115,103,W
+493,2024-11-24,Los Angeles Clippers,Philadelphia 76ers,Away,18:00,125,99,W
+494,2024-11-24,Miami Heat,Dallas Mavericks,Home,18:00,123,118,W
+495,2024-11-24,Minnesota Timberwolves,Boston Celtics,Away,15:30,105,107,L
+496,2024-11-24,Philadelphia 76ers,Los Angeles Clippers,Home,18:00,99,125,L
+497,2024-11-24,Sacramento Kings,Brooklyn Nets,Home,21:00,103,108,L
+498,2024-11-24,Toronto Raptors,Cleveland Cavaliers,Away,19:30,108,122,L
+499,2024-11-24,Washington Wizards,Indiana Pacers,Away,17:00,103,115,L
+500,2024-11-25,Atlanta Hawks,Dallas Mavericks,Home,19:30,119,129,L
+501,2024-11-25,Boston Celtics,Los Angeles Clippers,Home,19:30,126,94,W
+502,2024-11-25,Brooklyn Nets,Golden State Warriors,Away,22:00,128,120,W
+503,2024-11-25,Charlotte Hornets,Orlando Magic,Home,19:00,84,95,L
+504,2024-11-25,Dallas Mavericks,Atlanta Hawks,Away,19:30,129,119,W
+505,2024-11-25,Denver Nuggets,New York Knicks,Home,21:00,118,145,L
+506,2024-11-25,Detroit Pistons,Toronto Raptors,Home,19:00,102,100,W
+507,2024-11-25,Golden State Warriors,Brooklyn Nets,Home,22:00,120,128,L
+508,2024-11-25,Indiana Pacers,New Orleans Pelicans,Home,19:00,114,110,W
+509,2024-11-25,Los Angeles Clippers,Boston Celtics,Away,19:30,94,126,L
+510,2024-11-25,Memphis Grizzlies,Portland Trail Blazers,Home,20:00,123,98,W
+511,2024-11-25,New Orleans Pelicans,Indiana Pacers,Away,19:00,110,114,L
+512,2024-11-25,New York Knicks,Denver Nuggets,Away,21:00,145,118,W
+513,2024-11-25,Oklahoma City Thunder,Sacramento Kings,Away,22:00,130,109,W
+514,2024-11-25,Orlando Magic,Charlotte Hornets,Away,19:00,95,84,W
+515,2024-11-25,Portland Trail Blazers,Memphis Grizzlies,Away,20:00,98,123,L
+516,2024-11-25,Sacramento Kings,Oklahoma City Thunder,Home,22:00,109,130,L
+517,2024-11-25,Toronto Raptors,Detroit Pistons,Away,19:00,100,102,L
+518,2024-11-26,Chicago Bulls,Washington Wizards,Away,19:00,127,108,W
+519,2024-11-26,Houston Rockets,Minnesota Timberwolves,Away,20:00,117,111,W
+520,2024-11-26,Los Angeles Lakers,Phoenix Suns,Away,22:00,100,127,L
+521,2024-11-26,Miami Heat,Milwaukee Bucks,Home,19:30,103,106,L
+522,2024-11-26,Milwaukee Bucks,Miami Heat,Away,19:30,106,103,W
+523,2024-11-26,Minnesota Timberwolves,Houston Rockets,Home,20:00,111,117,L
+524,2024-11-26,Phoenix Suns,Los Angeles Lakers,Home,22:00,127,100,W
+525,2024-11-26,San Antonio Spurs,Utah Jazz,Away,21:00,128,115,W
+526,2024-11-26,Utah Jazz,San Antonio Spurs,Home,21:00,115,128,L
+527,2024-11-26,Washington Wizards,Chicago Bulls,Home,19:00,108,127,L
+528,2024-11-27,Atlanta Hawks,Cleveland Cavaliers,Away,19:00,135,124,W
+529,2024-11-27,Brooklyn Nets,Phoenix Suns,Away,21:00,127,117,W
+530,2024-11-27,Charlotte Hornets,Miami Heat,Home,19:00,94,98,L
+531,2024-11-27,Chicago Bulls,Orlando Magic,Away,19:00,119,133,L
+532,2024-11-27,Cleveland Cavaliers,Atlanta Hawks,Home,19:00,124,135,L
+533,2024-11-27,Dallas Mavericks,New York Knicks,Home,19:30,129,114,W
+534,2024-11-27,Denver Nuggets,Utah Jazz,Away,21:00,122,103,W
+535,2024-11-27,Detroit Pistons,Memphis Grizzlies,Away,20:00,111,131,L
+536,2024-11-27,Golden State Warriors,Oklahoma City Thunder,Home,22:00,101,105,L
+537,2024-11-27,Houston Rockets,Philadelphia 76ers,Away,19:00,122,115,W
+538,2024-11-27,Indiana Pacers,Portland Trail Blazers,Home,19:00,121,114,W
+539,2024-11-27,Los Angeles Clippers,Washington Wizards,Away,19:00,121,96,W
+540,2024-11-27,Los Angeles Lakers,San Antonio Spurs,Away,20:30,119,101,W
+541,2024-11-27,Memphis Grizzlies,Detroit Pistons,Home,20:00,131,111,W
+542,2024-11-27,Miami Heat,Charlotte Hornets,Away,19:00,98,94,W
+543,2024-11-27,Minnesota Timberwolves,Sacramento Kings,Home,20:00,104,115,L
+544,2024-11-27,New Orleans Pelicans,Toronto Raptors,Home,20:00,93,119,L
+545,2024-11-27,New York Knicks,Dallas Mavericks,Away,19:30,114,129,L
+546,2024-11-27,Oklahoma City Thunder,Golden State Warriors,Away,22:00,105,101,W
+547,2024-11-27,Orlando Magic,Chicago Bulls,Home,19:00,133,119,W
+548,2024-11-27,Philadelphia 76ers,Houston Rockets,Home,19:00,115,122,L
+549,2024-11-27,Phoenix Suns,Brooklyn Nets,Home,21:00,117,127,L
+550,2024-11-27,Portland Trail Blazers,Indiana Pacers,Away,19:00,114,121,L
+551,2024-11-27,Sacramento Kings,Minnesota Timberwolves,Away,20:00,115,104,W
+552,2024-11-27,San Antonio Spurs,Los Angeles Lakers,Home,20:30,101,119,L
+553,2024-11-27,Toronto Raptors,New Orleans Pelicans,Away,20:00,119,93,W
+554,2024-11-27,Utah Jazz,Denver Nuggets,Home,21:00,103,122,L
+555,2024-11-27,Washington Wizards,Los Angeles Clippers,Home,19:00,96,121,L
+556,2024-11-29,Atlanta Hawks,Cleveland Cavaliers,Home,14:30,117,101,W
+557,2024-11-29,Boston Celtics,Chicago Bulls,Away,20:00,138,129,W
+558,2024-11-29,Brooklyn Nets,Orlando Magic,Home,19:30,100,123,L
+559,2024-11-29,Charlotte Hornets,New York Knicks,Home,12:00,98,99,L
+560,2024-11-29,Chicago Bulls,Boston Celtics,Home,20:00,129,138,L
+561,2024-11-29,Cleveland Cavaliers,Atlanta Hawks,Away,14:30,101,117,L
+562,2024-11-29,Detroit Pistons,Indiana Pacers,Away,20:00,130,106,W
+563,2024-11-29,Indiana Pacers,Detroit Pistons,Home,20:00,106,130,L
+564,2024-11-29,Los Angeles Clippers,Minnesota Timberwolves,Away,19:30,92,93,L
+565,2024-11-29,Los Angeles Lakers,Oklahoma City Thunder,Home,22:00,93,101,L
+566,2024-11-29,Memphis Grizzlies,New Orleans Pelicans,Home,17:00,120,109,W
+567,2024-11-29,Miami Heat,Toronto Raptors,Home,20:00,121,111,W
+568,2024-11-29,Minnesota Timberwolves,Los Angeles Clippers,Home,19:30,93,92,W
+569,2024-11-29,New Orleans Pelicans,Memphis Grizzlies,Away,17:00,109,120,L
+570,2024-11-29,New York Knicks,Charlotte Hornets,Away,12:00,99,98,W
+571,2024-11-29,Oklahoma City Thunder,Los Angeles Lakers,Away,22:00,101,93,W
+572,2024-11-29,Orlando Magic,Brooklyn Nets,Away,19:30,123,100,W
+573,2024-11-29,Portland Trail Blazers,Sacramento Kings,Home,22:00,115,106,W
+574,2024-11-29,Sacramento Kings,Portland Trail Blazers,Away,22:00,106,115,L
+575,2024-11-29,Toronto Raptors,Miami Heat,Away,20:00,111,121,L
+576,2024-11-30,Atlanta Hawks,Charlotte Hornets,Away,18:00,107,104,W
+577,2024-11-30,Charlotte Hornets,Atlanta Hawks,Home,18:00,104,107,L
+578,2024-11-30,Dallas Mavericks,Utah Jazz,Away,21:30,106,94,W
+579,2024-11-30,Detroit Pistons,Philadelphia 76ers,Home,19:00,96,111,L
+580,2024-11-30,Golden State Warriors,Phoenix Suns,Away,21:00,105,113,L
+581,2024-11-30,Milwaukee Bucks,Washington Wizards,Home,20:00,124,114,W
+582,2024-11-30,Philadelphia 76ers,Detroit Pistons,Away,19:00,111,96,W
+583,2024-11-30,Phoenix Suns,Golden State Warriors,Home,21:00,113,105,W
+584,2024-11-30,Utah Jazz,Dallas Mavericks,Home,21:30,94,106,L
+585,2024-11-30,Washington Wizards,Milwaukee Bucks,Away,20:00,114,124,L
+586,2024-12-01,Boston Celtics,Cleveland Cavaliers,Away,18:00,111,115,L
+587,2024-12-01,Brooklyn Nets,Orlando Magic,Home,15:30,92,100,L
+588,2024-12-01,Cleveland Cavaliers,Boston Celtics,Home,18:00,115,111,W
+589,2024-12-01,Dallas Mavericks,Portland Trail Blazers,Away,21:00,137,131,W
+590,2024-12-01,Denver Nuggets,Los Angeles Clippers,Away,22:00,122,126,L
+591,2024-12-01,Houston Rockets,Oklahoma City Thunder,Home,19:00,119,116,W
+592,2024-12-01,Indiana Pacers,Memphis Grizzlies,Away,15:30,121,136,L
+593,2024-12-01,Los Angeles Clippers,Denver Nuggets,Home,22:00,126,122,W
+594,2024-12-01,Los Angeles Lakers,Utah Jazz,Away,20:00,105,104,W
+595,2024-12-01,Memphis Grizzlies,Indiana Pacers,Home,15:30,136,121,W
+596,2024-12-01,Miami Heat,Toronto Raptors,Away,18:00,116,119,L
+597,2024-12-01,New Orleans Pelicans,New York Knicks,Away,18:00,85,118,L
+598,2024-12-01,New York Knicks,New Orleans Pelicans,Home,18:00,118,85,W
+599,2024-12-01,Oklahoma City Thunder,Houston Rockets,Away,19:00,116,119,L
+600,2024-12-01,Orlando Magic,Brooklyn Nets,Away,15:30,100,92,W
+601,2024-12-01,Portland Trail Blazers,Dallas Mavericks,Home,21:00,131,137,L
+602,2024-12-01,Sacramento Kings,San Antonio Spurs,Home,21:00,125,127,L
+603,2024-12-01,San Antonio Spurs,Sacramento Kings,Away,21:00,127,125,W
+604,2024-12-01,Toronto Raptors,Miami Heat,Home,18:00,119,116,W
+605,2024-12-01,Utah Jazz,Los Angeles Lakers,Home,20:00,104,105,L
+606,2024-12-02,Atlanta Hawks,New Orleans Pelicans,Home,19:30,124,112,W
+607,2024-12-02,Boston Celtics,Miami Heat,Home,19:30,108,89,W
+608,2024-12-02,Brooklyn Nets,Chicago Bulls,Away,20:00,102,128,L
+609,2024-12-02,Chicago Bulls,Brooklyn Nets,Home,20:00,128,102,W
+610,2024-12-02,Los Angeles Lakers,Minnesota Timberwolves,Away,20:00,80,109,L
+611,2024-12-02,Miami Heat,Boston Celtics,Away,19:30,89,108,L
+612,2024-12-02,Minnesota Timberwolves,Los Angeles Lakers,Home,20:00,109,80,W
+613,2024-12-02,New Orleans Pelicans,Atlanta Hawks,Away,19:30,112,124,L
+614,2024-12-03,Charlotte Hornets,Philadelphia 76ers,Home,19:00,104,110,L
+615,2024-12-03,Cleveland Cavaliers,Washington Wizards,Home,19:00,118,87,W
+616,2024-12-03,Dallas Mavericks,Memphis Grizzlies,Home,20:30,121,116,W
+617,2024-12-03,Denver Nuggets,Golden State Warriors,Home,22:00,119,115,W
+618,2024-12-03,Detroit Pistons,Milwaukee Bucks,Home,19:00,107,128,L
+619,2024-12-03,Golden State Warriors,Denver Nuggets,Away,22:00,115,119,L
+620,2024-12-03,Houston Rockets,Sacramento Kings,Away,22:00,111,120,L
+621,2024-12-03,Indiana Pacers,Toronto Raptors,Away,19:30,111,122,L
+622,2024-12-03,Los Angeles Clippers,Portland Trail Blazers,Home,22:30,127,105,W
+623,2024-12-03,Memphis Grizzlies,Dallas Mavericks,Away,20:30,116,121,L
+624,2024-12-03,Milwaukee Bucks,Detroit Pistons,Away,19:00,128,107,W
+625,2024-12-03,New York Knicks,Orlando Magic,Home,19:30,121,106,W
+626,2024-12-03,Oklahoma City Thunder,Utah Jazz,Home,20:00,133,106,W
+627,2024-12-03,Orlando Magic,New York Knicks,Away,19:30,106,121,L
+628,2024-12-03,Philadelphia 76ers,Charlotte Hornets,Away,19:00,110,104,W
+629,2024-12-03,Phoenix Suns,San Antonio Spurs,Home,21:00,104,93,W
+630,2024-12-03,Portland Trail Blazers,Los Angeles Clippers,Away,22:30,105,127,L
+631,2024-12-03,Sacramento Kings,Houston Rockets,Home,22:00,120,111,W
+632,2024-12-03,San Antonio Spurs,Phoenix Suns,Away,21:00,93,104,L
+633,2024-12-03,Toronto Raptors,Indiana Pacers,Home,19:30,122,111,W
+634,2024-12-03,Utah Jazz,Oklahoma City Thunder,Away,20:00,106,133,L
+635,2024-12-03,Washington Wizards,Cleveland Cavaliers,Away,19:00,87,118,L
+636,2024-12-04,Atlanta Hawks,Milwaukee Bucks,Away,20:00,119,104,W
+637,2024-12-04,Boston Celtics,Detroit Pistons,Home,19:30,130,120,W
+638,2024-12-04,Brooklyn Nets,Indiana Pacers,Home,19:30,99,90,W
+639,2024-12-04,Detroit Pistons,Boston Celtics,Away,19:30,120,130,L
+640,2024-12-04,Indiana Pacers,Brooklyn Nets,Away,19:30,90,99,L
+641,2024-12-04,Los Angeles Clippers,Minnesota Timberwolves,Home,22:30,80,108,L
+642,2024-12-04,Los Angeles Lakers,Miami Heat,Away,19:30,93,134,L
+643,2024-12-04,Miami Heat,Los Angeles Lakers,Home,19:30,134,93,W
+644,2024-12-04,Milwaukee Bucks,Atlanta Hawks,Home,20:00,104,119,L
+645,2024-12-04,Minnesota Timberwolves,Los Angeles Clippers,Away,22:30,108,80,W
+646,2024-12-04,Orlando Magic,Philadelphia 76ers,Away,19:30,106,102,W
+647,2024-12-04,Philadelphia 76ers,Orlando Magic,Home,19:30,102,106,L
+648,2024-12-05,Charlotte Hornets,New York Knicks,Away,19:30,101,125,L
+649,2024-12-05,Chicago Bulls,San Antonio Spurs,Away,20:00,139,124,W
+650,2024-12-05,Cleveland Cavaliers,Denver Nuggets,Home,19:00,126,114,W
+651,2024-12-05,Dallas Mavericks,Washington Wizards,Away,19:00,137,101,W
+652,2024-12-05,Denver Nuggets,Cleveland Cavaliers,Away,19:00,114,126,L
+653,2024-12-05,Golden State Warriors,Houston Rockets,Home,22:00,99,93,W
+654,2024-12-05,Houston Rockets,Golden State Warriors,Away,22:00,93,99,L
+655,2024-12-05,Memphis Grizzlies,Sacramento Kings,Home,20:00,115,110,W
+656,2024-12-05,New Orleans Pelicans,Phoenix Suns,Home,20:00,126,124,W
+657,2024-12-05,New York Knicks,Charlotte Hornets,Home,19:30,125,101,W
+658,2024-12-05,Oklahoma City Thunder,Toronto Raptors,Away,19:30,129,92,W
+659,2024-12-05,Phoenix Suns,New Orleans Pelicans,Away,20:00,124,126,L
+660,2024-12-05,Sacramento Kings,Memphis Grizzlies,Away,20:00,110,115,L
+661,2024-12-05,San Antonio Spurs,Chicago Bulls,Home,20:00,124,139,L
+662,2024-12-05,Toronto Raptors,Oklahoma City Thunder,Home,19:30,92,129,L
+663,2024-12-05,Washington Wizards,Dallas Mavericks,Home,19:00,101,137,L
+664,2024-12-06,Atlanta Hawks,Los Angeles Lakers,Home,19:30,134,132,W
+665,2024-12-06,Boston Celtics,Milwaukee Bucks,Home,19:30,111,105,W
+666,2024-12-06,Chicago Bulls,Indiana Pacers,Home,20:00,123,132,L
+667,2024-12-06,Golden State Warriors,Minnesota Timberwolves,Home,22:00,90,107,L
+668,2024-12-06,Indiana Pacers,Chicago Bulls,Away,20:00,132,123,W
+669,2024-12-06,Los Angeles Lakers,Atlanta Hawks,Away,19:30,132,134,L
+670,2024-12-06,Milwaukee Bucks,Boston Celtics,Away,19:30,105,111,L
+671,2024-12-06,Minnesota Timberwolves,Golden State Warriors,Away,22:00,107,90,W
+672,2024-12-06,Orlando Magic,Philadelphia 76ers,Away,19:00,94,102,L
+673,2024-12-06,Philadelphia 76ers,Orlando Magic,Home,19:00,102,94,W
+674,2024-12-06,Portland Trail Blazers,Utah Jazz,Home,22:00,99,141,L
+675,2024-12-06,Sacramento Kings,San Antonio Spurs,Away,20:00,140,113,W
+676,2024-12-06,San Antonio Spurs,Sacramento Kings,Home,20:00,113,140,L
+677,2024-12-06,Utah Jazz,Portland Trail Blazers,Away,22:00,141,99,W
+678,2024-12-07,Boston Celtics,Memphis Grizzlies,Home,20:00,121,127,L
+679,2024-12-07,Charlotte Hornets,Cleveland Cavaliers,Home,13:00,102,116,L
+680,2024-12-07,Cleveland Cavaliers,Charlotte Hornets,Away,13:00,116,102,W
+681,2024-12-07,Dallas Mavericks,Toronto Raptors,Away,19:30,125,118,W
+682,2024-12-07,Denver Nuggets,Washington Wizards,Away,19:00,113,122,L
+683,2024-12-07,Detroit Pistons,New York Knicks,Away,19:30,120,111,W
+684,2024-12-07,Memphis Grizzlies,Boston Celtics,Away,20:00,127,121,W
+685,2024-12-07,Miami Heat,Phoenix Suns,Home,20:00,121,111,W
+686,2024-12-07,New Orleans Pelicans,Oklahoma City Thunder,Home,19:00,109,119,L
+687,2024-12-07,New York Knicks,Detroit Pistons,Home,19:30,111,120,L
+688,2024-12-07,Oklahoma City Thunder,New Orleans Pelicans,Away,19:00,119,109,W
+689,2024-12-07,Phoenix Suns,Miami Heat,Away,20:00,111,121,L
+690,2024-12-07,Toronto Raptors,Dallas Mavericks,Home,19:30,118,125,L
+691,2024-12-07,Washington Wizards,Denver Nuggets,Home,19:00,122,113,W
+692,2024-12-08,Atlanta Hawks,Denver Nuggets,Home,18:00,111,141,L
+693,2024-12-08,Brooklyn Nets,Milwaukee Bucks,Home,15:30,113,118,L
+694,2024-12-08,Charlotte Hornets,Indiana Pacers,Away,17:00,113,109,W
+695,2024-12-08,Chicago Bulls,Philadelphia 76ers,Home,13:00,100,108,L
+696,2024-12-08,Cleveland Cavaliers,Miami Heat,Away,18:00,113,122,L
+697,2024-12-08,Denver Nuggets,Atlanta Hawks,Away,18:00,141,111,W
+698,2024-12-08,Golden State Warriors,Minnesota Timberwolves,Home,20:30,114,106,W
+699,2024-12-08,Houston Rockets,Los Angeles Clippers,Away,21:00,117,106,W
+700,2024-12-08,Indiana Pacers,Charlotte Hornets,Home,17:00,109,113,L
+701,2024-12-08,Los Angeles Clippers,Houston Rockets,Home,21:00,106,117,L
+702,2024-12-08,Los Angeles Lakers,Portland Trail Blazers,Home,21:30,107,98,W
+703,2024-12-08,Memphis Grizzlies,Washington Wizards,Away,19:00,140,112,W
+704,2024-12-08,Miami Heat,Cleveland Cavaliers,Home,18:00,122,113,W
+705,2024-12-08,Milwaukee Bucks,Brooklyn Nets,Away,15:30,118,113,W
+706,2024-12-08,Minnesota Timberwolves,Golden State Warriors,Away,20:30,106,114,L
+707,2024-12-08,New Orleans Pelicans,San Antonio Spurs,Away,19:00,116,121,L
+708,2024-12-08,Orlando Magic,Phoenix Suns,Home,18:30,115,110,W
+709,2024-12-08,Philadelphia 76ers,Chicago Bulls,Away,13:00,108,100,W
+710,2024-12-08,Phoenix Suns,Orlando Magic,Away,18:30,110,115,L
+711,2024-12-08,Portland Trail Blazers,Los Angeles Lakers,Away,21:30,98,107,L
+712,2024-12-08,Sacramento Kings,Utah Jazz,Home,21:00,141,97,W
+713,2024-12-08,San Antonio Spurs,New Orleans Pelicans,Home,19:00,121,116,W
+714,2024-12-08,Utah Jazz,Sacramento Kings,Away,21:00,97,141,L
+715,2024-12-08,Washington Wizards,Memphis Grizzlies,Home,19:00,112,140,L
+716,2024-12-09,New York Knicks,Toronto Raptors,Away,19:30,113,108,W
+717,2024-12-09,Toronto Raptors,New York Knicks,Home,19:30,108,113,L
+718,2024-12-10,Dallas Mavericks,Oklahoma City Thunder,Away,21:30,104,118,L
+719,2024-12-10,Milwaukee Bucks,Orlando Magic,Home,19:00,114,109,W
+720,2024-12-10,Oklahoma City Thunder,Dallas Mavericks,Home,21:30,118,104,W
+721,2024-12-10,Orlando Magic,Milwaukee Bucks,Away,19:00,109,114,L
+722,2024-12-11,Atlanta Hawks,New York Knicks,Away,19:00,108,100,W
+723,2024-12-11,Golden State Warriors,Houston Rockets,Away,21:30,90,91,L
+724,2024-12-11,Houston Rockets,Golden State Warriors,Home,21:30,91,90,W
+725,2024-12-11,New York Knicks,Atlanta Hawks,Home,19:00,100,108,L
+726,2024-12-12,Boston Celtics,Detroit Pistons,Home,19:30,123,99,W
+727,2024-12-12,Detroit Pistons,Boston Celtics,Away,19:30,99,123,L
+728,2024-12-12,Miami Heat,Toronto Raptors,Home,19:30,114,104,W
+729,2024-12-12,New Orleans Pelicans,Sacramento Kings,Home,20:00,109,111,L
+730,2024-12-12,Sacramento Kings,New Orleans Pelicans,Away,20:00,111,109,W
+731,2024-12-12,Toronto Raptors,Miami Heat,Away,19:30,104,114,L
+732,2024-12-13,Brooklyn Nets,Memphis Grizzlies,Away,20:00,119,135,L
+733,2024-12-13,Charlotte Hornets,Chicago Bulls,Away,20:00,95,109,L
+734,2024-12-13,Chicago Bulls,Charlotte Hornets,Home,20:00,109,95,W
+735,2024-12-13,Cleveland Cavaliers,Washington Wizards,Home,19:00,115,105,W
+736,2024-12-13,Denver Nuggets,Los Angeles Clippers,Home,21:00,120,98,W
+737,2024-12-13,Indiana Pacers,Philadelphia 76ers,Away,19:00,121,107,W
+738,2024-12-13,Los Angeles Clippers,Denver Nuggets,Away,21:00,98,120,L
+739,2024-12-13,Los Angeles Lakers,Minnesota Timberwolves,Away,20:00,87,97,L
+740,2024-12-13,Memphis Grizzlies,Brooklyn Nets,Home,20:00,135,119,W
+741,2024-12-13,Minnesota Timberwolves,Los Angeles Lakers,Home,20:00,97,87,W
+742,2024-12-13,Philadelphia 76ers,Indiana Pacers,Home,19:00,107,121,L
+743,2024-12-13,Phoenix Suns,Utah Jazz,Away,21:30,134,126,W
+744,2024-12-13,Portland Trail Blazers,San Antonio Spurs,Home,22:00,116,118,L
+745,2024-12-13,San Antonio Spurs,Portland Trail Blazers,Away,22:00,118,116,W
+746,2024-12-13,Utah Jazz,Phoenix Suns,Home,21:30,126,134,L
+747,2024-12-13,Washington Wizards,Cleveland Cavaliers,Away,19:00,105,115,L
+748,2024-12-14,Atlanta Hawks,Milwaukee Bucks,Away,16:30,102,110,L
+749,2024-12-14,Houston Rockets,Oklahoma City Thunder,Away,20:30,96,111,L
+750,2024-12-14,Milwaukee Bucks,Atlanta Hawks,Home,16:30,110,102,W
+751,2024-12-14,Oklahoma City Thunder,Houston Rockets,Home,20:30,111,96,W
+752,2024-12-15,Boston Celtics,Washington Wizards,Away,18:00,112,98,W
+753,2024-12-15,Dallas Mavericks,Golden State Warriors,Away,20:30,143,133,W
+754,2024-12-15,Golden State Warriors,Dallas Mavericks,Home,20:30,133,143,L
+755,2024-12-15,Indiana Pacers,New Orleans Pelicans,Home,17:00,119,104,W
+756,2024-12-15,Los Angeles Lakers,Memphis Grizzlies,Home,21:30,116,110,W
+757,2024-12-15,Memphis Grizzlies,Los Angeles Lakers,Away,21:30,110,116,L
+758,2024-12-15,Minnesota Timberwolves,San Antonio Spurs,Away,19:00,106,92,W
+759,2024-12-15,New Orleans Pelicans,Indiana Pacers,Away,17:00,104,119,L
+760,2024-12-15,New York Knicks,Orlando Magic,Away,18:00,100,91,W
+761,2024-12-15,Orlando Magic,New York Knicks,Home,18:00,91,100,L
+762,2024-12-15,Phoenix Suns,Portland Trail Blazers,Home,20:00,116,109,W
+763,2024-12-15,Portland Trail Blazers,Phoenix Suns,Away,20:00,109,116,L
+764,2024-12-15,San Antonio Spurs,Minnesota Timberwolves,Home,19:00,92,106,L
+765,2024-12-15,Washington Wizards,Boston Celtics,Home,18:00,98,112,L
+766,2024-12-16,Brooklyn Nets,Cleveland Cavaliers,Home,19:30,101,130,L
+767,2024-12-16,Charlotte Hornets,Philadelphia 76ers,Home,19:00,108,121,L
+768,2024-12-16,Chicago Bulls,Toronto Raptors,Away,19:30,122,121,W
+769,2024-12-16,Cleveland Cavaliers,Brooklyn Nets,Away,19:30,130,101,W
+770,2024-12-16,Denver Nuggets,Sacramento Kings,Away,22:00,130,129,W
+771,2024-12-16,Detroit Pistons,Miami Heat,Home,19:00,125,124,W
+772,2024-12-16,Los Angeles Clippers,Utah Jazz,Home,22:30,144,107,W
+773,2024-12-16,Miami Heat,Detroit Pistons,Away,19:00,124,125,L
+774,2024-12-16,Philadelphia 76ers,Charlotte Hornets,Away,19:00,121,108,W
+775,2024-12-16,Sacramento Kings,Denver Nuggets,Home,22:00,129,130,L
+776,2024-12-16,Toronto Raptors,Chicago Bulls,Home,19:30,121,122,L
+777,2024-12-16,Utah Jazz,Los Angeles Clippers,Away,22:30,107,144,L
+778,2024-12-19,Atlanta Hawks,San Antonio Spurs,Away,20:00,126,133,L
+779,2024-12-19,Boston Celtics,Chicago Bulls,Home,19:30,108,117,L
+780,2024-12-19,Brooklyn Nets,Toronto Raptors,Away,19:30,101,94,W
+781,2024-12-19,Charlotte Hornets,Washington Wizards,Away,19:00,114,123,L
+782,2024-12-19,Chicago Bulls,Boston Celtics,Away,19:30,117,108,W
+783,2024-12-19,Dallas Mavericks,Los Angeles Clippers,Home,20:30,95,118,L
+784,2024-12-19,Denver Nuggets,Portland Trail Blazers,Away,22:00,124,126,L
+785,2024-12-19,Detroit Pistons,Utah Jazz,Home,19:00,119,126,L
+786,2024-12-19,Golden State Warriors,Memphis Grizzlies,Away,20:00,93,144,L
+787,2024-12-19,Houston Rockets,New Orleans Pelicans,Home,20:00,133,113,W
+788,2024-12-19,Indiana Pacers,Phoenix Suns,Away,21:00,120,111,W
+789,2024-12-19,Los Angeles Clippers,Dallas Mavericks,Away,20:30,118,95,W
+790,2024-12-19,Los Angeles Lakers,Sacramento Kings,Away,22:00,113,100,W
+791,2024-12-19,Memphis Grizzlies,Golden State Warriors,Home,20:00,144,93,W
+792,2024-12-19,Minnesota Timberwolves,New York Knicks,Home,21:30,107,133,L
+793,2024-12-19,New Orleans Pelicans,Houston Rockets,Away,20:00,113,133,L
+794,2024-12-19,New York Knicks,Minnesota Timberwolves,Away,21:30,133,107,W
+795,2024-12-19,Oklahoma City Thunder,Orlando Magic,Away,19:00,105,99,W
+796,2024-12-19,Orlando Magic,Oklahoma City Thunder,Home,19:00,99,105,L
+797,2024-12-19,Phoenix Suns,Indiana Pacers,Home,21:00,111,120,L
+798,2024-12-19,Portland Trail Blazers,Denver Nuggets,Home,22:00,126,124,W
+799,2024-12-19,Sacramento Kings,Los Angeles Lakers,Home,22:00,100,113,L
+800,2024-12-19,San Antonio Spurs,Atlanta Hawks,Home,20:00,133,126,W
+801,2024-12-19,Toronto Raptors,Brooklyn Nets,Home,19:30,94,101,L
+802,2024-12-19,Utah Jazz,Detroit Pistons,Away,19:00,126,119,W
+803,2024-12-19,Washington Wizards,Charlotte Hornets,Home,19:00,123,114,W
+804,2024-12-20,Charlotte Hornets,Philadelphia 76ers,Away,19:00,98,108,L
+805,2024-12-20,Cleveland Cavaliers,Milwaukee Bucks,Home,19:30,124,101,W
+806,2024-12-20,Miami Heat,Oklahoma City Thunder,Home,20:00,97,104,L
+807,2024-12-20,Milwaukee Bucks,Cleveland Cavaliers,Away,19:30,101,124,L
+808,2024-12-20,Oklahoma City Thunder,Miami Heat,Away,20:00,104,97,W
+809,2024-12-20,Philadelphia 76ers,Charlotte Hornets,Home,19:00,108,98,W
+810,2024-12-21,Atlanta Hawks,Memphis Grizzlies,Home,19:30,112,128,L
+811,2024-12-21,Boston Celtics,Chicago Bulls,Away,20:00,123,98,W
+812,2024-12-21,Brooklyn Nets,Utah Jazz,Home,19:30,94,105,L
+813,2024-12-21,Chicago Bulls,Boston Celtics,Home,20:00,98,123,L
+814,2024-12-21,Cleveland Cavaliers,Philadelphia 76ers,Home,20:00,126,99,W
+815,2024-12-21,Dallas Mavericks,Los Angeles Clippers,Home,20:30,113,97,W
+816,2024-12-21,Detroit Pistons,Phoenix Suns,Away,21:00,133,125,W
+817,2024-12-21,Golden State Warriors,Minnesota Timberwolves,Away,20:00,113,103,W
+818,2024-12-21,Los Angeles Clippers,Dallas Mavericks,Away,20:30,97,113,L
+819,2024-12-21,Los Angeles Lakers,Sacramento Kings,Away,18:00,103,99,W
+820,2024-12-21,Memphis Grizzlies,Atlanta Hawks,Away,19:30,128,112,W
+821,2024-12-21,Miami Heat,Orlando Magic,Away,19:00,114,121,L
+822,2024-12-21,Milwaukee Bucks,Washington Wizards,Home,20:00,112,101,W
+823,2024-12-21,Minnesota Timberwolves,Golden State Warriors,Home,20:00,103,113,L
+824,2024-12-21,New Orleans Pelicans,New York Knicks,Home,20:00,93,104,L
+825,2024-12-21,New York Knicks,New Orleans Pelicans,Away,20:00,104,93,W
+826,2024-12-21,Orlando Magic,Miami Heat,Home,19:00,121,114,W
+827,2024-12-21,Philadelphia 76ers,Cleveland Cavaliers,Away,20:00,99,126,L
+828,2024-12-21,Phoenix Suns,Detroit Pistons,Home,21:00,125,133,L
+829,2024-12-21,Portland Trail Blazers,San Antonio Spurs,Away,20:30,94,114,L
+830,2024-12-21,Sacramento Kings,Los Angeles Lakers,Home,18:00,99,103,L
+831,2024-12-21,San Antonio Spurs,Portland Trail Blazers,Home,20:30,114,94,W
+832,2024-12-21,Utah Jazz,Brooklyn Nets,Away,19:30,105,94,W
+833,2024-12-21,Washington Wizards,Milwaukee Bucks,Away,20:00,101,112,L
+834,2024-12-22,Denver Nuggets,New Orleans Pelicans,Away,19:00,132,129,W
+835,2024-12-22,Houston Rockets,Toronto Raptors,Away,18:00,114,110,W
+836,2024-12-22,Indiana Pacers,Sacramento Kings,Away,18:00,122,95,W
+837,2024-12-22,New Orleans Pelicans,Denver Nuggets,Home,19:00,129,132,L
+838,2024-12-22,Sacramento Kings,Indiana Pacers,Home,18:00,95,122,L
+839,2024-12-22,Toronto Raptors,Houston Rockets,Home,18:00,110,114,L
+840,2024-12-23,Atlanta Hawks,Minnesota Timberwolves,Home,19:30,117,104,W
+841,2024-12-23,Boston Celtics,Orlando Magic,Away,19:00,104,108,L
+842,2024-12-23,Brooklyn Nets,Miami Heat,Away,19:30,95,110,L
+843,2024-12-23,Charlotte Hornets,Houston Rockets,Home,19:00,101,114,L
+844,2024-12-23,Chicago Bulls,Milwaukee Bucks,Home,20:00,91,112,L
+845,2024-12-23,Cleveland Cavaliers,Utah Jazz,Home,19:00,124,113,W
+846,2024-12-23,Dallas Mavericks,Portland Trail Blazers,Home,20:30,132,108,W
+847,2024-12-23,Denver Nuggets,Phoenix Suns,Home,22:00,117,90,W
+848,2024-12-23,Detroit Pistons,Los Angeles Lakers,Away,22:30,117,114,W
+849,2024-12-23,Golden State Warriors,Indiana Pacers,Home,22:00,105,111,L
+850,2024-12-23,Houston Rockets,Charlotte Hornets,Away,19:00,114,101,W
+851,2024-12-23,Indiana Pacers,Golden State Warriors,Away,22:00,111,105,W
+852,2024-12-23,Los Angeles Clippers,Memphis Grizzlies,Away,20:00,114,110,W
+853,2024-12-23,Los Angeles Lakers,Detroit Pistons,Home,22:30,114,117,L
+854,2024-12-23,Memphis Grizzlies,Los Angeles Clippers,Home,20:00,110,114,L
+855,2024-12-23,Miami Heat,Brooklyn Nets,Home,19:30,110,95,W
+856,2024-12-23,Milwaukee Bucks,Chicago Bulls,Away,20:00,112,91,W
+857,2024-12-23,Minnesota Timberwolves,Atlanta Hawks,Away,19:30,104,117,L
+858,2024-12-23,New York Knicks,Toronto Raptors,Home,19:30,139,125,W
+859,2024-12-23,Oklahoma City Thunder,Washington Wizards,Home,20:00,123,105,W
+860,2024-12-23,Orlando Magic,Boston Celtics,Home,19:00,108,104,W
+861,2024-12-23,Philadelphia 76ers,San Antonio Spurs,Home,19:00,111,106,W
+862,2024-12-23,Phoenix Suns,Denver Nuggets,Away,22:00,90,117,L
+863,2024-12-23,Portland Trail Blazers,Dallas Mavericks,Away,20:30,108,132,L
+864,2024-12-23,San Antonio Spurs,Philadelphia 76ers,Away,19:00,106,111,L
+865,2024-12-23,Toronto Raptors,New York Knicks,Away,19:30,125,139,L
+866,2024-12-23,Utah Jazz,Cleveland Cavaliers,Away,19:00,113,124,L
+867,2024-12-23,Washington Wizards,Oklahoma City Thunder,Away,20:00,105,123,L
+868,2024-12-25,Boston Celtics,Philadelphia 76ers,Home,17:00,114,118,L
+869,2024-12-25,Dallas Mavericks,Minnesota Timberwolves,Home,14:30,99,105,L
+870,2024-12-25,Denver Nuggets,Phoenix Suns,Away,22:30,100,110,L
+871,2024-12-25,Golden State Warriors,Los Angeles Lakers,Home,20:00,113,115,L
+872,2024-12-25,Los Angeles Lakers,Golden State Warriors,Away,20:00,115,113,W
+873,2024-12-25,Minnesota Timberwolves,Dallas Mavericks,Away,14:30,105,99,W
+874,2024-12-25,New York Knicks,San Antonio Spurs,Home,12:00,117,114,W
+875,2024-12-25,Philadelphia 76ers,Boston Celtics,Away,17:00,118,114,W
+876,2024-12-25,Phoenix Suns,Denver Nuggets,Home,22:30,110,100,W
+877,2024-12-25,San Antonio Spurs,New York Knicks,Away,12:00,114,117,L
+878,2024-12-26,Atlanta Hawks,Chicago Bulls,Home,19:30,141,133,W
+879,2024-12-26,Brooklyn Nets,Milwaukee Bucks,Away,20:00,111,105,W
+880,2024-12-26,Charlotte Hornets,Washington Wizards,Away,19:00,110,113,L
+881,2024-12-26,Chicago Bulls,Atlanta Hawks,Away,19:30,133,141,L
+882,2024-12-26,Detroit Pistons,Sacramento Kings,Away,22:00,114,113,W
+883,2024-12-26,Houston Rockets,New Orleans Pelicans,Away,20:00,128,111,W
+884,2024-12-26,Indiana Pacers,Oklahoma City Thunder,Home,19:00,114,120,L
+885,2024-12-26,Memphis Grizzlies,Toronto Raptors,Home,20:00,155,126,W
+886,2024-12-26,Miami Heat,Orlando Magic,Away,19:00,89,88,W
+887,2024-12-26,Milwaukee Bucks,Brooklyn Nets,Home,20:00,105,111,L
+888,2024-12-26,New Orleans Pelicans,Houston Rockets,Home,20:00,111,128,L
+889,2024-12-26,Oklahoma City Thunder,Indiana Pacers,Away,19:00,120,114,W
+890,2024-12-26,Orlando Magic,Miami Heat,Home,19:00,88,89,L
+891,2024-12-26,Portland Trail Blazers,Utah Jazz,Home,22:00,122,120,W
+892,2024-12-26,Sacramento Kings,Detroit Pistons,Home,22:00,113,114,L
+893,2024-12-26,Toronto Raptors,Memphis Grizzlies,Away,20:00,126,155,L
+894,2024-12-26,Utah Jazz,Portland Trail Blazers,Away,22:00,120,122,L
+895,2024-12-26,Washington Wizards,Charlotte Hornets,Home,19:00,113,110,W
+896,2024-12-27,Boston Celtics,Indiana Pacers,Home,19:30,142,105,W
+897,2024-12-27,Brooklyn Nets,San Antonio Spurs,Home,19:30,87,96,L
+898,2024-12-27,Cleveland Cavaliers,Denver Nuggets,Away,21:00,149,135,W
+899,2024-12-27,Dallas Mavericks,Phoenix Suns,Away,21:00,98,89,W
+900,2024-12-27,Denver Nuggets,Cleveland Cavaliers,Home,21:00,135,149,L
+901,2024-12-27,Golden State Warriors,Los Angeles Clippers,Away,22:00,92,102,L
+902,2024-12-27,Houston Rockets,Minnesota Timberwolves,Home,20:00,112,113,L
+903,2024-12-27,Indiana Pacers,Boston Celtics,Away,19:30,105,142,L
+904,2024-12-27,Los Angeles Clippers,Golden State Warriors,Home,22:00,102,92,W
+905,2024-12-27,Memphis Grizzlies,New Orleans Pelicans,Away,20:00,132,124,W
+906,2024-12-27,Minnesota Timberwolves,Houston Rockets,Away,20:00,113,112,W
+907,2024-12-27,New Orleans Pelicans,Memphis Grizzlies,Home,20:00,124,132,L
+908,2024-12-27,New York Knicks,Orlando Magic,Away,19:00,108,85,W
+909,2024-12-27,Orlando Magic,New York Knicks,Home,19:00,85,108,L
+910,2024-12-27,Phoenix Suns,Dallas Mavericks,Home,21:00,89,98,L
+911,2024-12-27,San Antonio Spurs,Brooklyn Nets,Away,19:30,96,87,W
+912,2024-12-28,Atlanta Hawks,Miami Heat,Home,15:00,120,110,W
+913,2024-12-28,Charlotte Hornets,Oklahoma City Thunder,Home,18:00,94,106,L
+914,2024-12-28,Chicago Bulls,Milwaukee Bucks,Home,20:00,116,111,W
+915,2024-12-28,Dallas Mavericks,Portland Trail Blazers,Away,22:00,122,126,L
+916,2024-12-28,Denver Nuggets,Detroit Pistons,Home,21:00,134,121,W
+917,2024-12-28,Detroit Pistons,Denver Nuggets,Away,21:00,121,134,L
+918,2024-12-28,Golden State Warriors,Phoenix Suns,Home,20:30,109,105,W
+919,2024-12-28,Los Angeles Lakers,Sacramento Kings,Home,22:30,132,122,W
+920,2024-12-28,Miami Heat,Atlanta Hawks,Away,15:00,110,120,L
+921,2024-12-28,Milwaukee Bucks,Chicago Bulls,Away,20:00,111,116,L
+922,2024-12-28,New York Knicks,Washington Wizards,Away,19:00,136,132,W
+923,2024-12-28,Oklahoma City Thunder,Charlotte Hornets,Away,18:00,106,94,W
+924,2024-12-28,Philadelphia 76ers,Utah Jazz,Away,21:30,114,111,W
+925,2024-12-28,Phoenix Suns,Golden State Warriors,Away,20:30,105,109,L
+926,2024-12-28,Portland Trail Blazers,Dallas Mavericks,Home,22:00,126,122,W
+927,2024-12-28,Sacramento Kings,Los Angeles Lakers,Away,22:30,122,132,L
+928,2024-12-28,Utah Jazz,Philadelphia 76ers,Home,21:30,111,114,L
+929,2024-12-28,Washington Wizards,New York Knicks,Home,19:00,132,136,L
+930,2024-12-29,Atlanta Hawks,Toronto Raptors,Away,18:00,136,107,W
+931,2024-12-29,Boston Celtics,Indiana Pacers,Home,18:00,114,123,L
+932,2024-12-29,Brooklyn Nets,Orlando Magic,Away,15:30,101,102,L
+933,2024-12-29,Houston Rockets,Miami Heat,Home,19:00,100,104,L
+934,2024-12-29,Indiana Pacers,Boston Celtics,Away,18:00,123,114,W
+935,2024-12-29,Memphis Grizzlies,Oklahoma City Thunder,Away,19:00,106,130,L
+936,2024-12-29,Miami Heat,Houston Rockets,Away,19:00,104,100,W
+937,2024-12-29,Minnesota Timberwolves,San Antonio Spurs,Home,21:00,112,110,W
+938,2024-12-29,Oklahoma City Thunder,Memphis Grizzlies,Home,19:00,130,106,W
+939,2024-12-29,Orlando Magic,Brooklyn Nets,Home,15:30,102,101,W
+940,2024-12-29,San Antonio Spurs,Minnesota Timberwolves,Away,21:00,110,112,L
+941,2024-12-29,Toronto Raptors,Atlanta Hawks,Home,18:00,107,136,L
+942,2024-12-30,Charlotte Hornets,Chicago Bulls,Home,19:00,108,115,L
+943,2024-12-30,Chicago Bulls,Charlotte Hornets,Away,19:00,115,108,W
+944,2024-12-30,Cleveland Cavaliers,Golden State Warriors,Away,22:00,113,95,W
+945,2024-12-30,Dallas Mavericks,Sacramento Kings,Away,22:00,100,110,L
+946,2024-12-30,Denver Nuggets,Utah Jazz,Away,21:00,132,121,W
+947,2024-12-30,Golden State Warriors,Cleveland Cavaliers,Home,22:00,95,113,L
+948,2024-12-30,Los Angeles Clippers,New Orleans Pelicans,Away,20:00,116,113,W
+949,2024-12-30,New Orleans Pelicans,Los Angeles Clippers,Home,20:00,113,116,L
+950,2024-12-30,New York Knicks,Washington Wizards,Away,19:00,126,106,W
+951,2024-12-30,Philadelphia 76ers,Portland Trail Blazers,Away,22:00,125,103,W
+952,2024-12-30,Portland Trail Blazers,Philadelphia 76ers,Home,22:00,103,125,L
+953,2024-12-30,Sacramento Kings,Dallas Mavericks,Home,22:00,110,100,W
+954,2024-12-30,Utah Jazz,Denver Nuggets,Home,21:00,121,132,L
+955,2024-12-30,Washington Wizards,New York Knicks,Home,19:00,106,126,L
+956,2024-12-31,Boston Celtics,Toronto Raptors,Home,15:00,125,71,W
+957,2024-12-31,Cleveland Cavaliers,Los Angeles Lakers,Away,21:00,122,110,W
+958,2024-12-31,Indiana Pacers,Milwaukee Bucks,Home,15:00,112,120,L
+959,2024-12-31,Los Angeles Clippers,San Antonio Spurs,Away,19:00,86,122,L
+960,2024-12-31,Los Angeles Lakers,Cleveland Cavaliers,Home,21:00,110,122,L
+961,2024-12-31,Memphis Grizzlies,Phoenix Suns,Away,21:00,117,112,W
+962,2024-12-31,Milwaukee Bucks,Indiana Pacers,Away,15:00,120,112,W
+963,2024-12-31,Minnesota Timberwolves,Oklahoma City Thunder,Away,20:00,105,113,L
+964,2024-12-31,Oklahoma City Thunder,Minnesota Timberwolves,Home,20:00,113,105,W
+965,2024-12-31,Phoenix Suns,Memphis Grizzlies,Home,21:00,112,117,L
+966,2024-12-31,San Antonio Spurs,Los Angeles Clippers,Home,19:00,122,86,W
+967,2024-12-31,Toronto Raptors,Boston Celtics,Away,15:00,71,125,L
+968,2025-01-01,Atlanta Hawks,Denver Nuggets,Away,21:00,120,139,L
+969,2025-01-01,Brooklyn Nets,Toronto Raptors,Away,19:30,113,130,L
+970,2025-01-01,Chicago Bulls,Washington Wizards,Away,19:00,107,125,L
+971,2025-01-01,Dallas Mavericks,Houston Rockets,Away,20:00,99,110,L
+972,2025-01-01,Denver Nuggets,Atlanta Hawks,Home,21:00,139,120,W
+973,2025-01-01,Detroit Pistons,Orlando Magic,Home,19:00,105,96,W
+974,2025-01-01,Houston Rockets,Dallas Mavericks,Home,20:00,110,99,W
+975,2025-01-01,Miami Heat,New Orleans Pelicans,Home,19:30,119,108,W
+976,2025-01-01,New Orleans Pelicans,Miami Heat,Away,19:30,108,119,L
+977,2025-01-01,New York Knicks,Utah Jazz,Home,19:30,119,103,W
+978,2025-01-01,Orlando Magic,Detroit Pistons,Away,19:00,96,105,L
+979,2025-01-01,Philadelphia 76ers,Sacramento Kings,Away,22:00,107,113,L
+980,2025-01-01,Sacramento Kings,Philadelphia 76ers,Home,22:00,113,107,W
+981,2025-01-01,Toronto Raptors,Brooklyn Nets,Home,19:30,130,113,W
+982,2025-01-01,Utah Jazz,New York Knicks,Away,19:30,103,119,L
+983,2025-01-01,Washington Wizards,Chicago Bulls,Home,19:00,125,107,W
+984,2025-01-02,Boston Celtics,Minnesota Timberwolves,Away,19:30,118,115,W
+985,2025-01-02,Brooklyn Nets,Milwaukee Bucks,Away,20:00,113,110,W
+986,2025-01-02,Golden State Warriors,Philadelphia 76ers,Home,22:00,139,105,W
+987,2025-01-02,Indiana Pacers,Miami Heat,Away,19:30,128,115,W
+988,2025-01-02,Los Angeles Clippers,Oklahoma City Thunder,Away,20:00,98,116,L
+989,2025-01-02,Los Angeles Lakers,Portland Trail Blazers,Home,22:30,114,106,W
+990,2025-01-02,Miami Heat,Indiana Pacers,Home,19:30,115,128,L
+991,2025-01-02,Milwaukee Bucks,Brooklyn Nets,Home,20:00,110,113,L
+992,2025-01-02,Minnesota Timberwolves,Boston Celtics,Home,19:30,115,118,L
+993,2025-01-02,Oklahoma City Thunder,Los Angeles Clippers,Home,20:00,116,98,W
+994,2025-01-02,Philadelphia 76ers,Golden State Warriors,Away,22:00,105,139,L
+995,2025-01-02,Portland Trail Blazers,Los Angeles Lakers,Away,22:30,106,114,L
+996,2025-01-03,Atlanta Hawks,Los Angeles Lakers,Away,22:30,102,119,L
+997,2025-01-03,Boston Celtics,Houston Rockets,Away,20:00,109,86,W
+998,2025-01-03,Charlotte Hornets,Detroit Pistons,Away,19:00,94,98,L
+999,2025-01-03,Cleveland Cavaliers,Dallas Mavericks,Away,20:30,134,122,W
+1000,2025-01-03,Dallas Mavericks,Cleveland Cavaliers,Home,20:30,122,134,L
+1001,2025-01-03,Denver Nuggets,San Antonio Spurs,Home,21:00,110,113,L
+1002,2025-01-03,Detroit Pistons,Charlotte Hornets,Home,19:00,98,94,W
+1003,2025-01-03,Houston Rockets,Boston Celtics,Home,20:00,86,109,L
+1004,2025-01-03,Los Angeles Lakers,Atlanta Hawks,Home,22:30,119,102,W
+1005,2025-01-03,Memphis Grizzlies,Sacramento Kings,Away,22:00,133,138,L
+1006,2025-01-03,New Orleans Pelicans,Washington Wizards,Home,20:00,132,120,W
+1007,2025-01-03,New York Knicks,Oklahoma City Thunder,Away,20:00,107,117,L
+1008,2025-01-03,Oklahoma City Thunder,New York Knicks,Home,20:00,117,107,W
+1009,2025-01-03,Orlando Magic,Toronto Raptors,Away,19:30,106,97,W
+1010,2025-01-03,Sacramento Kings,Memphis Grizzlies,Home,22:00,138,133,W
+1011,2025-01-03,San Antonio Spurs,Denver Nuggets,Away,21:00,113,110,W
+1012,2025-01-03,Toronto Raptors,Orlando Magic,Home,19:30,97,106,L
+1013,2025-01-03,Washington Wizards,New Orleans Pelicans,Away,20:00,120,132,L
+1014,2025-01-04,Atlanta Hawks,Los Angeles Clippers,Away,22:30,105,131,L
+1015,2025-01-04,Brooklyn Nets,Philadelphia 76ers,Home,18:00,94,123,L
+1016,2025-01-04,Chicago Bulls,New York Knicks,Home,20:00,139,126,W
+1017,2025-01-04,Denver Nuggets,San Antonio Spurs,Away,20:00,122,111,W
+1018,2025-01-04,Detroit Pistons,Minnesota Timberwolves,Home,19:00,119,105,W
+1019,2025-01-04,Golden State Warriors,Memphis Grizzlies,Home,20:30,121,113,W
+1020,2025-01-04,Indiana Pacers,Phoenix Suns,Home,19:00,126,108,W
+1021,2025-01-04,Los Angeles Clippers,Atlanta Hawks,Home,22:30,131,105,W
+1022,2025-01-04,Memphis Grizzlies,Golden State Warriors,Away,20:30,113,121,L
+1023,2025-01-04,Miami Heat,Utah Jazz,Home,20:00,100,136,L
+1024,2025-01-04,Milwaukee Bucks,Portland Trail Blazers,Home,20:00,102,105,L
+1025,2025-01-04,Minnesota Timberwolves,Detroit Pistons,Away,19:00,105,119,L
+1026,2025-01-04,New York Knicks,Chicago Bulls,Away,20:00,126,139,L
+1027,2025-01-04,Philadelphia 76ers,Brooklyn Nets,Away,18:00,123,94,W
+1028,2025-01-04,Phoenix Suns,Indiana Pacers,Away,19:00,108,126,L
+1029,2025-01-04,Portland Trail Blazers,Milwaukee Bucks,Away,20:00,105,102,W
+1030,2025-01-04,San Antonio Spurs,Denver Nuggets,Home,20:00,111,122,L
+1031,2025-01-04,Utah Jazz,Miami Heat,Away,20:00,136,100,W
+1032,2025-01-05,Boston Celtics,Oklahoma City Thunder,Away,15:30,92,105,L
+1033,2025-01-05,Charlotte Hornets,Cleveland Cavaliers,Away,18:00,105,115,L
+1034,2025-01-05,Cleveland Cavaliers,Charlotte Hornets,Home,18:00,115,105,W
+1035,2025-01-05,Golden State Warriors,Sacramento Kings,Home,20:30,99,129,L
+1036,2025-01-05,Houston Rockets,Los Angeles Lakers,Home,19:00,119,115,W
+1037,2025-01-05,Los Angeles Lakers,Houston Rockets,Away,19:00,115,119,L
+1038,2025-01-05,New Orleans Pelicans,Washington Wizards,Away,18:00,110,98,W
+1039,2025-01-05,Oklahoma City Thunder,Boston Celtics,Home,15:30,105,92,W
+1040,2025-01-05,Orlando Magic,Utah Jazz,Home,18:30,92,105,L
+1041,2025-01-05,Sacramento Kings,Golden State Warriors,Away,20:30,129,99,W
+1042,2025-01-05,Utah Jazz,Orlando Magic,Away,18:30,105,92,W
+1043,2025-01-05,Washington Wizards,New Orleans Pelicans,Home,18:00,98,110,L
+1044,2025-01-06,Brooklyn Nets,Indiana Pacers,Home,19:30,99,113,L
+1045,2025-01-06,Chicago Bulls,San Antonio Spurs,Home,20:00,114,110,W
+1046,2025-01-06,Dallas Mavericks,Memphis Grizzlies,Away,20:00,104,119,L
+1047,2025-01-06,Detroit Pistons,Portland Trail Blazers,Home,19:00,118,115,W
+1048,2025-01-06,Indiana Pacers,Brooklyn Nets,Away,19:30,113,99,W
+1049,2025-01-06,Los Angeles Clippers,Minnesota Timberwolves,Away,20:00,106,108,L
+1050,2025-01-06,Memphis Grizzlies,Dallas Mavericks,Home,20:00,119,104,W
+1051,2025-01-06,Miami Heat,Sacramento Kings,Away,22:00,118,123,L
+1052,2025-01-06,Milwaukee Bucks,Toronto Raptors,Away,19:30,128,104,W
+1053,2025-01-06,Minnesota Timberwolves,Los Angeles Clippers,Home,20:00,108,106,W
+1054,2025-01-06,New York Knicks,Orlando Magic,Home,19:30,94,103,L
+1055,2025-01-06,Orlando Magic,New York Knicks,Away,19:30,103,94,W
+1056,2025-01-06,Philadelphia 76ers,Phoenix Suns,Home,19:00,99,109,L
+1057,2025-01-06,Phoenix Suns,Philadelphia 76ers,Away,19:00,109,99,W
+1058,2025-01-06,Portland Trail Blazers,Detroit Pistons,Away,19:00,115,118,L
+1059,2025-01-06,Sacramento Kings,Miami Heat,Home,22:00,123,118,W
+1060,2025-01-06,San Antonio Spurs,Chicago Bulls,Away,20:00,110,114,L
+1061,2025-01-06,Toronto Raptors,Milwaukee Bucks,Home,19:30,104,128,L
+1062,2025-01-07,Atlanta Hawks,Utah Jazz,Away,21:00,124,121,W
+1063,2025-01-07,Boston Celtics,Denver Nuggets,Away,22:00,118,106,W
+1064,2025-01-07,Charlotte Hornets,Phoenix Suns,Home,19:00,115,104,W
+1065,2025-01-07,Dallas Mavericks,Los Angeles Lakers,Home,19:30,118,97,W
+1066,2025-01-07,Denver Nuggets,Boston Celtics,Home,22:00,106,118,L
+1067,2025-01-07,Golden State Warriors,Miami Heat,Home,22:00,98,114,L
+1068,2025-01-07,Houston Rockets,Washington Wizards,Away,19:00,135,112,W
+1069,2025-01-07,Los Angeles Lakers,Dallas Mavericks,Away,19:30,97,118,L
+1070,2025-01-07,Miami Heat,Golden State Warriors,Away,22:00,114,98,W
+1071,2025-01-07,Minnesota Timberwolves,New Orleans Pelicans,Away,20:00,104,97,W
+1072,2025-01-07,New Orleans Pelicans,Minnesota Timberwolves,Home,20:00,97,104,L
+1073,2025-01-07,Phoenix Suns,Charlotte Hornets,Away,19:00,104,115,L
+1074,2025-01-07,Utah Jazz,Atlanta Hawks,Home,21:00,121,124,L
+1075,2025-01-07,Washington Wizards,Houston Rockets,Home,19:00,112,135,L
+1076,2025-01-08,Brooklyn Nets,Detroit Pistons,Home,19:30,98,113,L
+1077,2025-01-08,Chicago Bulls,Indiana Pacers,Away,19:00,113,129,L
+1078,2025-01-08,Cleveland Cavaliers,Oklahoma City Thunder,Home,19:00,129,122,W
+1079,2025-01-08,Denver Nuggets,Los Angeles Clippers,Home,21:00,126,103,W
+1080,2025-01-08,Detroit Pistons,Brooklyn Nets,Away,19:30,113,98,W
+1081,2025-01-08,Indiana Pacers,Chicago Bulls,Home,19:00,129,113,W
+1082,2025-01-08,Los Angeles Clippers,Denver Nuggets,Away,21:00,103,126,L
+1083,2025-01-08,Milwaukee Bucks,San Antonio Spurs,Home,21:30,121,105,W
+1084,2025-01-08,New Orleans Pelicans,Portland Trail Blazers,Home,20:00,100,119,L
+1085,2025-01-08,New York Knicks,Toronto Raptors,Home,19:30,112,98,W
+1086,2025-01-08,Oklahoma City Thunder,Cleveland Cavaliers,Away,19:00,122,129,L
+1087,2025-01-08,Philadelphia 76ers,Washington Wizards,Home,19:00,109,103,W
+1088,2025-01-08,Portland Trail Blazers,New Orleans Pelicans,Away,20:00,119,100,W
+1089,2025-01-08,San Antonio Spurs,Milwaukee Bucks,Away,21:30,105,121,L
+1090,2025-01-08,Toronto Raptors,New York Knicks,Away,19:30,98,112,L
+1091,2025-01-08,Washington Wizards,Philadelphia 76ers,Away,19:00,103,109,L
+1092,2025-01-09,Atlanta Hawks,Phoenix Suns,Away,21:00,115,123,L
+1093,2025-01-09,Cleveland Cavaliers,Toronto Raptors,Home,19:00,132,126,W
+1094,2025-01-09,Dallas Mavericks,Portland Trail Blazers,Home,19:30,117,111,W
+1095,2025-01-09,Detroit Pistons,Golden State Warriors,Home,19:00,104,107,L
+1096,2025-01-09,Golden State Warriors,Detroit Pistons,Away,19:00,107,104,W
+1097,2025-01-09,Houston Rockets,Memphis Grizzlies,Away,20:00,119,115,W
+1098,2025-01-09,Memphis Grizzlies,Houston Rockets,Home,20:00,115,119,L
+1099,2025-01-09,Miami Heat,Utah Jazz,Away,21:00,97,92,W
+1100,2025-01-09,Minnesota Timberwolves,Orlando Magic,Away,19:00,104,89,W
+1101,2025-01-09,Orlando Magic,Minnesota Timberwolves,Home,19:00,89,104,L
+1102,2025-01-09,Phoenix Suns,Atlanta Hawks,Home,21:00,123,115,W
+1103,2025-01-09,Portland Trail Blazers,Dallas Mavericks,Away,19:30,111,117,L
+1104,2025-01-09,Toronto Raptors,Cleveland Cavaliers,Away,19:00,126,132,L
+1105,2025-01-09,Utah Jazz,Miami Heat,Home,21:00,92,97,L
+1106,2025-01-10,Boston Celtics,Sacramento Kings,Home,19:30,97,114,L
+1107,2025-01-10,Brooklyn Nets,Denver Nuggets,Away,21:00,105,124,L
+1108,2025-01-10,Chicago Bulls,Washington Wizards,Home,20:00,138,105,W
+1109,2025-01-10,Denver Nuggets,Brooklyn Nets,Home,21:00,124,105,W
+1110,2025-01-10,Golden State Warriors,Indiana Pacers,Away,19:00,96,108,L
+1111,2025-01-10,Indiana Pacers,Golden State Warriors,Home,19:00,108,96,W
+1112,2025-01-10,Milwaukee Bucks,Orlando Magic,Away,19:00,109,106,W
+1113,2025-01-10,New Orleans Pelicans,Philadelphia 76ers,Away,19:00,123,115,W
+1114,2025-01-10,New York Knicks,Oklahoma City Thunder,Home,19:30,101,126,L
+1115,2025-01-10,Oklahoma City Thunder,New York Knicks,Away,19:30,126,101,W
+1116,2025-01-10,Orlando Magic,Milwaukee Bucks,Home,19:00,106,109,L
+1117,2025-01-10,Philadelphia 76ers,New Orleans Pelicans,Home,19:00,115,123,L
+1118,2025-01-10,Sacramento Kings,Boston Celtics,Away,19:30,114,97,W
+1119,2025-01-10,Washington Wizards,Chicago Bulls,Away,20:00,105,138,L
+1120,2025-01-11,Detroit Pistons,Toronto Raptors,Home,19:00,123,114,W
+1121,2025-01-11,Memphis Grizzlies,Minnesota Timberwolves,Away,20:00,127,125,W
+1122,2025-01-11,Miami Heat,Portland Trail Blazers,Away,22:00,119,98,W
+1123,2025-01-11,Minnesota Timberwolves,Memphis Grizzlies,Home,20:00,125,127,L
+1124,2025-01-11,Phoenix Suns,Utah Jazz,Home,17:00,114,106,W
+1125,2025-01-11,Portland Trail Blazers,Miami Heat,Home,22:00,98,119,L
+1126,2025-01-11,Toronto Raptors,Detroit Pistons,Away,19:00,114,123,L
+1127,2025-01-11,Utah Jazz,Phoenix Suns,Away,17:00,106,114,L
+1128,2025-01-12,Boston Celtics,New Orleans Pelicans,Home,18:00,120,119,W
+1129,2025-01-12,Brooklyn Nets,Utah Jazz,Away,20:00,111,112,L
+1130,2025-01-12,Charlotte Hornets,Phoenix Suns,Away,21:00,113,120,L
+1131,2025-01-12,Chicago Bulls,Sacramento Kings,Home,15:30,119,124,L
+1132,2025-01-12,Cleveland Cavaliers,Indiana Pacers,Home,18:00,93,108,L
+1133,2025-01-12,Dallas Mavericks,Denver Nuggets,Home,15:00,101,112,L
+1134,2025-01-12,Denver Nuggets,Dallas Mavericks,Away,15:00,112,101,W
+1135,2025-01-12,Indiana Pacers,Cleveland Cavaliers,Away,18:00,108,93,W
+1136,2025-01-12,Milwaukee Bucks,New York Knicks,Away,15:00,106,140,L
+1137,2025-01-12,New Orleans Pelicans,Boston Celtics,Away,18:00,119,120,L
+1138,2025-01-12,New York Knicks,Milwaukee Bucks,Home,15:00,140,106,W
+1139,2025-01-12,Oklahoma City Thunder,Washington Wizards,Away,18:00,136,95,W
+1140,2025-01-12,Orlando Magic,Philadelphia 76ers,Home,18:00,104,99,W
+1141,2025-01-12,Philadelphia 76ers,Orlando Magic,Away,18:00,99,104,L
+1142,2025-01-12,Phoenix Suns,Charlotte Hornets,Home,21:00,120,113,W
+1143,2025-01-12,Sacramento Kings,Chicago Bulls,Away,15:30,124,119,W
+1144,2025-01-12,Utah Jazz,Brooklyn Nets,Home,20:00,112,111,W
+1145,2025-01-12,Washington Wizards,Oklahoma City Thunder,Home,18:00,95,136,L
+1146,2025-01-13,Detroit Pistons,New York Knicks,Away,19:30,124,119,W
+1147,2025-01-13,Golden State Warriors,Toronto Raptors,Away,19:30,101,104,L
+1148,2025-01-13,Houston Rockets,Memphis Grizzlies,Home,20:00,120,118,W
+1149,2025-01-13,Los Angeles Clippers,Miami Heat,Home,22:30,109,98,W
+1150,2025-01-13,Los Angeles Lakers,San Antonio Spurs,Home,22:30,102,126,L
+1151,2025-01-13,Memphis Grizzlies,Houston Rockets,Away,20:00,118,120,L
+1152,2025-01-13,Miami Heat,Los Angeles Clippers,Away,22:30,98,109,L
+1153,2025-01-13,Minnesota Timberwolves,Washington Wizards,Away,19:00,120,106,W
+1154,2025-01-13,New York Knicks,Detroit Pistons,Home,19:30,119,124,L
+1155,2025-01-13,San Antonio Spurs,Los Angeles Lakers,Away,22:30,126,102,W
+1156,2025-01-13,Toronto Raptors,Golden State Warriors,Home,19:30,104,101,W
+1157,2025-01-13,Washington Wizards,Minnesota Timberwolves,Home,19:00,106,120,L
+1158,2025-01-14,Atlanta Hawks,Phoenix Suns,Home,19:30,122,117,W
+1159,2025-01-14,Brooklyn Nets,Portland Trail Blazers,Away,22:00,132,114,W
+1160,2025-01-14,Chicago Bulls,New Orleans Pelicans,Home,20:00,113,119,L
+1161,2025-01-14,Cleveland Cavaliers,Indiana Pacers,Away,19:00,127,117,W
+1162,2025-01-14,Dallas Mavericks,Denver Nuggets,Home,21:30,99,118,L
+1163,2025-01-14,Denver Nuggets,Dallas Mavericks,Away,21:30,118,99,W
+1164,2025-01-14,Indiana Pacers,Cleveland Cavaliers,Home,19:00,117,127,L
+1165,2025-01-14,Milwaukee Bucks,Sacramento Kings,Home,20:00,130,115,W
+1166,2025-01-14,New Orleans Pelicans,Chicago Bulls,Away,20:00,119,113,W
+1167,2025-01-14,Oklahoma City Thunder,Philadelphia 76ers,Away,19:00,118,102,W
+1168,2025-01-14,Philadelphia 76ers,Oklahoma City Thunder,Home,19:00,102,118,L
+1169,2025-01-14,Phoenix Suns,Atlanta Hawks,Away,19:30,117,122,L
+1170,2025-01-14,Portland Trail Blazers,Brooklyn Nets,Home,22:00,114,132,L
+1171,2025-01-14,Sacramento Kings,Milwaukee Bucks,Away,20:00,115,130,L
+1172,2025-01-15,Atlanta Hawks,Chicago Bulls,Away,20:00,110,94,W
+1173,2025-01-15,Boston Celtics,Toronto Raptors,Away,19:30,97,110,L
+1174,2025-01-15,Brooklyn Nets,Los Angeles Clippers,Away,22:30,67,126,L
+1175,2025-01-15,Charlotte Hornets,Utah Jazz,Away,21:00,117,112,W
+1176,2025-01-15,Chicago Bulls,Atlanta Hawks,Home,20:00,94,110,L
+1177,2025-01-15,Dallas Mavericks,New Orleans Pelicans,Away,20:00,116,119,L
+1178,2025-01-15,Denver Nuggets,Houston Rockets,Home,21:00,108,128,L
+1179,2025-01-15,Golden State Warriors,Minnesota Timberwolves,Away,21:30,116,115,W
+1180,2025-01-15,Houston Rockets,Denver Nuggets,Away,21:00,128,108,W
+1181,2025-01-15,Los Angeles Clippers,Brooklyn Nets,Home,22:30,126,67,W
+1182,2025-01-15,Los Angeles Lakers,Miami Heat,Home,22:00,117,108,W
+1183,2025-01-15,Memphis Grizzlies,San Antonio Spurs,Away,20:00,129,115,W
+1184,2025-01-15,Miami Heat,Los Angeles Lakers,Away,22:00,108,117,L
+1185,2025-01-15,Milwaukee Bucks,Orlando Magic,Home,20:00,122,93,W
+1186,2025-01-15,Minnesota Timberwolves,Golden State Warriors,Home,21:30,115,116,L
+1187,2025-01-15,New Orleans Pelicans,Dallas Mavericks,Home,20:00,119,116,W
+1188,2025-01-15,New York Knicks,Philadelphia 76ers,Away,19:00,125,119,W
+1189,2025-01-15,Orlando Magic,Milwaukee Bucks,Away,20:00,93,122,L
+1190,2025-01-15,Philadelphia 76ers,New York Knicks,Home,19:00,119,125,L
+1191,2025-01-15,San Antonio Spurs,Memphis Grizzlies,Home,20:00,115,129,L
+1192,2025-01-15,Toronto Raptors,Boston Celtics,Home,19:30,110,97,W
+1193,2025-01-15,Utah Jazz,Charlotte Hornets,Home,21:00,112,117,L
+1194,2025-01-16,Cleveland Cavaliers,Oklahoma City Thunder,Away,19:30,114,134,L
+1195,2025-01-16,Detroit Pistons,Indiana Pacers,Home,19:00,100,111,L
+1196,2025-01-16,Houston Rockets,Sacramento Kings,Away,22:00,127,132,L
+1197,2025-01-16,Indiana Pacers,Detroit Pistons,Away,19:00,111,100,W
+1198,2025-01-16,Los Angeles Clippers,Portland Trail Blazers,Away,22:00,118,89,W
+1199,2025-01-16,Oklahoma City Thunder,Cleveland Cavaliers,Home,19:30,134,114,W
+1200,2025-01-16,Phoenix Suns,Washington Wizards,Away,19:00,130,123,W
+1201,2025-01-16,Portland Trail Blazers,Los Angeles Clippers,Home,22:00,89,118,L
+1202,2025-01-16,Sacramento Kings,Houston Rockets,Home,22:00,132,127,W
+1203,2025-01-16,Washington Wizards,Phoenix Suns,Home,19:00,123,130,L
+1204,2025-01-17,Boston Celtics,Orlando Magic,Home,19:00,121,94,W
+1205,2025-01-17,Brooklyn Nets,Los Angeles Lakers,Away,22:30,101,102,L
+1206,2025-01-17,Charlotte Hornets,Chicago Bulls,Away,20:00,125,123,W
+1207,2025-01-17,Chicago Bulls,Charlotte Hornets,Home,20:00,123,125,L
+1208,2025-01-17,Dallas Mavericks,Oklahoma City Thunder,Home,20:30,106,98,W
+1209,2025-01-17,Denver Nuggets,Miami Heat,Away,20:00,133,113,W
+1210,2025-01-17,Los Angeles Lakers,Brooklyn Nets,Home,22:30,102,101,W
+1211,2025-01-17,Memphis Grizzlies,San Antonio Spurs,Away,21:30,140,112,W
+1212,2025-01-17,Miami Heat,Denver Nuggets,Home,20:00,113,133,L
+1213,2025-01-17,Milwaukee Bucks,Toronto Raptors,Home,20:00,130,112,W
+1214,2025-01-17,Minnesota Timberwolves,New York Knicks,Away,19:30,116,99,W
+1215,2025-01-17,New Orleans Pelicans,Utah Jazz,Home,20:00,136,123,W
+1216,2025-01-17,New York Knicks,Minnesota Timberwolves,Home,19:30,99,116,L
+1217,2025-01-17,Oklahoma City Thunder,Dallas Mavericks,Away,20:30,98,106,L
+1218,2025-01-17,Orlando Magic,Boston Celtics,Away,19:00,94,121,L
+1219,2025-01-17,San Antonio Spurs,Memphis Grizzlies,Home,21:30,112,140,L
+1220,2025-01-17,Toronto Raptors,Milwaukee Bucks,Away,20:00,112,130,L
+1221,2025-01-17,Utah Jazz,New Orleans Pelicans,Away,20:00,123,136,L
+1222,2025-01-18,Atlanta Hawks,Boston Celtics,Away,19:00,119,115,W
+1223,2025-01-18,Boston Celtics,Atlanta Hawks,Home,19:00,115,119,L
+1224,2025-01-18,Cleveland Cavaliers,Minnesota Timberwolves,Away,21:00,124,117,W
+1225,2025-01-18,Detroit Pistons,Phoenix Suns,Home,16:00,121,125,L
+1226,2025-01-18,Golden State Warriors,Washington Wizards,Home,20:30,122,114,W
+1227,2025-01-18,Houston Rockets,Portland Trail Blazers,Away,22:00,125,103,W
+1228,2025-01-18,Indiana Pacers,Philadelphia 76ers,Home,19:00,115,102,W
+1229,2025-01-18,Minnesota Timberwolves,Cleveland Cavaliers,Home,21:00,117,124,L
+1230,2025-01-18,Philadelphia 76ers,Indiana Pacers,Away,19:00,102,115,L
+1231,2025-01-18,Phoenix Suns,Detroit Pistons,Away,16:00,125,121,W
+1232,2025-01-18,Portland Trail Blazers,Houston Rockets,Home,22:00,103,125,L
+1233,2025-01-18,Washington Wizards,Golden State Warriors,Away,20:30,114,122,L
+1234,2025-01-19,Brooklyn Nets,Oklahoma City Thunder,Away,19:00,101,127,L
+1235,2025-01-19,Chicago Bulls,Portland Trail Blazers,Away,21:00,102,113,L
+1236,2025-01-19,Denver Nuggets,Orlando Magic,Away,18:00,113,100,W
+1237,2025-01-19,Los Angeles Clippers,Los Angeles Lakers,Home,21:00,116,102,W
+1238,2025-01-19,Los Angeles Lakers,Los Angeles Clippers,Away,21:00,102,116,L
+1239,2025-01-19,Miami Heat,San Antonio Spurs,Home,15:00,128,107,W
+1240,2025-01-19,Milwaukee Bucks,Philadelphia 76ers,Home,19:00,123,109,W
+1241,2025-01-19,Oklahoma City Thunder,Brooklyn Nets,Home,19:00,127,101,W
+1242,2025-01-19,Orlando Magic,Denver Nuggets,Home,18:00,100,113,L
+1243,2025-01-19,Philadelphia 76ers,Milwaukee Bucks,Away,19:00,109,123,L
+1244,2025-01-19,Portland Trail Blazers,Chicago Bulls,Home,21:00,113,102,W
+1245,2025-01-19,Sacramento Kings,Washington Wizards,Home,21:00,123,100,W
+1246,2025-01-19,San Antonio Spurs,Miami Heat,Away,15:00,107,128,L
+1247,2025-01-19,Washington Wizards,Sacramento Kings,Away,21:00,100,123,L
+1248,2025-01-20,Atlanta Hawks,New York Knicks,Away,15:00,110,119,L
+1249,2025-01-20,Boston Celtics,Golden State Warriors,Away,17:00,125,85,W
+1250,2025-01-20,Charlotte Hornets,Dallas Mavericks,Home,12:00,110,105,W
+1251,2025-01-20,Chicago Bulls,Los Angeles Clippers,Away,22:30,112,99,W
+1252,2025-01-20,Cleveland Cavaliers,Phoenix Suns,Home,15:30,118,92,W
+1253,2025-01-20,Dallas Mavericks,Charlotte Hornets,Away,12:00,105,110,L
+1254,2025-01-20,Detroit Pistons,Houston Rockets,Away,14:00,107,96,W
+1255,2025-01-20,Golden State Warriors,Boston Celtics,Home,17:00,85,125,L
+1256,2025-01-20,Houston Rockets,Detroit Pistons,Home,14:00,96,107,L
+1257,2025-01-20,Los Angeles Clippers,Chicago Bulls,Home,22:30,99,112,L
+1258,2025-01-20,Memphis Grizzlies,Minnesota Timberwolves,Home,14:30,108,106,W
+1259,2025-01-20,Minnesota Timberwolves,Memphis Grizzlies,Away,14:30,106,108,L
+1260,2025-01-20,New Orleans Pelicans,Utah Jazz,Home,20:00,123,119,W
+1261,2025-01-20,New York Knicks,Atlanta Hawks,Home,15:00,119,110,W
+1262,2025-01-20,Phoenix Suns,Cleveland Cavaliers,Away,15:30,92,118,L
+1263,2025-01-20,Utah Jazz,New Orleans Pelicans,Away,20:00,119,123,L
+1264,2025-01-21,Brooklyn Nets,New York Knicks,Home,19:30,95,99,L
+1265,2025-01-21,Denver Nuggets,Philadelphia 76ers,Home,22:00,144,109,W
+1266,2025-01-21,Los Angeles Lakers,Washington Wizards,Home,22:30,111,88,W
+1267,2025-01-21,Miami Heat,Portland Trail Blazers,Home,19:30,107,116,L
+1268,2025-01-21,New York Knicks,Brooklyn Nets,Away,19:30,99,95,W
+1269,2025-01-21,Orlando Magic,Toronto Raptors,Away,19:30,93,109,L
+1270,2025-01-21,Philadelphia 76ers,Denver Nuggets,Away,22:00,109,144,L
+1271,2025-01-21,Portland Trail Blazers,Miami Heat,Away,19:30,116,107,W
+1272,2025-01-21,Toronto Raptors,Orlando Magic,Home,19:30,109,93,W
+1273,2025-01-21,Washington Wizards,Los Angeles Lakers,Away,22:30,88,111,L
+1274,2025-01-22,Atlanta Hawks,Detroit Pistons,Home,19:30,104,114,L
+1275,2025-01-22,Boston Celtics,Los Angeles Clippers,Away,22:30,117,113,W
+1276,2025-01-22,Brooklyn Nets,Phoenix Suns,Home,19:30,84,108,L
+1277,2025-01-22,Charlotte Hornets,Memphis Grizzlies,Away,20:00,120,132,L
+1278,2025-01-22,Cleveland Cavaliers,Houston Rockets,Away,20:00,108,109,L
+1279,2025-01-22,Dallas Mavericks,Minnesota Timberwolves,Home,19:30,114,115,L
+1280,2025-01-22,Detroit Pistons,Atlanta Hawks,Away,19:30,114,104,W
+1281,2025-01-22,Golden State Warriors,Sacramento Kings,Away,22:00,117,123,L
+1282,2025-01-22,Houston Rockets,Cleveland Cavaliers,Home,20:00,109,108,W
+1283,2025-01-22,Los Angeles Clippers,Boston Celtics,Home,22:30,113,117,L
+1284,2025-01-22,Memphis Grizzlies,Charlotte Hornets,Home,20:00,132,120,W
+1285,2025-01-22,Minnesota Timberwolves,Dallas Mavericks,Away,19:30,115,114,W
+1286,2025-01-22,Oklahoma City Thunder,Utah Jazz,Home,20:00,123,114,W
+1287,2025-01-22,Phoenix Suns,Brooklyn Nets,Away,19:30,108,84,W
+1288,2025-01-22,Sacramento Kings,Golden State Warriors,Home,22:00,123,117,W
+1289,2025-01-22,Utah Jazz,Oklahoma City Thunder,Away,20:00,114,123,L
+1290,2025-01-23,Atlanta Hawks,Toronto Raptors,Home,19:30,119,122,L
+1291,2025-01-23,Boston Celtics,Los Angeles Lakers,Away,22:00,96,117,L
+1292,2025-01-23,Chicago Bulls,Golden State Warriors,Away,22:00,106,131,L
+1293,2025-01-23,Dallas Mavericks,Oklahoma City Thunder,Away,20:00,121,115,W
+1294,2025-01-23,Denver Nuggets,Sacramento Kings,Home,21:00,132,123,W
+1295,2025-01-23,Golden State Warriors,Chicago Bulls,Home,22:00,131,106,W
+1296,2025-01-23,Indiana Pacers,San Antonio Spurs,Home,14:00,110,140,L
+1297,2025-01-23,Los Angeles Clippers,Washington Wizards,Home,22:30,110,93,W
+1298,2025-01-23,Los Angeles Lakers,Boston Celtics,Home,22:00,117,96,W
+1299,2025-01-23,Miami Heat,Milwaukee Bucks,Away,20:30,96,125,L
+1300,2025-01-23,Milwaukee Bucks,Miami Heat,Home,20:30,125,96,W
+1301,2025-01-23,Oklahoma City Thunder,Dallas Mavericks,Home,20:00,115,121,L
+1302,2025-01-23,Orlando Magic,Portland Trail Blazers,Home,19:00,79,101,L
+1303,2025-01-23,Portland Trail Blazers,Orlando Magic,Away,19:00,101,79,W
+1304,2025-01-23,Sacramento Kings,Denver Nuggets,Away,21:00,123,132,L
+1305,2025-01-23,San Antonio Spurs,Indiana Pacers,Away,14:00,140,110,W
+1306,2025-01-23,Toronto Raptors,Atlanta Hawks,Away,19:30,122,119,W
+1307,2025-01-23,Washington Wizards,Los Angeles Clippers,Away,22:30,93,110,L
+1308,2025-01-24,Charlotte Hornets,Portland Trail Blazers,Home,19:00,97,102,L
+1309,2025-01-24,Cleveland Cavaliers,Philadelphia 76ers,Away,19:00,129,132,L
+1310,2025-01-24,Memphis Grizzlies,New Orleans Pelicans,Home,20:00,139,126,W
+1311,2025-01-24,New Orleans Pelicans,Memphis Grizzlies,Away,20:00,126,139,L
+1312,2025-01-24,Philadelphia 76ers,Cleveland Cavaliers,Home,19:00,132,129,W
+1313,2025-01-24,Portland Trail Blazers,Charlotte Hornets,Away,19:00,102,97,W
+1314,2025-01-25,Atlanta Hawks,Toronto Raptors,Home,19:30,94,117,L
+1315,2025-01-25,Boston Celtics,Dallas Mavericks,Away,17:30,122,107,W
+1316,2025-01-25,Brooklyn Nets,Miami Heat,Home,18:00,97,106,L
+1317,2025-01-25,Charlotte Hornets,New Orleans Pelicans,Home,19:00,123,92,W
+1318,2025-01-25,Chicago Bulls,Philadelphia 76ers,Home,20:00,97,109,L
+1319,2025-01-25,Cleveland Cavaliers,Houston Rockets,Home,19:30,131,135,L
+1320,2025-01-25,Dallas Mavericks,Boston Celtics,Home,17:30,107,122,L
+1321,2025-01-25,Denver Nuggets,Minnesota Timberwolves,Away,15:00,104,133,L
+1322,2025-01-25,Detroit Pistons,Orlando Magic,Away,19:00,113,121,L
+1323,2025-01-25,Golden State Warriors,Los Angeles Lakers,Home,20:30,108,118,L
+1324,2025-01-25,Houston Rockets,Cleveland Cavaliers,Away,19:30,135,131,W
+1325,2025-01-25,Indiana Pacers,San Antonio Spurs,Away,12:00,136,98,W
+1326,2025-01-25,Los Angeles Clippers,Milwaukee Bucks,Home,22:30,127,117,W
+1327,2025-01-25,Los Angeles Lakers,Golden State Warriors,Away,20:30,118,108,W
+1328,2025-01-25,Memphis Grizzlies,Utah Jazz,Home,20:00,125,103,W
+1329,2025-01-25,Miami Heat,Brooklyn Nets,Away,18:00,106,97,W
+1330,2025-01-25,Milwaukee Bucks,Los Angeles Clippers,Away,22:30,117,127,L
+1331,2025-01-25,Minnesota Timberwolves,Denver Nuggets,Home,15:00,133,104,W
+1332,2025-01-25,New Orleans Pelicans,Charlotte Hornets,Away,19:00,92,123,L
+1333,2025-01-25,New York Knicks,Sacramento Kings,Home,19:30,143,120,W
+1334,2025-01-25,Orlando Magic,Detroit Pistons,Home,19:00,121,113,W
+1335,2025-01-25,Philadelphia 76ers,Chicago Bulls,Away,20:00,109,97,W
+1336,2025-01-25,Phoenix Suns,Washington Wizards,Home,21:00,119,109,W
+1337,2025-01-25,Sacramento Kings,New York Knicks,Away,19:30,120,143,L
+1338,2025-01-25,San Antonio Spurs,Indiana Pacers,Home,12:00,98,136,L
+1339,2025-01-25,Toronto Raptors,Atlanta Hawks,Away,19:30,117,94,W
+1340,2025-01-25,Utah Jazz,Memphis Grizzlies,Away,20:00,103,125,L
+1341,2025-01-25,Washington Wizards,Phoenix Suns,Away,21:00,109,119,L
+1342,2025-01-26,Oklahoma City Thunder,Portland Trail Blazers,Away,18:00,118,108,W
+1343,2025-01-26,Portland Trail Blazers,Oklahoma City Thunder,Home,18:00,108,118,L
+1344,2025-01-27,Atlanta Hawks,Minnesota Timberwolves,Away,20:00,92,100,L
+1345,2025-01-27,Boston Celtics,Houston Rockets,Home,19:30,112,114,L
+1346,2025-01-27,Brooklyn Nets,Sacramento Kings,Home,19:30,96,110,L
+1347,2025-01-27,Charlotte Hornets,Los Angeles Lakers,Home,19:00,107,112,L
+1348,2025-01-27,Chicago Bulls,Denver Nuggets,Home,20:00,129,121,W
+1349,2025-01-27,Cleveland Cavaliers,Detroit Pistons,Home,19:00,110,91,W
+1350,2025-01-27,Dallas Mavericks,Washington Wizards,Home,20:30,130,108,W
+1351,2025-01-27,Denver Nuggets,Chicago Bulls,Away,20:00,121,129,L
+1352,2025-01-27,Detroit Pistons,Cleveland Cavaliers,Away,19:00,91,110,L
+1353,2025-01-27,Houston Rockets,Boston Celtics,Away,19:30,114,112,W
+1354,2025-01-27,Los Angeles Clippers,Phoenix Suns,Away,21:30,109,111,L
+1355,2025-01-27,Los Angeles Lakers,Charlotte Hornets,Away,19:00,112,107,W
+1356,2025-01-27,Memphis Grizzlies,New York Knicks,Away,19:30,106,143,L
+1357,2025-01-27,Miami Heat,Orlando Magic,Home,19:30,125,119,W
+1358,2025-01-27,Milwaukee Bucks,Utah Jazz,Away,21:00,125,110,W
+1359,2025-01-27,Minnesota Timberwolves,Atlanta Hawks,Home,20:00,100,92,W
+1360,2025-01-27,New Orleans Pelicans,Toronto Raptors,Away,19:30,104,113,L
+1361,2025-01-27,New York Knicks,Memphis Grizzlies,Home,19:30,143,106,W
+1362,2025-01-27,Orlando Magic,Miami Heat,Away,19:30,119,125,L
+1363,2025-01-27,Phoenix Suns,Los Angeles Clippers,Home,21:30,111,109,W
+1364,2025-01-27,Sacramento Kings,Brooklyn Nets,Away,19:30,110,96,W
+1365,2025-01-27,Toronto Raptors,New Orleans Pelicans,Home,19:30,113,104,W
+1366,2025-01-27,Utah Jazz,Milwaukee Bucks,Home,21:00,110,125,L
+1367,2025-01-27,Washington Wizards,Dallas Mavericks,Away,20:30,108,130,L
+1368,2025-01-28,Atlanta Hawks,Houston Rockets,Home,19:30,96,100,L
+1369,2025-01-28,Golden State Warriors,Utah Jazz,Home,22:00,114,103,W
+1370,2025-01-28,Houston Rockets,Atlanta Hawks,Away,19:30,100,96,W
+1371,2025-01-28,Los Angeles Lakers,Philadelphia 76ers,Away,19:30,104,118,L
+1372,2025-01-28,Milwaukee Bucks,Portland Trail Blazers,Away,22:00,112,125,L
+1373,2025-01-28,Philadelphia 76ers,Los Angeles Lakers,Home,19:30,118,104,W
+1374,2025-01-28,Portland Trail Blazers,Milwaukee Bucks,Home,22:00,125,112,W
+1375,2025-01-28,Utah Jazz,Golden State Warriors,Away,22:00,103,114,L
+1376,2025-01-29,Boston Celtics,Chicago Bulls,Home,19:30,122,100,W
+1377,2025-01-29,Brooklyn Nets,Charlotte Hornets,Away,19:00,104,83,W
+1378,2025-01-29,Charlotte Hornets,Brooklyn Nets,Home,19:00,83,104,L
+1379,2025-01-29,Chicago Bulls,Boston Celtics,Away,19:30,100,122,L
+1380,2025-01-29,Cleveland Cavaliers,Miami Heat,Away,19:30,126,106,W
+1381,2025-01-29,Dallas Mavericks,New Orleans Pelicans,Away,20:00,137,136,W
+1382,2025-01-29,Denver Nuggets,New York Knicks,Away,19:30,112,122,L
+1383,2025-01-29,Detroit Pistons,Indiana Pacers,Away,19:00,119,133,L
+1384,2025-01-29,Golden State Warriors,Oklahoma City Thunder,Home,22:00,116,109,W
+1385,2025-01-29,Indiana Pacers,Detroit Pistons,Home,19:00,133,119,W
+1386,2025-01-29,Los Angeles Clippers,San Antonio Spurs,Away,20:00,128,116,W
+1387,2025-01-29,Miami Heat,Cleveland Cavaliers,Home,19:30,106,126,L
+1388,2025-01-29,Minnesota Timberwolves,Phoenix Suns,Away,21:00,121,113,W
+1389,2025-01-29,New Orleans Pelicans,Dallas Mavericks,Home,20:00,136,137,L
+1390,2025-01-29,New York Knicks,Denver Nuggets,Home,19:30,122,112,W
+1391,2025-01-29,Oklahoma City Thunder,Golden State Warriors,Away,22:00,109,116,L
+1392,2025-01-29,Philadelphia 76ers,Sacramento Kings,Home,19:30,117,104,W
+1393,2025-01-29,Phoenix Suns,Minnesota Timberwolves,Home,21:00,113,121,L
+1394,2025-01-29,Sacramento Kings,Philadelphia 76ers,Away,19:30,104,117,L
+1395,2025-01-29,San Antonio Spurs,Los Angeles Clippers,Home,20:00,116,128,L
+1396,2025-01-29,Toronto Raptors,Washington Wizards,Away,19:00,106,82,W
+1397,2025-01-29,Washington Wizards,Toronto Raptors,Home,19:00,82,106,L
+1398,2025-01-30,Atlanta Hawks,Cleveland Cavaliers,Away,19:00,115,137,L
+1399,2025-01-30,Cleveland Cavaliers,Atlanta Hawks,Home,19:00,137,115,W
+1400,2025-01-30,Houston Rockets,Memphis Grizzlies,Away,21:30,119,120,L
+1401,2025-01-30,Los Angeles Lakers,Washington Wizards,Away,19:00,134,96,W
+1402,2025-01-30,Memphis Grizzlies,Houston Rockets,Home,21:30,120,119,W
+1403,2025-01-30,Minnesota Timberwolves,Utah Jazz,Away,21:00,138,113,W
+1404,2025-01-30,Orlando Magic,Portland Trail Blazers,Away,22:00,90,119,L
+1405,2025-01-30,Portland Trail Blazers,Orlando Magic,Home,22:00,119,90,W
+1406,2025-01-30,Utah Jazz,Minnesota Timberwolves,Home,21:00,113,138,L
+1407,2025-01-30,Washington Wizards,Los Angeles Lakers,Home,19:00,96,134,L
+1408,2025-01-31,Boston Celtics,New Orleans Pelicans,Away,20:00,118,116,W
+1409,2025-01-31,Charlotte Hornets,Los Angeles Clippers,Home,19:00,104,112,L
+1410,2025-01-31,Chicago Bulls,Toronto Raptors,Away,19:30,122,106,W
+1411,2025-01-31,Dallas Mavericks,Detroit Pistons,Away,19:00,102,117,L
+1412,2025-01-31,Denver Nuggets,Philadelphia 76ers,Away,19:30,137,134,W
+1413,2025-01-31,Detroit Pistons,Dallas Mavericks,Home,19:00,117,102,W
+1414,2025-01-31,Golden State Warriors,Phoenix Suns,Home,22:00,105,130,L
+1415,2025-01-31,Los Angeles Clippers,Charlotte Hornets,Away,19:00,112,104,W
+1416,2025-01-31,Milwaukee Bucks,San Antonio Spurs,Away,20:00,118,144,L
+1417,2025-01-31,New Orleans Pelicans,Boston Celtics,Home,20:00,116,118,L
+1418,2025-01-31,Philadelphia 76ers,Denver Nuggets,Home,19:30,134,137,L
+1419,2025-01-31,Phoenix Suns,Golden State Warriors,Away,22:00,130,105,W
+1420,2025-01-31,San Antonio Spurs,Milwaukee Bucks,Home,20:00,144,118,W
+1421,2025-01-31,Toronto Raptors,Chicago Bulls,Home,19:30,106,122,L
+1422,2025-02-01,Atlanta Hawks,Indiana Pacers,Away,17:00,127,132,L
+1423,2025-02-01,Brooklyn Nets,Houston Rockets,Away,20:00,110,98,W
+1424,2025-02-01,Charlotte Hornets,Denver Nuggets,Home,19:00,104,107,L
+1425,2025-02-01,Denver Nuggets,Charlotte Hornets,Away,19:00,107,104,W
+1426,2025-02-01,Houston Rockets,Brooklyn Nets,Home,20:00,98,110,L
+1427,2025-02-01,Indiana Pacers,Atlanta Hawks,Home,17:00,132,127,W
+1428,2025-02-01,Los Angeles Lakers,New York Knicks,Away,20:30,128,112,W
+1429,2025-02-01,Miami Heat,San Antonio Spurs,Away,20:30,105,103,W
+1430,2025-02-01,Minnesota Timberwolves,Washington Wizards,Home,20:00,103,105,L
+1431,2025-02-01,New York Knicks,Los Angeles Lakers,Home,20:30,112,128,L
+1432,2025-02-01,Oklahoma City Thunder,Sacramento Kings,Home,20:00,144,110,W
+1433,2025-02-01,Orlando Magic,Utah Jazz,Away,17:00,99,113,L
+1434,2025-02-01,Phoenix Suns,Portland Trail Blazers,Away,22:00,108,127,L
+1435,2025-02-01,Portland Trail Blazers,Phoenix Suns,Home,22:00,127,108,W
+1436,2025-02-01,Sacramento Kings,Oklahoma City Thunder,Away,20:00,110,144,L
+1437,2025-02-01,San Antonio Spurs,Miami Heat,Home,20:30,103,105,L
+1438,2025-02-01,Utah Jazz,Orlando Magic,Home,17:00,113,99,W
+1439,2025-02-01,Washington Wizards,Minnesota Timberwolves,Away,20:00,105,103,W
+1440,2025-02-02,Boston Celtics,Philadelphia 76ers,Away,18:00,118,110,W
+1441,2025-02-02,Chicago Bulls,Detroit Pistons,Away,15:00,119,127,L
+1442,2025-02-02,Cleveland Cavaliers,Dallas Mavericks,Home,15:30,144,101,W
+1443,2025-02-02,Dallas Mavericks,Cleveland Cavaliers,Away,15:30,101,144,L
+1444,2025-02-02,Detroit Pistons,Chicago Bulls,Home,15:00,127,119,W
+1445,2025-02-02,Los Angeles Clippers,Toronto Raptors,Away,15:30,108,115,L
+1446,2025-02-02,Memphis Grizzlies,Milwaukee Bucks,Away,20:30,132,119,W
+1447,2025-02-02,Milwaukee Bucks,Memphis Grizzlies,Home,20:30,119,132,L
+1448,2025-02-02,Philadelphia 76ers,Boston Celtics,Home,18:00,110,118,L
+1449,2025-02-02,Toronto Raptors,Los Angeles Clippers,Home,15:30,115,108,W
+1450,2025-02-03,Atlanta Hawks,Detroit Pistons,Away,19:00,132,130,W
+1451,2025-02-03,Charlotte Hornets,Washington Wizards,Home,19:00,114,124,L
+1452,2025-02-03,Denver Nuggets,New Orleans Pelicans,Home,21:00,125,113,W
+1453,2025-02-03,Detroit Pistons,Atlanta Hawks,Home,19:00,130,132,L
+1454,2025-02-03,Golden State Warriors,Orlando Magic,Home,22:00,104,99,W
+1455,2025-02-03,Houston Rockets,New York Knicks,Away,19:30,118,124,L
+1456,2025-02-03,Indiana Pacers,Utah Jazz,Away,21:00,112,111,W
+1457,2025-02-03,Memphis Grizzlies,San Antonio Spurs,Home,20:00,128,109,W
+1458,2025-02-03,Milwaukee Bucks,Oklahoma City Thunder,Away,20:00,96,125,L
+1459,2025-02-03,Minnesota Timberwolves,Sacramento Kings,Home,20:00,114,116,L
+1460,2025-02-03,New Orleans Pelicans,Denver Nuggets,Away,21:00,113,125,L
+1461,2025-02-03,New York Knicks,Houston Rockets,Home,19:30,124,118,W
+1462,2025-02-03,Oklahoma City Thunder,Milwaukee Bucks,Home,20:00,125,96,W
+1463,2025-02-03,Orlando Magic,Golden State Warriors,Away,22:00,99,104,L
+1464,2025-02-03,Phoenix Suns,Portland Trail Blazers,Away,22:00,119,121,L
+1465,2025-02-03,Portland Trail Blazers,Phoenix Suns,Home,22:00,121,119,W
+1466,2025-02-03,Sacramento Kings,Minnesota Timberwolves,Away,20:00,116,114,W
+1467,2025-02-03,San Antonio Spurs,Memphis Grizzlies,Away,20:00,109,128,L
+1468,2025-02-03,Utah Jazz,Indiana Pacers,Home,21:00,111,112,L
+1469,2025-02-03,Washington Wizards,Charlotte Hornets,Away,19:00,124,114,W
+1470,2025-02-04,Boston Celtics,Cleveland Cavaliers,Away,19:30,112,105,W
+1471,2025-02-04,Brooklyn Nets,Houston Rockets,Home,19:30,99,97,W
+1472,2025-02-04,Chicago Bulls,Miami Heat,Home,20:00,133,124,W
+1473,2025-02-04,Cleveland Cavaliers,Boston Celtics,Home,19:30,105,112,L
+1474,2025-02-04,Dallas Mavericks,Philadelphia 76ers,Away,19:00,116,118,L
+1475,2025-02-04,Houston Rockets,Brooklyn Nets,Away,19:30,97,99,L
+1476,2025-02-04,Indiana Pacers,Portland Trail Blazers,Away,22:00,89,112,L
+1477,2025-02-04,Los Angeles Clippers,Los Angeles Lakers,Home,22:00,97,122,L
+1478,2025-02-04,Los Angeles Lakers,Los Angeles Clippers,Away,22:00,122,97,W
+1479,2025-02-04,Miami Heat,Chicago Bulls,Away,20:00,124,133,L
+1480,2025-02-04,New York Knicks,Toronto Raptors,Away,19:30,121,115,W
+1481,2025-02-04,Philadelphia 76ers,Dallas Mavericks,Home,19:00,118,116,W
+1482,2025-02-04,Portland Trail Blazers,Indiana Pacers,Home,22:00,112,89,W
+1483,2025-02-04,Toronto Raptors,New York Knicks,Home,19:30,115,121,L
+1484,2025-02-05,Atlanta Hawks,San Antonio Spurs,Home,19:00,125,126,L
+1485,2025-02-05,Brooklyn Nets,Washington Wizards,Home,19:30,102,119,L
+1486,2025-02-05,Charlotte Hornets,Milwaukee Bucks,Home,19:00,102,112,L
+1487,2025-02-05,Chicago Bulls,Minnesota Timberwolves,Away,20:00,108,127,L
+1488,2025-02-05,Cleveland Cavaliers,Detroit Pistons,Away,19:00,118,115,W
+1489,2025-02-05,Denver Nuggets,New Orleans Pelicans,Home,21:00,144,119,W
+1490,2025-02-05,Detroit Pistons,Cleveland Cavaliers,Home,19:00,115,118,L
+1491,2025-02-05,Golden State Warriors,Utah Jazz,Away,21:00,128,131,L
+1492,2025-02-05,Memphis Grizzlies,Toronto Raptors,Away,19:30,138,107,W
+1493,2025-02-05,Miami Heat,Philadelphia 76ers,Away,19:30,108,101,W
+1494,2025-02-05,Milwaukee Bucks,Charlotte Hornets,Away,19:00,112,102,W
+1495,2025-02-05,Minnesota Timberwolves,Chicago Bulls,Home,20:00,127,108,W
+1496,2025-02-05,New Orleans Pelicans,Denver Nuggets,Away,21:00,119,144,L
+1497,2025-02-05,Oklahoma City Thunder,Phoenix Suns,Home,21:30,140,109,W
+1498,2025-02-05,Orlando Magic,Sacramento Kings,Away,22:00,130,111,W
+1499,2025-02-05,Philadelphia 76ers,Miami Heat,Home,19:30,101,108,L
+1500,2025-02-05,Phoenix Suns,Oklahoma City Thunder,Away,21:30,109,140,L
+1501,2025-02-05,Sacramento Kings,Orlando Magic,Home,22:00,111,130,L
+1502,2025-02-05,San Antonio Spurs,Atlanta Hawks,Away,19:00,126,125,W
+1503,2025-02-05,Toronto Raptors,Memphis Grizzlies,Home,19:30,107,138,L
+1504,2025-02-05,Utah Jazz,Golden State Warriors,Home,21:00,131,128,W
+1505,2025-02-05,Washington Wizards,Brooklyn Nets,Away,19:30,119,102,W
+1506,2025-02-06,Boston Celtics,Dallas Mavericks,Home,19:30,120,127,L
+1507,2025-02-06,Dallas Mavericks,Boston Celtics,Away,19:30,127,120,W
+1508,2025-02-06,Denver Nuggets,Orlando Magic,Home,21:00,112,90,W
+1509,2025-02-06,Golden State Warriors,Los Angeles Lakers,Away,22:00,112,120,L
+1510,2025-02-06,Houston Rockets,Minnesota Timberwolves,Away,20:00,114,127,L
+1511,2025-02-06,Indiana Pacers,Los Angeles Clippers,Away,22:30,119,112,W
+1512,2025-02-06,Los Angeles Clippers,Indiana Pacers,Home,22:30,112,119,L
+1513,2025-02-06,Los Angeles Lakers,Golden State Warriors,Home,22:00,120,112,W
+1514,2025-02-06,Minnesota Timberwolves,Houston Rockets,Home,20:00,127,114,W
+1515,2025-02-06,Orlando Magic,Denver Nuggets,Away,21:00,90,112,L
+1516,2025-02-06,Portland Trail Blazers,Sacramento Kings,Home,22:00,108,102,W
+1517,2025-02-06,Sacramento Kings,Portland Trail Blazers,Away,22:00,102,108,L
+1518,2025-02-07,Atlanta Hawks,Milwaukee Bucks,Home,19:30,115,110,W
+1519,2025-02-07,Brooklyn Nets,Miami Heat,Home,19:30,102,86,W
+1520,2025-02-07,Charlotte Hornets,San Antonio Spurs,Home,19:00,117,116,W
+1521,2025-02-07,Cleveland Cavaliers,Washington Wizards,Away,19:00,134,124,W
+1522,2025-02-07,Detroit Pistons,Philadelphia 76ers,Home,19:30,125,112,W
+1523,2025-02-07,Miami Heat,Brooklyn Nets,Away,19:30,86,102,L
+1524,2025-02-07,Milwaukee Bucks,Atlanta Hawks,Away,19:30,110,115,L
+1525,2025-02-07,Oklahoma City Thunder,Toronto Raptors,Home,20:00,121,109,W
+1526,2025-02-07,Philadelphia 76ers,Detroit Pistons,Away,19:30,112,125,L
+1527,2025-02-07,Phoenix Suns,Utah Jazz,Home,22:00,135,127,W
+1528,2025-02-07,San Antonio Spurs,Charlotte Hornets,Away,19:00,116,117,L
+1529,2025-02-07,Toronto Raptors,Oklahoma City Thunder,Away,20:00,109,121,L
+1530,2025-02-07,Utah Jazz,Phoenix Suns,Away,22:00,127,135,L
+1531,2025-02-07,Washington Wizards,Cleveland Cavaliers,Home,19:00,124,134,L
+1532,2025-02-08,Atlanta Hawks,Washington Wizards,Away,19:00,125,111,W
+1533,2025-02-08,Boston Celtics,New York Knicks,Away,20:30,131,104,W
+1534,2025-02-08,Chicago Bulls,Golden State Warriors,Home,20:00,111,132,L
+1535,2025-02-08,Dallas Mavericks,Houston Rockets,Home,15:00,116,105,W
+1536,2025-02-08,Denver Nuggets,Phoenix Suns,Away,21:00,122,105,W
+1537,2025-02-08,Golden State Warriors,Chicago Bulls,Away,20:00,132,111,W
+1538,2025-02-08,Houston Rockets,Dallas Mavericks,Away,15:00,105,116,L
+1539,2025-02-08,Indiana Pacers,Los Angeles Lakers,Away,16:00,117,124,L
+1540,2025-02-08,Los Angeles Clippers,Utah Jazz,Home,22:30,130,110,W
+1541,2025-02-08,Los Angeles Lakers,Indiana Pacers,Home,16:00,124,117,W
+1542,2025-02-08,Memphis Grizzlies,Oklahoma City Thunder,Home,20:00,112,125,L
+1543,2025-02-08,Minnesota Timberwolves,Portland Trail Blazers,Home,20:00,114,98,W
+1544,2025-02-08,New Orleans Pelicans,Sacramento Kings,Away,22:00,118,123,L
+1545,2025-02-08,New York Knicks,Boston Celtics,Home,20:30,104,131,L
+1546,2025-02-08,Oklahoma City Thunder,Memphis Grizzlies,Away,20:00,125,112,W
+1547,2025-02-08,Orlando Magic,San Antonio Spurs,Home,19:00,112,111,W
+1548,2025-02-08,Phoenix Suns,Denver Nuggets,Home,21:00,105,122,L
+1549,2025-02-08,Portland Trail Blazers,Minnesota Timberwolves,Away,20:00,98,114,L
+1550,2025-02-08,Sacramento Kings,New Orleans Pelicans,Home,22:00,123,118,W
+1551,2025-02-08,San Antonio Spurs,Orlando Magic,Away,19:00,111,112,L
+1552,2025-02-08,Utah Jazz,Los Angeles Clippers,Away,22:30,110,130,L
+1553,2025-02-08,Washington Wizards,Atlanta Hawks,Home,19:00,111,125,L
+1554,2025-02-09,Charlotte Hornets,Detroit Pistons,Away,13:00,102,112,L
+1555,2025-02-09,Detroit Pistons,Charlotte Hornets,Home,13:00,112,102,W
+1556,2025-02-09,Houston Rockets,Toronto Raptors,Home,14:00,94,87,W
+1557,2025-02-09,Milwaukee Bucks,Philadelphia 76ers,Home,14:00,135,127,W
+1558,2025-02-09,Philadelphia 76ers,Milwaukee Bucks,Away,14:00,127,135,L
+1559,2025-02-09,Toronto Raptors,Houston Rockets,Away,14:00,87,94,L
+1560,2025-02-10,Atlanta Hawks,Orlando Magic,Away,19:00,112,106,W
+1561,2025-02-10,Boston Celtics,Miami Heat,Away,19:30,103,85,W
+1562,2025-02-10,Brooklyn Nets,Charlotte Hornets,Home,19:30,97,89,W
+1563,2025-02-10,Charlotte Hornets,Brooklyn Nets,Away,19:30,89,97,L
+1564,2025-02-10,Cleveland Cavaliers,Minnesota Timberwolves,Home,19:00,128,107,W
+1565,2025-02-10,Dallas Mavericks,Sacramento Kings,Home,20:30,128,129,L
+1566,2025-02-10,Denver Nuggets,Portland Trail Blazers,Home,21:00,146,117,W
+1567,2025-02-10,Golden State Warriors,Milwaukee Bucks,Away,20:00,125,111,W
+1568,2025-02-10,Los Angeles Lakers,Utah Jazz,Home,22:30,132,113,W
+1569,2025-02-10,Miami Heat,Boston Celtics,Home,19:30,85,103,L
+1570,2025-02-10,Milwaukee Bucks,Golden State Warriors,Home,20:00,111,125,L
+1571,2025-02-10,Minnesota Timberwolves,Cleveland Cavaliers,Away,19:00,107,128,L
+1572,2025-02-10,New Orleans Pelicans,Oklahoma City Thunder,Away,20:00,101,137,L
+1573,2025-02-10,Oklahoma City Thunder,New Orleans Pelicans,Home,20:00,137,101,W
+1574,2025-02-10,Orlando Magic,Atlanta Hawks,Home,19:00,106,112,L
+1575,2025-02-10,Portland Trail Blazers,Denver Nuggets,Away,21:00,117,146,L
+1576,2025-02-10,Sacramento Kings,Dallas Mavericks,Away,20:30,129,128,W
+1577,2025-02-10,San Antonio Spurs,Washington Wizards,Away,19:00,131,121,W
+1578,2025-02-10,Utah Jazz,Los Angeles Lakers,Away,22:30,113,132,L
+1579,2025-02-10,Washington Wizards,San Antonio Spurs,Home,19:00,121,131,L
+1580,2025-02-11,Chicago Bulls,Detroit Pistons,Home,20:00,92,132,L
+1581,2025-02-11,Detroit Pistons,Chicago Bulls,Away,20:00,132,92,W
+1582,2025-02-11,Indiana Pacers,New York Knicks,Home,19:30,115,128,L
+1583,2025-02-11,Memphis Grizzlies,Phoenix Suns,Away,22:00,119,112,W
+1584,2025-02-11,New York Knicks,Indiana Pacers,Away,19:30,128,115,W
+1585,2025-02-11,Philadelphia 76ers,Toronto Raptors,Home,19:00,103,106,L
+1586,2025-02-11,Phoenix Suns,Memphis Grizzlies,Home,22:00,112,119,L
+1587,2025-02-11,Toronto Raptors,Philadelphia 76ers,Away,19:00,106,103,W
+1588,2025-02-12,Atlanta Hawks,New York Knicks,Away,19:30,148,149,L
+1589,2025-02-12,Boston Celtics,San Antonio Spurs,Home,19:00,116,103,W
+1590,2025-02-12,Brooklyn Nets,Philadelphia 76ers,Home,19:30,100,96,W
+1591,2025-02-12,Charlotte Hornets,Orlando Magic,Away,19:00,86,102,L
+1592,2025-02-12,Chicago Bulls,Detroit Pistons,Home,20:00,110,128,L
+1593,2025-02-12,Cleveland Cavaliers,Toronto Raptors,Away,19:30,131,108,W
+1594,2025-02-12,Dallas Mavericks,Golden State Warriors,Home,21:30,111,107,W
+1595,2025-02-12,Denver Nuggets,Portland Trail Blazers,Home,21:00,132,121,W
+1596,2025-02-12,Detroit Pistons,Chicago Bulls,Away,20:00,128,110,W
+1597,2025-02-12,Golden State Warriors,Dallas Mavericks,Away,21:30,107,111,L
+1598,2025-02-12,Houston Rockets,Phoenix Suns,Home,20:30,119,111,W
+1599,2025-02-12,Indiana Pacers,Washington Wizards,Away,19:00,134,130,W
+1600,2025-02-12,Los Angeles Clippers,Memphis Grizzlies,Home,22:30,128,114,W
+1601,2025-02-12,Los Angeles Lakers,Utah Jazz,Away,21:00,119,131,L
+1602,2025-02-12,Memphis Grizzlies,Los Angeles Clippers,Away,22:30,114,128,L
+1603,2025-02-12,Miami Heat,Oklahoma City Thunder,Away,20:00,101,115,L
+1604,2025-02-12,Milwaukee Bucks,Minnesota Timberwolves,Away,20:00,103,101,W
+1605,2025-02-12,Minnesota Timberwolves,Milwaukee Bucks,Home,20:00,101,103,L
+1606,2025-02-12,New Orleans Pelicans,Sacramento Kings,Home,20:00,111,119,L
+1607,2025-02-12,New York Knicks,Atlanta Hawks,Home,19:30,149,148,W
+1608,2025-02-12,Oklahoma City Thunder,Miami Heat,Home,20:00,115,101,W
+1609,2025-02-12,Orlando Magic,Charlotte Hornets,Home,19:00,102,86,W
+1610,2025-02-12,Philadelphia 76ers,Brooklyn Nets,Away,19:30,96,100,L
+1611,2025-02-12,Phoenix Suns,Houston Rockets,Away,20:30,111,119,L
+1612,2025-02-12,Portland Trail Blazers,Denver Nuggets,Away,21:00,121,132,L
+1613,2025-02-12,Sacramento Kings,New Orleans Pelicans,Away,20:00,119,111,W
+1614,2025-02-12,San Antonio Spurs,Boston Celtics,Away,19:00,103,116,L
+1615,2025-02-12,Toronto Raptors,Cleveland Cavaliers,Home,19:30,108,131,L
+1616,2025-02-12,Utah Jazz,Los Angeles Lakers,Home,21:00,131,119,W
+1617,2025-02-12,Washington Wizards,Indiana Pacers,Home,19:00,130,134,L
+1618,2025-02-13,Dallas Mavericks,Miami Heat,Home,20:30,118,113,W
+1619,2025-02-13,Golden State Warriors,Houston Rockets,Away,20:00,105,98,W
+1620,2025-02-13,Houston Rockets,Golden State Warriors,Home,20:00,98,105,L
+1621,2025-02-13,Los Angeles Clippers,Utah Jazz,Away,21:00,120,116,W
+1622,2025-02-13,Miami Heat,Dallas Mavericks,Away,20:30,113,118,L
+1623,2025-02-13,Minnesota Timberwolves,Oklahoma City Thunder,Home,20:30,116,101,W
+1624,2025-02-13,New Orleans Pelicans,Sacramento Kings,Home,20:00,140,133,W
+1625,2025-02-13,Oklahoma City Thunder,Minnesota Timberwolves,Away,20:30,101,116,L
+1626,2025-02-13,Sacramento Kings,New Orleans Pelicans,Away,20:00,133,140,L
+1627,2025-02-13,Utah Jazz,Los Angeles Clippers,Home,21:00,116,120,L
+1628,2025-02-19,Charlotte Hornets,Los Angeles Lakers,Away,22:00,100,97,W
+1629,2025-02-19,Los Angeles Lakers,Charlotte Hornets,Home,22:00,97,100,L
+1630,2025-02-20,Atlanta Hawks,Orlando Magic,Home,19:30,108,114,L
+1631,2025-02-20,Boston Celtics,Philadelphia 76ers,Away,19:00,124,104,W
+1632,2025-02-20,Brooklyn Nets,Cleveland Cavaliers,Home,19:30,97,110,L
+1633,2025-02-20,Charlotte Hornets,Denver Nuggets,Away,21:00,115,129,L
+1634,2025-02-20,Chicago Bulls,New York Knicks,Away,19:30,111,113,L
+1635,2025-02-20,Cleveland Cavaliers,Brooklyn Nets,Away,19:30,110,97,W
+1636,2025-02-20,Denver Nuggets,Charlotte Hornets,Home,21:00,129,115,W
+1637,2025-02-20,Indiana Pacers,Memphis Grizzlies,Home,19:00,127,113,W
+1638,2025-02-20,Los Angeles Clippers,Milwaukee Bucks,Away,20:00,110,116,L
+1639,2025-02-20,Los Angeles Lakers,Portland Trail Blazers,Away,22:00,110,102,W
+1640,2025-02-20,Memphis Grizzlies,Indiana Pacers,Away,19:00,113,127,L
+1641,2025-02-20,Milwaukee Bucks,Los Angeles Clippers,Home,20:00,116,110,W
+1642,2025-02-20,New York Knicks,Chicago Bulls,Home,19:30,113,111,W
+1643,2025-02-20,Orlando Magic,Atlanta Hawks,Away,19:30,114,108,W
+1644,2025-02-20,Philadelphia 76ers,Boston Celtics,Home,19:00,104,124,L
+1645,2025-02-20,Phoenix Suns,San Antonio Spurs,Away,21:30,109,120,L
+1646,2025-02-20,Portland Trail Blazers,Los Angeles Lakers,Home,22:00,102,110,L
+1647,2025-02-20,San Antonio Spurs,Phoenix Suns,Home,21:30,120,109,W
+1648,2025-02-21,Cleveland Cavaliers,New York Knicks,Home,19:00,142,105,W
+1649,2025-02-21,Dallas Mavericks,New Orleans Pelicans,Home,20:30,111,103,W
+1650,2025-02-21,Detroit Pistons,San Antonio Spurs,Away,20:30,125,110,W
+1651,2025-02-21,Golden State Warriors,Sacramento Kings,Away,22:00,132,108,W
+1652,2025-02-21,Houston Rockets,Minnesota Timberwolves,Home,21:30,121,115,W
+1653,2025-02-21,Memphis Grizzlies,Orlando Magic,Away,19:00,105,104,W
+1654,2025-02-21,Miami Heat,Toronto Raptors,Away,19:30,120,111,W
+1655,2025-02-21,Milwaukee Bucks,Washington Wizards,Away,19:00,104,101,W
+1656,2025-02-21,Minnesota Timberwolves,Houston Rockets,Away,21:30,115,121,L
+1657,2025-02-21,New Orleans Pelicans,Dallas Mavericks,Away,20:30,103,111,L
+1658,2025-02-21,New York Knicks,Cleveland Cavaliers,Away,19:00,105,142,L
+1659,2025-02-21,Oklahoma City Thunder,Utah Jazz,Away,21:30,130,107,W
+1660,2025-02-21,Orlando Magic,Memphis Grizzlies,Home,19:00,104,105,L
+1661,2025-02-21,Sacramento Kings,Golden State Warriors,Home,22:00,108,132,L
+1662,2025-02-21,San Antonio Spurs,Detroit Pistons,Home,20:30,110,125,L
+1663,2025-02-21,Toronto Raptors,Miami Heat,Home,19:30,111,120,L
+1664,2025-02-21,Utah Jazz,Oklahoma City Thunder,Home,21:30,107,130,L
+1665,2025-02-21,Washington Wizards,Milwaukee Bucks,Home,19:00,101,104,L
+1666,2025-02-22,Brooklyn Nets,Philadelphia 76ers,Away,19:30,105,103,W
+1667,2025-02-22,Charlotte Hornets,Portland Trail Blazers,Away,22:00,88,141,L
+1668,2025-02-22,Chicago Bulls,Phoenix Suns,Home,17:00,117,121,L
+1669,2025-02-22,Denver Nuggets,Los Angeles Lakers,Home,20:30,100,123,L
+1670,2025-02-22,Houston Rockets,Utah Jazz,Away,21:30,115,124,L
+1671,2025-02-22,Los Angeles Lakers,Denver Nuggets,Away,20:30,123,100,W
+1672,2025-02-22,Philadelphia 76ers,Brooklyn Nets,Home,19:30,103,105,L
+1673,2025-02-22,Phoenix Suns,Chicago Bulls,Away,17:00,121,117,W
+1674,2025-02-22,Portland Trail Blazers,Charlotte Hornets,Home,22:00,141,88,W
+1675,2025-02-22,Utah Jazz,Houston Rockets,Home,21:30,124,115,W
+1676,2025-02-23,Atlanta Hawks,Detroit Pistons,Home,18:00,143,148,L
+1677,2025-02-23,Boston Celtics,New York Knicks,Home,13:00,118,105,W
+1678,2025-02-23,Cleveland Cavaliers,Memphis Grizzlies,Home,19:00,129,123,W
+1679,2025-02-23,Dallas Mavericks,Golden State Warriors,Away,15:30,102,126,L
+1680,2025-02-23,Detroit Pistons,Atlanta Hawks,Away,18:00,148,143,W
+1681,2025-02-23,Golden State Warriors,Dallas Mavericks,Home,15:30,126,102,W
+1682,2025-02-23,Indiana Pacers,Los Angeles Clippers,Home,17:00,129,111,W
+1683,2025-02-23,Los Angeles Clippers,Indiana Pacers,Away,17:00,111,129,L
+1684,2025-02-23,Memphis Grizzlies,Cleveland Cavaliers,Away,19:00,123,129,L
+1685,2025-02-23,Miami Heat,Milwaukee Bucks,Away,18:00,113,120,L
+1686,2025-02-23,Milwaukee Bucks,Miami Heat,Home,18:00,120,113,W
+1687,2025-02-23,Minnesota Timberwolves,Oklahoma City Thunder,Home,21:30,123,130,L
+1688,2025-02-23,New Orleans Pelicans,San Antonio Spurs,Home,19:00,114,96,W
+1689,2025-02-23,New York Knicks,Boston Celtics,Away,13:00,105,118,L
+1690,2025-02-23,Oklahoma City Thunder,Minnesota Timberwolves,Away,21:30,130,123,W
+1691,2025-02-23,Orlando Magic,Washington Wizards,Home,18:00,110,90,W
+1692,2025-02-23,Phoenix Suns,Toronto Raptors,Away,18:00,109,127,L
+1693,2025-02-23,San Antonio Spurs,New Orleans Pelicans,Away,19:00,96,114,L
+1694,2025-02-23,Toronto Raptors,Phoenix Suns,Home,18:00,127,109,W
+1695,2025-02-23,Washington Wizards,Orlando Magic,Away,18:00,90,110,L
+1696,2025-02-24,Atlanta Hawks,Miami Heat,Home,19:30,98,86,W
+1697,2025-02-24,Brooklyn Nets,Washington Wizards,Away,19:00,99,107,L
+1698,2025-02-24,Charlotte Hornets,Sacramento Kings,Away,22:00,88,130,L
+1699,2025-02-24,Chicago Bulls,Philadelphia 76ers,Away,19:00,142,110,W
+1700,2025-02-24,Denver Nuggets,Indiana Pacers,Away,19:00,125,116,W
+1701,2025-02-24,Detroit Pistons,Los Angeles Clippers,Home,19:00,106,97,W
+1702,2025-02-24,Indiana Pacers,Denver Nuggets,Home,19:00,116,125,L
+1703,2025-02-24,Los Angeles Clippers,Detroit Pistons,Away,19:00,97,106,L
+1704,2025-02-24,Miami Heat,Atlanta Hawks,Away,19:30,86,98,L
+1705,2025-02-24,Minnesota Timberwolves,Oklahoma City Thunder,Away,20:00,131,128,W
+1706,2025-02-24,Oklahoma City Thunder,Minnesota Timberwolves,Home,20:00,128,131,L
+1707,2025-02-24,Philadelphia 76ers,Chicago Bulls,Home,19:00,110,142,L
+1708,2025-02-24,Portland Trail Blazers,Utah Jazz,Away,21:00,114,112,W
+1709,2025-02-24,Sacramento Kings,Charlotte Hornets,Home,22:00,130,88,W
+1710,2025-02-24,Utah Jazz,Portland Trail Blazers,Home,21:00,112,114,L
+1711,2025-02-24,Washington Wizards,Brooklyn Nets,Home,19:00,107,99,W
+1712,2025-02-25,Boston Celtics,Toronto Raptors,Away,19:00,111,101,W
+1713,2025-02-25,Charlotte Hornets,Golden State Warriors,Away,22:00,92,128,L
+1714,2025-02-25,Cleveland Cavaliers,Orlando Magic,Away,19:30,122,82,W
+1715,2025-02-25,Dallas Mavericks,Los Angeles Lakers,Away,22:00,99,107,L
+1716,2025-02-25,Golden State Warriors,Charlotte Hornets,Home,22:00,128,92,W
+1717,2025-02-25,Houston Rockets,Milwaukee Bucks,Home,20:00,100,97,W
+1718,2025-02-25,Los Angeles Lakers,Dallas Mavericks,Home,22:00,107,99,W
+1719,2025-02-25,Memphis Grizzlies,Phoenix Suns,Home,20:00,151,148,W
+1720,2025-02-25,Milwaukee Bucks,Houston Rockets,Away,20:00,97,100,L
+1721,2025-02-25,New Orleans Pelicans,San Antonio Spurs,Home,20:00,109,103,W
+1722,2025-02-25,Orlando Magic,Cleveland Cavaliers,Home,19:30,82,122,L
+1723,2025-02-25,Phoenix Suns,Memphis Grizzlies,Away,20:00,148,151,L
+1724,2025-02-25,San Antonio Spurs,New Orleans Pelicans,Away,20:00,103,109,L
+1725,2025-02-25,Toronto Raptors,Boston Celtics,Home,19:00,101,111,L
+1726,2025-02-26,Atlanta Hawks,Miami Heat,Away,19:30,109,131,L
+1727,2025-02-26,Boston Celtics,Detroit Pistons,Away,19:00,97,117,L
+1728,2025-02-26,Brooklyn Nets,Oklahoma City Thunder,Home,19:30,121,129,L
+1729,2025-02-26,Chicago Bulls,Los Angeles Clippers,Home,20:00,117,122,L
+1730,2025-02-26,Detroit Pistons,Boston Celtics,Home,19:00,117,97,W
+1731,2025-02-26,Houston Rockets,San Antonio Spurs,Home,21:30,118,106,W
+1732,2025-02-26,Indiana Pacers,Toronto Raptors,Home,19:00,111,91,W
+1733,2025-02-26,Los Angeles Clippers,Chicago Bulls,Away,20:00,122,117,W
+1734,2025-02-26,Miami Heat,Atlanta Hawks,Home,19:30,131,109,W
+1735,2025-02-26,New York Knicks,Philadelphia 76ers,Home,19:00,110,105,W
+1736,2025-02-26,Oklahoma City Thunder,Brooklyn Nets,Away,19:30,129,121,W
+1737,2025-02-26,Philadelphia 76ers,New York Knicks,Away,19:00,105,110,L
+1738,2025-02-26,Portland Trail Blazers,Washington Wizards,Away,19:00,129,121,W
+1739,2025-02-26,Sacramento Kings,Utah Jazz,Away,21:00,118,101,W
+1740,2025-02-26,San Antonio Spurs,Houston Rockets,Away,21:30,106,118,L
+1741,2025-02-26,Toronto Raptors,Indiana Pacers,Away,19:00,91,111,L
+1742,2025-02-26,Utah Jazz,Sacramento Kings,Home,21:00,101,118,L
+1743,2025-02-26,Washington Wizards,Portland Trail Blazers,Home,19:00,121,129,L
+1744,2025-02-27,Charlotte Hornets,Dallas Mavericks,Away,20:30,96,103,L
+1745,2025-02-27,Dallas Mavericks,Charlotte Hornets,Home,20:30,103,96,W
+1746,2025-02-27,Denver Nuggets,Milwaukee Bucks,Away,20:00,112,121,L
+1747,2025-02-27,Golden State Warriors,Orlando Magic,Away,19:00,121,115,W
+1748,2025-02-27,Los Angeles Lakers,Minnesota Timberwolves,Home,22:30,111,102,W
+1749,2025-02-27,Milwaukee Bucks,Denver Nuggets,Home,20:00,121,112,W
+1750,2025-02-27,Minnesota Timberwolves,Los Angeles Lakers,Away,22:30,102,111,L
+1751,2025-02-27,New Orleans Pelicans,Phoenix Suns,Away,21:00,124,116,W
+1752,2025-02-27,Orlando Magic,Golden State Warriors,Home,19:00,115,121,L
+1753,2025-02-27,Phoenix Suns,New Orleans Pelicans,Home,21:00,116,124,L
+1754,2025-02-28,Atlanta Hawks,Oklahoma City Thunder,Home,19:30,119,135,L
+1755,2025-02-28,Boston Celtics,Cleveland Cavaliers,Home,19:30,116,123,L
+1756,2025-02-28,Brooklyn Nets,Portland Trail Blazers,Home,19:30,102,121,L
+1757,2025-02-28,Chicago Bulls,Toronto Raptors,Home,20:00,125,115,W
+1758,2025-02-28,Cleveland Cavaliers,Boston Celtics,Away,19:30,123,116,W
+1759,2025-02-28,Denver Nuggets,Detroit Pistons,Away,19:00,134,119,W
+1760,2025-02-28,Detroit Pistons,Denver Nuggets,Home,19:00,119,134,L
+1761,2025-02-28,Indiana Pacers,Miami Heat,Away,20:00,120,125,L
+1762,2025-02-28,Los Angeles Clippers,Los Angeles Lakers,Away,22:00,102,106,L
+1763,2025-02-28,Los Angeles Lakers,Los Angeles Clippers,Home,22:00,106,102,W
+1764,2025-02-28,Memphis Grizzlies,New York Knicks,Home,20:00,113,114,L
+1765,2025-02-28,Miami Heat,Indiana Pacers,Home,20:00,125,120,W
+1766,2025-02-28,Minnesota Timberwolves,Utah Jazz,Away,21:30,116,117,L
+1767,2025-02-28,New Orleans Pelicans,Phoenix Suns,Away,21:00,108,125,L
+1768,2025-02-28,New York Knicks,Memphis Grizzlies,Away,20:00,114,113,W
+1769,2025-02-28,Oklahoma City Thunder,Atlanta Hawks,Away,19:30,135,119,W
+1770,2025-02-28,Phoenix Suns,New Orleans Pelicans,Home,21:00,125,108,W
+1771,2025-02-28,Portland Trail Blazers,Brooklyn Nets,Away,19:30,121,102,W
+1772,2025-02-28,Toronto Raptors,Chicago Bulls,Away,20:00,115,125,L
+1773,2025-02-28,Utah Jazz,Minnesota Timberwolves,Home,21:30,117,116,W
+1774,2025-03-01,Brooklyn Nets,Detroit Pistons,Away,19:00,94,115,L
+1775,2025-03-01,Charlotte Hornets,Washington Wizards,Home,18:00,100,113,L
+1776,2025-03-01,Dallas Mavericks,Milwaukee Bucks,Home,20:30,117,132,L
+1777,2025-03-01,Detroit Pistons,Brooklyn Nets,Home,19:00,115,94,W
+1778,2025-03-01,Golden State Warriors,Philadelphia 76ers,Away,20:30,119,126,L
+1779,2025-03-01,Houston Rockets,Sacramento Kings,Home,20:00,103,113,L
+1780,2025-03-01,Memphis Grizzlies,San Antonio Spurs,Home,20:00,128,130,L
+1781,2025-03-01,Milwaukee Bucks,Dallas Mavericks,Away,20:30,132,117,W
+1782,2025-03-01,Philadelphia 76ers,Golden State Warriors,Home,20:30,126,119,W
+1783,2025-03-01,Sacramento Kings,Houston Rockets,Away,20:00,113,103,W
+1784,2025-03-01,San Antonio Spurs,Memphis Grizzlies,Away,20:00,130,128,W
+1785,2025-03-01,Washington Wizards,Charlotte Hornets,Away,18:00,113,100,W
+1786,2025-03-02,Boston Celtics,Denver Nuggets,Home,13:00,110,103,W
+1787,2025-03-02,Chicago Bulls,Indiana Pacers,Away,17:00,112,127,L
+1788,2025-03-02,Cleveland Cavaliers,Portland Trail Blazers,Home,15:30,133,129,W
+1789,2025-03-02,Denver Nuggets,Boston Celtics,Away,13:00,103,110,L
+1790,2025-03-02,Indiana Pacers,Chicago Bulls,Home,17:00,127,112,W
+1791,2025-03-02,Los Angeles Clippers,Los Angeles Lakers,Away,21:30,102,108,L
+1792,2025-03-02,Los Angeles Lakers,Los Angeles Clippers,Home,21:30,108,102,W
+1793,2025-03-02,Miami Heat,New York Knicks,Home,18:00,112,116,L
+1794,2025-03-02,Minnesota Timberwolves,Phoenix Suns,Away,21:30,116,98,W
+1795,2025-03-02,New Orleans Pelicans,Utah Jazz,Away,20:00,128,121,W
+1796,2025-03-02,New York Knicks,Miami Heat,Away,18:00,116,112,W
+1797,2025-03-02,Oklahoma City Thunder,San Antonio Spurs,Away,19:00,146,132,W
+1798,2025-03-02,Orlando Magic,Toronto Raptors,Home,18:00,102,104,L
+1799,2025-03-02,Phoenix Suns,Minnesota Timberwolves,Home,21:30,98,116,L
+1800,2025-03-02,Portland Trail Blazers,Cleveland Cavaliers,Away,15:30,129,133,L
+1801,2025-03-02,San Antonio Spurs,Oklahoma City Thunder,Home,19:00,132,146,L
+1802,2025-03-02,Toronto Raptors,Orlando Magic,Away,18:00,104,102,W
+1803,2025-03-02,Utah Jazz,New Orleans Pelicans,Home,20:00,121,128,L
+1804,2025-03-03,Atlanta Hawks,Memphis Grizzlies,Away,20:00,132,130,W
+1805,2025-03-03,Charlotte Hornets,Golden State Warriors,Home,19:00,101,119,L
+1806,2025-03-03,Dallas Mavericks,Sacramento Kings,Home,20:30,98,122,L
+1807,2025-03-03,Detroit Pistons,Utah Jazz,Away,21:00,134,106,W
+1808,2025-03-03,Golden State Warriors,Charlotte Hornets,Away,19:00,119,101,W
+1809,2025-03-03,Houston Rockets,Oklahoma City Thunder,Away,20:00,128,137,L
+1810,2025-03-03,Memphis Grizzlies,Atlanta Hawks,Home,20:00,130,132,L
+1811,2025-03-03,Miami Heat,Washington Wizards,Home,19:30,106,90,W
+1812,2025-03-03,Oklahoma City Thunder,Houston Rockets,Home,20:00,137,128,W
+1813,2025-03-03,Philadelphia 76ers,Portland Trail Blazers,Home,19:00,102,119,L
+1814,2025-03-03,Portland Trail Blazers,Philadelphia 76ers,Away,19:00,119,102,W
+1815,2025-03-03,Sacramento Kings,Dallas Mavericks,Away,20:30,122,98,W
+1816,2025-03-03,Utah Jazz,Detroit Pistons,Home,21:00,106,134,L
+1817,2025-03-03,Washington Wizards,Miami Heat,Away,19:30,90,106,L
+1818,2025-03-04,Atlanta Hawks,Milwaukee Bucks,Home,19:30,121,127,L
+1819,2025-03-04,Brooklyn Nets,San Antonio Spurs,Away,20:30,113,127,L
+1820,2025-03-04,Chicago Bulls,Cleveland Cavaliers,Home,20:00,117,139,L
+1821,2025-03-04,Cleveland Cavaliers,Chicago Bulls,Away,20:00,139,117,W
+1822,2025-03-04,Golden State Warriors,New York Knicks,Away,19:30,114,102,W
+1823,2025-03-04,Houston Rockets,Indiana Pacers,Away,19:00,102,115,L
+1824,2025-03-04,Indiana Pacers,Houston Rockets,Home,19:00,115,102,W
+1825,2025-03-04,Los Angeles Clippers,Phoenix Suns,Away,22:00,117,119,L
+1826,2025-03-04,Los Angeles Lakers,New Orleans Pelicans,Home,22:30,136,115,W
+1827,2025-03-04,Milwaukee Bucks,Atlanta Hawks,Away,19:30,127,121,W
+1828,2025-03-04,Minnesota Timberwolves,Philadelphia 76ers,Home,20:00,126,112,W
+1829,2025-03-04,New Orleans Pelicans,Los Angeles Lakers,Away,22:30,115,136,L
+1830,2025-03-04,New York Knicks,Golden State Warriors,Home,19:30,102,114,L
+1831,2025-03-04,Orlando Magic,Toronto Raptors,Home,19:00,113,114,L
+1832,2025-03-04,Philadelphia 76ers,Minnesota Timberwolves,Away,20:00,112,126,L
+1833,2025-03-04,Phoenix Suns,Los Angeles Clippers,Home,22:00,119,117,W
+1834,2025-03-04,San Antonio Spurs,Brooklyn Nets,Home,20:30,127,113,W
+1835,2025-03-04,Toronto Raptors,Orlando Magic,Away,19:00,114,113,W
+1836,2025-03-05,Boston Celtics,Portland Trail Blazers,Home,19:00,128,118,W
+1837,2025-03-05,Charlotte Hornets,Minnesota Timberwolves,Home,19:00,110,125,L
+1838,2025-03-05,Cleveland Cavaliers,Miami Heat,Home,19:00,112,107,W
+1839,2025-03-05,Dallas Mavericks,Milwaukee Bucks,Away,20:00,107,137,L
+1840,2025-03-05,Denver Nuggets,Sacramento Kings,Home,21:00,116,110,W
+1841,2025-03-05,Detroit Pistons,Los Angeles Clippers,Away,22:30,115,123,L
+1842,2025-03-05,Los Angeles Clippers,Detroit Pistons,Home,22:30,123,115,W
+1843,2025-03-05,Memphis Grizzlies,Oklahoma City Thunder,Home,21:30,103,120,L
+1844,2025-03-05,Miami Heat,Cleveland Cavaliers,Away,19:00,107,112,L
+1845,2025-03-05,Milwaukee Bucks,Dallas Mavericks,Home,20:00,137,107,W
+1846,2025-03-05,Minnesota Timberwolves,Charlotte Hornets,Away,19:00,125,110,W
+1847,2025-03-05,Oklahoma City Thunder,Memphis Grizzlies,Away,21:30,120,103,W
+1848,2025-03-05,Portland Trail Blazers,Boston Celtics,Away,19:00,118,128,L
+1849,2025-03-05,Sacramento Kings,Denver Nuggets,Away,21:00,110,116,L
+1850,2025-03-05,Utah Jazz,Washington Wizards,Away,19:00,122,125,L
+1851,2025-03-05,Washington Wizards,Utah Jazz,Home,19:00,125,122,W
+1852,2025-03-06,Atlanta Hawks,Indiana Pacers,Home,19:30,124,118,W
+1853,2025-03-06,Boston Celtics,Philadelphia 76ers,Home,19:30,123,105,W
+1854,2025-03-06,Brooklyn Nets,Golden State Warriors,Home,19:30,119,121,L
+1855,2025-03-06,Chicago Bulls,Orlando Magic,Away,19:00,125,123,W
+1856,2025-03-06,Golden State Warriors,Brooklyn Nets,Away,19:30,121,119,W
+1857,2025-03-06,Houston Rockets,New Orleans Pelicans,Away,20:00,109,97,W
+1858,2025-03-06,Indiana Pacers,Atlanta Hawks,Away,19:30,118,124,L
+1859,2025-03-06,Los Angeles Lakers,New York Knicks,Home,22:00,113,109,W
+1860,2025-03-06,New Orleans Pelicans,Houston Rockets,Home,20:00,97,109,L
+1861,2025-03-06,New York Knicks,Los Angeles Lakers,Away,22:00,109,113,L
+1862,2025-03-06,Orlando Magic,Chicago Bulls,Home,19:00,123,125,L
+1863,2025-03-06,Philadelphia 76ers,Boston Celtics,Away,19:30,105,123,L
+1864,2025-03-07,Charlotte Hornets,Cleveland Cavaliers,Home,19:00,117,118,L
+1865,2025-03-07,Cleveland Cavaliers,Charlotte Hornets,Away,19:00,118,117,W
+1866,2025-03-07,Dallas Mavericks,Memphis Grizzlies,Home,19:30,111,122,L
+1867,2025-03-07,Denver Nuggets,Phoenix Suns,Home,22:00,149,141,W
+1868,2025-03-07,Los Angeles Clippers,New York Knicks,Home,22:30,105,95,W
+1869,2025-03-07,Memphis Grizzlies,Dallas Mavericks,Away,19:30,122,111,W
+1870,2025-03-07,Miami Heat,Minnesota Timberwolves,Home,20:00,104,106,L
+1871,2025-03-07,Minnesota Timberwolves,Miami Heat,Away,20:00,106,104,W
+1872,2025-03-07,New York Knicks,Los Angeles Clippers,Away,22:30,95,105,L
+1873,2025-03-07,Oklahoma City Thunder,Portland Trail Blazers,Home,20:00,107,89,W
+1874,2025-03-07,Phoenix Suns,Denver Nuggets,Away,22:00,141,149,L
+1875,2025-03-07,Portland Trail Blazers,Oklahoma City Thunder,Away,20:00,89,107,L
+1876,2025-03-07,Sacramento Kings,San Antonio Spurs,Home,22:00,127,109,W
+1877,2025-03-07,San Antonio Spurs,Sacramento Kings,Away,22:00,109,127,L
+1878,2025-03-07,Toronto Raptors,Utah Jazz,Home,19:30,118,109,W
+1879,2025-03-07,Utah Jazz,Toronto Raptors,Away,19:30,109,118,L
+1880,2025-03-08,Atlanta Hawks,Indiana Pacers,Home,19:30,120,118,W
+1881,2025-03-08,Boston Celtics,Los Angeles Lakers,Home,20:30,111,101,W
+1882,2025-03-08,Brooklyn Nets,Charlotte Hornets,Away,18:00,102,105,L
+1883,2025-03-08,Charlotte Hornets,Brooklyn Nets,Home,18:00,105,102,W
+1884,2025-03-08,Chicago Bulls,Miami Heat,Away,20:00,114,109,W
+1885,2025-03-08,Detroit Pistons,Golden State Warriors,Away,20:30,110,115,L
+1886,2025-03-08,Golden State Warriors,Detroit Pistons,Home,20:30,115,110,W
+1887,2025-03-08,Houston Rockets,New Orleans Pelicans,Home,19:00,146,117,W
+1888,2025-03-08,Indiana Pacers,Atlanta Hawks,Away,19:30,118,120,L
+1889,2025-03-08,Los Angeles Lakers,Boston Celtics,Away,20:30,101,111,L
+1890,2025-03-08,Miami Heat,Chicago Bulls,Home,20:00,109,114,L
+1891,2025-03-08,Milwaukee Bucks,Orlando Magic,Home,20:00,109,111,L
+1892,2025-03-08,New Orleans Pelicans,Houston Rockets,Away,19:00,117,146,L
+1893,2025-03-08,Orlando Magic,Milwaukee Bucks,Away,20:00,111,109,W
+1894,2025-03-08,Toronto Raptors,Washington Wizards,Home,19:30,117,118,L
+1895,2025-03-08,Washington Wizards,Toronto Raptors,Away,19:30,118,117,W
+1896,2025-03-09,Cleveland Cavaliers,Milwaukee Bucks,Away,20:00,112,100,W
+1897,2025-03-09,Dallas Mavericks,Phoenix Suns,Home,15:30,116,125,L
+1898,2025-03-09,Denver Nuggets,Oklahoma City Thunder,Away,13:00,103,127,L
+1899,2025-03-09,Detroit Pistons,Portland Trail Blazers,Away,21:00,119,112,W
+1900,2025-03-09,Los Angeles Clippers,Sacramento Kings,Home,21:30,111,110,W
+1901,2025-03-09,Memphis Grizzlies,New Orleans Pelicans,Away,19:00,107,104,W
+1902,2025-03-09,Milwaukee Bucks,Cleveland Cavaliers,Home,20:00,100,112,L
+1903,2025-03-09,Minnesota Timberwolves,San Antonio Spurs,Home,20:00,141,124,W
+1904,2025-03-09,New Orleans Pelicans,Memphis Grizzlies,Home,19:00,104,107,L
+1905,2025-03-09,Oklahoma City Thunder,Denver Nuggets,Home,13:00,127,103,W
+1906,2025-03-09,Philadelphia 76ers,Utah Jazz,Home,19:30,126,122,W
+1907,2025-03-09,Phoenix Suns,Dallas Mavericks,Away,15:30,125,116,W
+1908,2025-03-09,Portland Trail Blazers,Detroit Pistons,Home,21:00,112,119,L
+1909,2025-03-09,Sacramento Kings,Los Angeles Clippers,Away,21:30,110,111,L
+1910,2025-03-09,San Antonio Spurs,Minnesota Timberwolves,Away,20:00,124,141,L
+1911,2025-03-09,Utah Jazz,Philadelphia 76ers,Away,19:30,122,126,L
+1912,2025-03-10,Atlanta Hawks,Philadelphia 76ers,Home,19:30,132,123,W
+1913,2025-03-10,Boston Celtics,Utah Jazz,Home,19:30,114,108,W
+1914,2025-03-10,Brooklyn Nets,Los Angeles Lakers,Home,19:30,111,108,W
+1915,2025-03-10,Charlotte Hornets,Miami Heat,Away,19:30,105,102,W
+1916,2025-03-10,Chicago Bulls,Indiana Pacers,Home,20:00,121,103,W
+1917,2025-03-10,Dallas Mavericks,San Antonio Spurs,Away,20:30,133,129,W
+1918,2025-03-10,Denver Nuggets,Oklahoma City Thunder,Away,20:00,140,127,W
+1919,2025-03-10,Golden State Warriors,Portland Trail Blazers,Home,22:00,130,120,W
+1920,2025-03-10,Houston Rockets,Orlando Magic,Home,20:00,97,84,W
+1921,2025-03-10,Indiana Pacers,Chicago Bulls,Away,20:00,103,121,L
+1922,2025-03-10,Los Angeles Lakers,Brooklyn Nets,Away,19:30,108,111,L
+1923,2025-03-10,Memphis Grizzlies,Phoenix Suns,Home,20:00,120,118,W
+1924,2025-03-10,Miami Heat,Charlotte Hornets,Home,19:30,102,105,L
+1925,2025-03-10,New York Knicks,Sacramento Kings,Away,22:30,133,104,W
+1926,2025-03-10,Oklahoma City Thunder,Denver Nuggets,Home,20:00,127,140,L
+1927,2025-03-10,Orlando Magic,Houston Rockets,Away,20:00,84,97,L
+1928,2025-03-10,Philadelphia 76ers,Atlanta Hawks,Away,19:30,123,132,L
+1929,2025-03-10,Phoenix Suns,Memphis Grizzlies,Away,20:00,118,120,L
+1930,2025-03-10,Portland Trail Blazers,Golden State Warriors,Away,22:00,120,130,L
+1931,2025-03-10,Sacramento Kings,New York Knicks,Home,22:30,104,133,L
+1932,2025-03-10,San Antonio Spurs,Dallas Mavericks,Home,20:30,129,133,L
+1933,2025-03-10,Toronto Raptors,Washington Wizards,Home,19:30,119,104,W
+1934,2025-03-10,Utah Jazz,Boston Celtics,Away,19:30,108,114,L
+1935,2025-03-10,Washington Wizards,Toronto Raptors,Away,19:30,104,119,L
+1936,2025-03-11,Brooklyn Nets,Cleveland Cavaliers,Away,19:00,104,109,L
+1937,2025-03-11,Cleveland Cavaliers,Brooklyn Nets,Home,19:00,109,104,W
+1938,2025-03-11,Detroit Pistons,Washington Wizards,Home,19:00,123,103,W
+1939,2025-03-11,Indiana Pacers,Milwaukee Bucks,Home,19:30,115,114,W
+1940,2025-03-11,Los Angeles Clippers,New Orleans Pelicans,Away,20:00,120,127,L
+1941,2025-03-11,Milwaukee Bucks,Indiana Pacers,Away,19:30,114,115,L
+1942,2025-03-11,New Orleans Pelicans,Los Angeles Clippers,Home,20:00,127,120,W
+1943,2025-03-11,Washington Wizards,Detroit Pistons,Away,19:00,103,123,L
+1944,2025-03-12,Atlanta Hawks,Charlotte Hornets,Home,19:30,123,110,W
+1945,2025-03-12,Boston Celtics,Oklahoma City Thunder,Home,19:30,112,118,L
+1946,2025-03-12,Charlotte Hornets,Atlanta Hawks,Away,19:30,110,123,L
+1947,2025-03-12,Dallas Mavericks,San Antonio Spurs,Away,20:00,116,126,L
+1948,2025-03-12,Denver Nuggets,Minnesota Timberwolves,Home,22:00,95,115,L
+1949,2025-03-12,Houston Rockets,Phoenix Suns,Home,20:00,111,104,W
+1950,2025-03-12,Los Angeles Clippers,Miami Heat,Away,20:00,119,104,W
+1951,2025-03-12,Memphis Grizzlies,Utah Jazz,Home,20:00,122,115,W
+1952,2025-03-12,Miami Heat,Los Angeles Clippers,Home,20:00,104,119,L
+1953,2025-03-12,Minnesota Timberwolves,Denver Nuggets,Away,22:00,115,95,W
+1954,2025-03-12,New York Knicks,Portland Trail Blazers,Away,22:00,114,113,W
+1955,2025-03-12,Oklahoma City Thunder,Boston Celtics,Away,19:30,118,112,W
+1956,2025-03-12,Philadelphia 76ers,Toronto Raptors,Away,19:30,105,118,L
+1957,2025-03-12,Phoenix Suns,Houston Rockets,Away,20:00,104,111,L
+1958,2025-03-12,Portland Trail Blazers,New York Knicks,Home,22:00,113,114,L
+1959,2025-03-12,San Antonio Spurs,Dallas Mavericks,Home,20:00,126,116,W
+1960,2025-03-12,Toronto Raptors,Philadelphia 76ers,Home,19:30,118,105,W
+1961,2025-03-12,Utah Jazz,Memphis Grizzlies,Away,20:00,115,122,L
+1962,2025-03-13,Brooklyn Nets,Chicago Bulls,Away,20:00,110,116,L
+1963,2025-03-13,Chicago Bulls,Brooklyn Nets,Home,20:00,116,110,W
+1964,2025-03-13,Detroit Pistons,Washington Wizards,Home,19:00,125,129,L
+1965,2025-03-13,Golden State Warriors,Sacramento Kings,Home,22:00,130,104,W
+1966,2025-03-13,Los Angeles Lakers,Milwaukee Bucks,Away,19:30,106,126,L
+1967,2025-03-13,Milwaukee Bucks,Los Angeles Lakers,Home,19:30,126,106,W
+1968,2025-03-13,New Orleans Pelicans,Orlando Magic,Home,20:00,93,113,L
+1969,2025-03-13,Orlando Magic,New Orleans Pelicans,Away,20:00,113,93,W
+1970,2025-03-13,Sacramento Kings,Golden State Warriors,Away,22:00,104,130,L
+1971,2025-03-13,Washington Wizards,Detroit Pistons,Away,19:00,129,125,W
+1972,2025-03-14,Atlanta Hawks,Los Angeles Clippers,Home,19:30,98,121,L
+1973,2025-03-14,Boston Celtics,Miami Heat,Away,19:00,103,91,W
+1974,2025-03-14,Charlotte Hornets,San Antonio Spurs,Away,20:00,145,134,W
+1975,2025-03-14,Cleveland Cavaliers,Memphis Grizzlies,Away,20:00,133,124,W
+1976,2025-03-14,Dallas Mavericks,Houston Rockets,Away,20:00,96,133,L
+1977,2025-03-14,Denver Nuggets,Los Angeles Lakers,Home,21:30,131,126,W
+1978,2025-03-14,Houston Rockets,Dallas Mavericks,Home,20:00,133,96,W
+1979,2025-03-14,Indiana Pacers,Philadelphia 76ers,Away,19:00,112,100,W
+1980,2025-03-14,Los Angeles Clippers,Atlanta Hawks,Away,19:30,121,98,W
+1981,2025-03-14,Los Angeles Lakers,Denver Nuggets,Away,21:30,126,131,L
+1982,2025-03-14,Memphis Grizzlies,Cleveland Cavaliers,Home,20:00,124,133,L
+1983,2025-03-14,Miami Heat,Boston Celtics,Home,19:00,91,103,L
+1984,2025-03-14,Minnesota Timberwolves,Orlando Magic,Home,20:00,118,111,W
+1985,2025-03-14,Orlando Magic,Minnesota Timberwolves,Away,20:00,111,118,L
+1986,2025-03-14,Philadelphia 76ers,Indiana Pacers,Home,19:00,100,112,L
+1987,2025-03-14,Phoenix Suns,Sacramento Kings,Home,22:00,122,106,W
+1988,2025-03-14,Sacramento Kings,Phoenix Suns,Away,22:00,106,122,L
+1989,2025-03-14,San Antonio Spurs,Charlotte Hornets,Home,20:00,134,145,L
+1990,2025-03-14,Toronto Raptors,Utah Jazz,Away,21:30,126,118,W
+1991,2025-03-14,Utah Jazz,Toronto Raptors,Home,21:30,118,126,L
+1992,2025-03-15,Boston Celtics,Brooklyn Nets,Away,18:00,115,113,W
+1993,2025-03-15,Brooklyn Nets,Boston Celtics,Home,18:00,113,115,L
+1994,2025-03-15,Chicago Bulls,Houston Rockets,Away,20:00,114,117,L
+1995,2025-03-15,Denver Nuggets,Washington Wizards,Home,21:00,123,126,L
+1996,2025-03-15,Detroit Pistons,Oklahoma City Thunder,Home,19:00,107,113,L
+1997,2025-03-15,Golden State Warriors,New York Knicks,Home,20:30,97,94,W
+1998,2025-03-15,Houston Rockets,Chicago Bulls,Home,20:00,117,114,W
+1999,2025-03-15,Indiana Pacers,Milwaukee Bucks,Away,20:00,119,126,L
+2000,2025-03-15,Memphis Grizzlies,Miami Heat,Home,20:00,125,91,W
+2001,2025-03-15,Miami Heat,Memphis Grizzlies,Away,20:00,91,125,L
+2002,2025-03-15,Milwaukee Bucks,Indiana Pacers,Home,20:00,126,119,W
+2003,2025-03-15,New Orleans Pelicans,San Antonio Spurs,Away,20:30,115,119,L
+2004,2025-03-15,New York Knicks,Golden State Warriors,Away,20:30,94,97,L
+2005,2025-03-15,Oklahoma City Thunder,Detroit Pistons,Away,19:00,113,107,W
+2006,2025-03-15,San Antonio Spurs,New Orleans Pelicans,Home,20:30,119,115,W
+2007,2025-03-15,Washington Wizards,Denver Nuggets,Away,21:00,126,123,W
+2008,2025-03-16,Atlanta Hawks,Brooklyn Nets,Away,18:00,114,122,L
+2009,2025-03-16,Brooklyn Nets,Atlanta Hawks,Home,18:00,122,114,W
+2010,2025-03-16,Charlotte Hornets,Los Angeles Clippers,Away,19:00,88,123,L
+2011,2025-03-16,Cleveland Cavaliers,Orlando Magic,Home,13:00,103,108,L
+2012,2025-03-16,Dallas Mavericks,Philadelphia 76ers,Home,13:00,125,130,L
+2013,2025-03-16,Los Angeles Clippers,Charlotte Hornets,Home,19:00,123,88,W
+2014,2025-03-16,Los Angeles Lakers,Phoenix Suns,Home,15:30,107,96,W
+2015,2025-03-16,Milwaukee Bucks,Oklahoma City Thunder,Home,21:00,105,121,L
+2016,2025-03-16,Minnesota Timberwolves,Utah Jazz,Home,19:00,128,102,W
+2017,2025-03-16,Oklahoma City Thunder,Milwaukee Bucks,Away,21:00,121,105,W
+2018,2025-03-16,Orlando Magic,Cleveland Cavaliers,Away,13:00,108,103,W
+2019,2025-03-16,Philadelphia 76ers,Dallas Mavericks,Away,13:00,130,125,W
+2020,2025-03-16,Phoenix Suns,Los Angeles Lakers,Away,15:30,96,107,L
+2021,2025-03-16,Portland Trail Blazers,Toronto Raptors,Home,18:00,105,102,W
+2022,2025-03-16,Toronto Raptors,Portland Trail Blazers,Away,18:00,102,105,L
+2023,2025-03-16,Utah Jazz,Minnesota Timberwolves,Away,19:00,102,128,L
+2024,2025-03-17,Chicago Bulls,Utah Jazz,Away,21:00,111,97,W
+2025,2025-03-17,Denver Nuggets,Golden State Warriors,Away,22:00,114,105,W
+2026,2025-03-17,Detroit Pistons,New Orleans Pelicans,Away,20:00,127,81,W
+2027,2025-03-17,Golden State Warriors,Denver Nuggets,Home,22:00,105,114,L
+2028,2025-03-17,Houston Rockets,Philadelphia 76ers,Home,20:00,144,137,W
+2029,2025-03-17,Indiana Pacers,Minnesota Timberwolves,Away,20:00,132,130,W
+2030,2025-03-17,Los Angeles Lakers,San Antonio Spurs,Home,22:30,125,109,W
+2031,2025-03-17,Memphis Grizzlies,Sacramento Kings,Away,22:00,122,132,L
+2032,2025-03-17,Miami Heat,New York Knicks,Away,19:30,95,116,L
+2033,2025-03-17,Minnesota Timberwolves,Indiana Pacers,Home,20:00,130,132,L
+2034,2025-03-17,New Orleans Pelicans,Detroit Pistons,Home,20:00,81,127,L
+2035,2025-03-17,New York Knicks,Miami Heat,Home,19:30,116,95,W
+2036,2025-03-17,Philadelphia 76ers,Houston Rockets,Away,20:00,137,144,L
+2037,2025-03-17,Phoenix Suns,Toronto Raptors,Home,22:00,129,89,W
+2038,2025-03-17,Portland Trail Blazers,Washington Wizards,Home,22:00,112,97,W
+2039,2025-03-17,Sacramento Kings,Memphis Grizzlies,Home,22:00,132,122,W
+2040,2025-03-17,San Antonio Spurs,Los Angeles Lakers,Away,22:30,109,125,L
+2041,2025-03-17,Toronto Raptors,Phoenix Suns,Away,22:00,89,129,L
+2042,2025-03-17,Utah Jazz,Chicago Bulls,Home,21:00,97,111,L
+2043,2025-03-17,Washington Wizards,Portland Trail Blazers,Away,22:00,97,112,L
+2044,2025-03-18,Atlanta Hawks,Charlotte Hornets,Away,19:00,134,102,W
+2045,2025-03-18,Boston Celtics,Brooklyn Nets,Home,19:30,104,96,W
+2046,2025-03-18,Brooklyn Nets,Boston Celtics,Away,19:30,96,104,L
+2047,2025-03-18,Charlotte Hornets,Atlanta Hawks,Home,19:00,102,134,L
+2048,2025-03-18,Cleveland Cavaliers,Los Angeles Clippers,Away,22:30,119,132,L
+2049,2025-03-18,Golden State Warriors,Milwaukee Bucks,Home,22:00,104,93,W
+2050,2025-03-18,Los Angeles Clippers,Cleveland Cavaliers,Home,22:30,132,119,W
+2051,2025-03-18,Milwaukee Bucks,Golden State Warriors,Away,22:00,93,104,L
+2052,2025-03-19,Chicago Bulls,Phoenix Suns,Away,22:00,121,127,L
+2053,2025-03-19,Cleveland Cavaliers,Sacramento Kings,Away,22:00,119,123,L
+2054,2025-03-19,Dallas Mavericks,Indiana Pacers,Away,19:00,131,135,L
+2055,2025-03-19,Denver Nuggets,Los Angeles Lakers,Away,22:00,108,120,L
+2056,2025-03-19,Detroit Pistons,Miami Heat,Away,19:30,116,113,W
+2057,2025-03-19,Houston Rockets,Orlando Magic,Away,19:00,116,108,W
+2058,2025-03-19,Indiana Pacers,Dallas Mavericks,Home,19:00,135,131,W
+2059,2025-03-19,Los Angeles Lakers,Denver Nuggets,Home,22:00,120,108,W
+2060,2025-03-19,Memphis Grizzlies,Portland Trail Blazers,Away,22:00,99,115,L
+2061,2025-03-19,Miami Heat,Detroit Pistons,Home,19:30,113,116,L
+2062,2025-03-19,Minnesota Timberwolves,New Orleans Pelicans,Home,20:00,115,119,L
+2063,2025-03-19,New Orleans Pelicans,Minnesota Timberwolves,Away,20:00,119,115,W
+2064,2025-03-19,New York Knicks,San Antonio Spurs,Away,20:00,105,120,L
+2065,2025-03-19,Oklahoma City Thunder,Philadelphia 76ers,Home,20:00,133,100,W
+2066,2025-03-19,Orlando Magic,Houston Rockets,Home,19:00,108,116,L
+2067,2025-03-19,Philadelphia 76ers,Oklahoma City Thunder,Away,20:00,100,133,L
+2068,2025-03-19,Phoenix Suns,Chicago Bulls,Home,22:00,127,121,W
+2069,2025-03-19,Portland Trail Blazers,Memphis Grizzlies,Home,22:00,115,99,W
+2070,2025-03-19,Sacramento Kings,Cleveland Cavaliers,Home,22:00,123,119,W
+2071,2025-03-19,San Antonio Spurs,New York Knicks,Home,20:00,120,105,W
+2072,2025-03-19,Utah Jazz,Washington Wizards,Home,21:00,128,112,W
+2073,2025-03-19,Washington Wizards,Utah Jazz,Away,21:00,112,128,L
+2074,2025-03-20,Brooklyn Nets,Indiana Pacers,Away,19:00,99,105,L
+2075,2025-03-20,Charlotte Hornets,New York Knicks,Home,19:00,115,98,W
+2076,2025-03-20,Chicago Bulls,Sacramento Kings,Away,22:00,128,116,W
+2077,2025-03-20,Golden State Warriors,Toronto Raptors,Home,22:00,117,114,W
+2078,2025-03-20,Indiana Pacers,Brooklyn Nets,Home,19:00,105,99,W
+2079,2025-03-20,Los Angeles Lakers,Milwaukee Bucks,Home,22:30,89,118,L
+2080,2025-03-20,Milwaukee Bucks,Los Angeles Lakers,Away,22:30,118,89,W
+2081,2025-03-20,New York Knicks,Charlotte Hornets,Away,19:00,98,115,L
+2082,2025-03-20,Sacramento Kings,Chicago Bulls,Home,22:00,116,128,L
+2083,2025-03-20,Toronto Raptors,Golden State Warriors,Away,22:00,114,117,L
+2084,2025-03-21,Boston Celtics,Utah Jazz,Away,21:30,121,99,W
+2085,2025-03-21,Charlotte Hornets,Oklahoma City Thunder,Away,20:00,106,141,L
+2086,2025-03-21,Cleveland Cavaliers,Phoenix Suns,Away,22:00,112,123,L
+2087,2025-03-21,Dallas Mavericks,Detroit Pistons,Home,20:30,123,117,W
+2088,2025-03-21,Denver Nuggets,Portland Trail Blazers,Away,22:00,109,128,L
+2089,2025-03-21,Detroit Pistons,Dallas Mavericks,Away,20:30,117,123,L
+2090,2025-03-21,Houston Rockets,Miami Heat,Away,20:00,102,98,W
+2091,2025-03-21,Los Angeles Clippers,Memphis Grizzlies,Home,22:30,128,108,W
+2092,2025-03-21,Memphis Grizzlies,Los Angeles Clippers,Away,22:30,108,128,L
+2093,2025-03-21,Miami Heat,Houston Rockets,Home,20:00,98,102,L
+2094,2025-03-21,Minnesota Timberwolves,New Orleans Pelicans,Home,20:00,134,93,W
+2095,2025-03-21,New Orleans Pelicans,Minnesota Timberwolves,Away,20:00,93,134,L
+2096,2025-03-21,Oklahoma City Thunder,Charlotte Hornets,Home,20:00,141,106,W
+2097,2025-03-21,Orlando Magic,Washington Wizards,Away,19:00,120,105,W
+2098,2025-03-21,Philadelphia 76ers,San Antonio Spurs,Away,20:00,120,128,L
+2099,2025-03-21,Phoenix Suns,Cleveland Cavaliers,Home,22:00,123,112,W
+2100,2025-03-21,Portland Trail Blazers,Denver Nuggets,Home,22:00,128,109,W
+2101,2025-03-21,San Antonio Spurs,Philadelphia 76ers,Home,20:00,128,120,W
+2102,2025-03-21,Utah Jazz,Boston Celtics,Home,21:30,99,121,L
+2103,2025-03-21,Washington Wizards,Orlando Magic,Home,19:00,105,120,L
+2104,2025-03-22,Atlanta Hawks,Golden State Warriors,Home,19:00,124,115,W
+2105,2025-03-22,Brooklyn Nets,Indiana Pacers,Away,17:00,103,108,L
+2106,2025-03-22,Chicago Bulls,Los Angeles Lakers,Away,22:30,146,115,W
+2107,2025-03-22,Golden State Warriors,Atlanta Hawks,Away,19:00,115,124,L
+2108,2025-03-22,Indiana Pacers,Brooklyn Nets,Home,17:00,108,103,W
+2109,2025-03-22,Los Angeles Lakers,Chicago Bulls,Home,22:30,115,146,L
+2110,2025-03-22,Milwaukee Bucks,Sacramento Kings,Away,22:00,114,108,W
+2111,2025-03-22,New York Knicks,Washington Wizards,Home,20:00,122,103,W
+2112,2025-03-22,Sacramento Kings,Milwaukee Bucks,Home,22:00,108,114,L
+2113,2025-03-22,Washington Wizards,New York Knicks,Away,20:00,103,122,L
+2114,2025-03-23,Atlanta Hawks,Philadelphia 76ers,Home,18:00,132,119,W
+2115,2025-03-23,Boston Celtics,Portland Trail Blazers,Away,18:00,129,116,W
+2116,2025-03-23,Charlotte Hornets,Miami Heat,Away,18:00,105,122,L
+2117,2025-03-23,Cleveland Cavaliers,Utah Jazz,Away,15:30,120,91,W
+2118,2025-03-23,Denver Nuggets,Houston Rockets,Away,19:00,116,111,W
+2119,2025-03-23,Detroit Pistons,New Orleans Pelicans,Home,15:00,136,130,W
+2120,2025-03-23,Houston Rockets,Denver Nuggets,Home,19:00,111,116,L
+2121,2025-03-23,Los Angeles Clippers,Oklahoma City Thunder,Home,21:00,101,103,L
+2122,2025-03-23,Miami Heat,Charlotte Hornets,Home,18:00,122,105,W
+2123,2025-03-23,New Orleans Pelicans,Detroit Pistons,Away,15:00,130,136,L
+2124,2025-03-23,Oklahoma City Thunder,Los Angeles Clippers,Away,21:00,103,101,W
+2125,2025-03-23,Philadelphia 76ers,Atlanta Hawks,Away,18:00,119,132,L
+2126,2025-03-23,Portland Trail Blazers,Boston Celtics,Home,18:00,116,129,L
+2127,2025-03-23,San Antonio Spurs,Toronto Raptors,Away,18:00,123,89,W
+2128,2025-03-23,Toronto Raptors,San Antonio Spurs,Home,18:00,89,123,L
+2129,2025-03-23,Utah Jazz,Cleveland Cavaliers,Home,15:30,91,120,L
+2130,2025-03-24,Boston Celtics,Sacramento Kings,Away,22:00,113,95,W
+2131,2025-03-24,Brooklyn Nets,Dallas Mavericks,Home,19:30,101,120,L
+2132,2025-03-24,Chicago Bulls,Denver Nuggets,Away,21:00,129,119,W
+2133,2025-03-24,Dallas Mavericks,Brooklyn Nets,Away,19:30,120,101,W
+2134,2025-03-24,Denver Nuggets,Chicago Bulls,Home,21:00,119,129,L
+2135,2025-03-24,Indiana Pacers,Minnesota Timberwolves,Home,19:00,119,103,W
+2136,2025-03-24,Los Angeles Lakers,Orlando Magic,Away,19:00,106,118,L
+2137,2025-03-24,Milwaukee Bucks,Phoenix Suns,Away,22:00,106,108,L
+2138,2025-03-24,Minnesota Timberwolves,Indiana Pacers,Away,19:00,103,119,L
+2139,2025-03-24,New Orleans Pelicans,Philadelphia 76ers,Home,20:00,112,99,W
+2140,2025-03-24,Orlando Magic,Los Angeles Lakers,Home,19:00,118,106,W
+2141,2025-03-24,Philadelphia 76ers,New Orleans Pelicans,Away,20:00,99,112,L
+2142,2025-03-24,Phoenix Suns,Milwaukee Bucks,Home,22:00,108,106,W
+2143,2025-03-24,Sacramento Kings,Boston Celtics,Home,22:00,95,113,L
+2144,2025-03-24,Toronto Raptors,Washington Wizards,Away,19:00,112,104,W
+2145,2025-03-24,Washington Wizards,Toronto Raptors,Home,19:00,104,112,L
+2146,2025-03-25,Atlanta Hawks,Houston Rockets,Away,20:00,114,121,L
+2147,2025-03-25,Charlotte Hornets,Orlando Magic,Home,19:00,104,111,L
+2148,2025-03-25,Cleveland Cavaliers,Portland Trail Blazers,Away,22:00,122,111,W
+2149,2025-03-25,Dallas Mavericks,New York Knicks,Away,19:30,113,128,L
+2150,2025-03-25,Detroit Pistons,San Antonio Spurs,Home,19:00,122,96,W
+2151,2025-03-25,Golden State Warriors,Miami Heat,Away,19:30,86,112,L
+2152,2025-03-25,Houston Rockets,Atlanta Hawks,Home,20:00,121,114,W
+2153,2025-03-25,Memphis Grizzlies,Utah Jazz,Away,21:00,140,103,W
+2154,2025-03-25,Miami Heat,Golden State Warriors,Home,19:30,112,86,W
+2155,2025-03-25,New York Knicks,Dallas Mavericks,Home,19:30,128,113,W
+2156,2025-03-25,Oklahoma City Thunder,Sacramento Kings,Away,22:00,121,105,W
+2157,2025-03-25,Orlando Magic,Charlotte Hornets,Away,19:00,111,104,W
+2158,2025-03-25,Portland Trail Blazers,Cleveland Cavaliers,Home,22:00,111,122,L
+2159,2025-03-25,Sacramento Kings,Oklahoma City Thunder,Home,22:00,105,121,L
+2160,2025-03-25,San Antonio Spurs,Detroit Pistons,Away,19:00,96,122,L
+2161,2025-03-25,Utah Jazz,Memphis Grizzlies,Home,21:00,103,140,L
+2162,2025-03-26,Boston Celtics,Phoenix Suns,Away,22:00,132,102,W
+2163,2025-03-26,Brooklyn Nets,Toronto Raptors,Home,19:30,86,116,L
+2164,2025-03-26,Denver Nuggets,Milwaukee Bucks,Home,21:00,127,117,W
+2165,2025-03-26,Indiana Pacers,Los Angeles Lakers,Home,19:30,119,120,L
+2166,2025-03-26,Los Angeles Clippers,New York Knicks,Away,19:30,126,113,W
+2167,2025-03-26,Los Angeles Lakers,Indiana Pacers,Away,19:30,120,119,W
+2168,2025-03-26,Milwaukee Bucks,Denver Nuggets,Away,21:00,117,127,L
+2169,2025-03-26,New York Knicks,Los Angeles Clippers,Home,19:30,113,126,L
+2170,2025-03-26,Philadelphia 76ers,Washington Wizards,Home,19:00,114,119,L
+2171,2025-03-26,Phoenix Suns,Boston Celtics,Home,22:00,102,132,L
+2172,2025-03-26,Toronto Raptors,Brooklyn Nets,Away,19:30,116,86,W
+2173,2025-03-26,Washington Wizards,Philadelphia 76ers,Away,19:00,119,114,W
+2174,2025-03-27,Atlanta Hawks,Miami Heat,Away,19:30,112,122,L
+2175,2025-03-27,Chicago Bulls,Los Angeles Lakers,Home,20:00,119,117,W
+2176,2025-03-27,Cleveland Cavaliers,San Antonio Spurs,Home,19:00,124,116,W
+2177,2025-03-27,Dallas Mavericks,Orlando Magic,Away,19:00,101,92,W
+2178,2025-03-27,Houston Rockets,Utah Jazz,Away,21:00,121,110,W
+2179,2025-03-27,Indiana Pacers,Washington Wizards,Away,19:00,162,109,W
+2180,2025-03-27,Los Angeles Lakers,Chicago Bulls,Away,20:00,117,119,L
+2181,2025-03-27,Memphis Grizzlies,Oklahoma City Thunder,Away,20:00,104,125,L
+2182,2025-03-27,Miami Heat,Atlanta Hawks,Home,19:30,122,112,W
+2183,2025-03-27,Oklahoma City Thunder,Memphis Grizzlies,Home,20:00,125,104,W
+2184,2025-03-27,Orlando Magic,Dallas Mavericks,Home,19:00,92,101,L
+2185,2025-03-27,Portland Trail Blazers,Sacramento Kings,Away,22:00,107,128,L
+2186,2025-03-27,Sacramento Kings,Portland Trail Blazers,Home,22:00,128,107,W
+2187,2025-03-27,San Antonio Spurs,Cleveland Cavaliers,Away,19:00,116,124,L
+2188,2025-03-27,Utah Jazz,Houston Rockets,Home,21:00,110,121,L
+2189,2025-03-27,Washington Wizards,Indiana Pacers,Home,19:00,109,162,L
+2190,2025-03-28,Brooklyn Nets,Los Angeles Clippers,Home,19:30,100,132,L
+2191,2025-03-28,Charlotte Hornets,Toronto Raptors,Away,19:30,97,108,L
+2192,2025-03-28,Cleveland Cavaliers,Detroit Pistons,Away,19:00,122,133,L
+2193,2025-03-28,Denver Nuggets,Utah Jazz,Home,21:00,129,93,W
+2194,2025-03-28,Detroit Pistons,Cleveland Cavaliers,Home,19:00,133,122,W
+2195,2025-03-28,Golden State Warriors,New Orleans Pelicans,Away,20:00,111,95,W
+2196,2025-03-28,Los Angeles Clippers,Brooklyn Nets,Away,19:30,132,100,W
+2197,2025-03-28,Milwaukee Bucks,New York Knicks,Home,20:00,107,116,L
+2198,2025-03-28,Minnesota Timberwolves,Phoenix Suns,Home,20:00,124,109,W
+2199,2025-03-28,New Orleans Pelicans,Golden State Warriors,Home,20:00,95,111,L
+2200,2025-03-28,New York Knicks,Milwaukee Bucks,Away,20:00,116,107,W
+2201,2025-03-28,Phoenix Suns,Minnesota Timberwolves,Away,20:00,109,124,L
+2202,2025-03-28,Toronto Raptors,Charlotte Hornets,Home,19:30,108,97,W
+2203,2025-03-28,Utah Jazz,Denver Nuggets,Away,21:00,93,129,L
+2204,2025-03-29,Boston Celtics,San Antonio Spurs,Away,20:00,121,111,W
+2205,2025-03-29,Brooklyn Nets,Washington Wizards,Away,19:00,115,112,W
+2206,2025-03-29,Chicago Bulls,Dallas Mavericks,Home,20:00,119,120,L
+2207,2025-03-29,Dallas Mavericks,Chicago Bulls,Away,20:00,120,119,W
+2208,2025-03-29,Indiana Pacers,Oklahoma City Thunder,Away,20:00,111,132,L
+2209,2025-03-29,Los Angeles Lakers,Memphis Grizzlies,Away,20:00,134,127,W
+2210,2025-03-29,Memphis Grizzlies,Los Angeles Lakers,Home,20:00,127,134,L
+2211,2025-03-29,Miami Heat,Philadelphia 76ers,Away,19:30,118,95,W
+2212,2025-03-29,Oklahoma City Thunder,Indiana Pacers,Home,20:00,132,111,W
+2213,2025-03-29,Orlando Magic,Sacramento Kings,Home,17:00,121,91,W
+2214,2025-03-29,Philadelphia 76ers,Miami Heat,Home,19:30,95,118,L
+2215,2025-03-29,Sacramento Kings,Orlando Magic,Away,17:00,91,121,L
+2216,2025-03-29,San Antonio Spurs,Boston Celtics,Home,20:00,111,121,L
+2217,2025-03-29,Washington Wizards,Brooklyn Nets,Home,19:00,112,115,L
+2218,2025-03-30,Atlanta Hawks,Milwaukee Bucks,Away,19:00,145,124,W
+2219,2025-03-30,Charlotte Hornets,New Orleans Pelicans,Away,19:00,94,98,L
+2220,2025-03-30,Cleveland Cavaliers,Los Angeles Clippers,Home,15:30,127,122,W
+2221,2025-03-30,Detroit Pistons,Minnesota Timberwolves,Away,19:00,104,123,L
+2222,2025-03-30,Golden State Warriors,San Antonio Spurs,Away,19:00,148,106,W
+2223,2025-03-30,Houston Rockets,Phoenix Suns,Away,21:00,148,109,W
+2224,2025-03-30,Los Angeles Clippers,Cleveland Cavaliers,Away,15:30,122,127,L
+2225,2025-03-30,Milwaukee Bucks,Atlanta Hawks,Home,19:00,124,145,L
+2226,2025-03-30,Minnesota Timberwolves,Detroit Pistons,Home,19:00,123,104,W
+2227,2025-03-30,New Orleans Pelicans,Charlotte Hornets,Home,19:00,98,94,W
+2228,2025-03-30,New York Knicks,Portland Trail Blazers,Home,18:00,110,93,W
+2229,2025-03-30,Philadelphia 76ers,Toronto Raptors,Home,19:30,109,127,L
+2230,2025-03-30,Phoenix Suns,Houston Rockets,Home,21:00,109,148,L
+2231,2025-03-30,Portland Trail Blazers,New York Knicks,Away,18:00,93,110,L
+2232,2025-03-30,San Antonio Spurs,Golden State Warriors,Home,19:00,106,148,L
+2233,2025-03-30,Toronto Raptors,Philadelphia 76ers,Away,19:30,127,109,W
+2234,2025-03-31,Boston Celtics,Memphis Grizzlies,Away,19:30,117,103,W
+2235,2025-03-31,Brooklyn Nets,Dallas Mavericks,Away,20:30,113,109,W
+2236,2025-03-31,Charlotte Hornets,Utah Jazz,Home,19:00,110,106,W
+2237,2025-03-31,Chicago Bulls,Oklahoma City Thunder,Away,20:00,117,145,L
+2238,2025-03-31,Dallas Mavericks,Brooklyn Nets,Home,20:30,109,113,L
+2239,2025-03-31,Houston Rockets,Los Angeles Lakers,Away,22:00,98,104,L
+2240,2025-03-31,Indiana Pacers,Sacramento Kings,Home,19:00,111,109,W
+2241,2025-03-31,Los Angeles Clippers,Orlando Magic,Away,19:00,96,87,W
+2242,2025-03-31,Los Angeles Lakers,Houston Rockets,Home,22:00,104,98,W
+2243,2025-03-31,Memphis Grizzlies,Boston Celtics,Home,19:30,103,117,L
+2244,2025-03-31,Miami Heat,Washington Wizards,Away,19:00,120,94,W
+2245,2025-03-31,Oklahoma City Thunder,Chicago Bulls,Home,20:00,145,117,W
+2246,2025-03-31,Orlando Magic,Los Angeles Clippers,Home,19:00,87,96,L
+2247,2025-03-31,Sacramento Kings,Indiana Pacers,Away,19:00,109,111,L
+2248,2025-03-31,Utah Jazz,Charlotte Hornets,Away,19:00,106,110,L
+2249,2025-03-31,Washington Wizards,Miami Heat,Home,19:00,94,120,L
+2250,2025-04-01,Atlanta Hawks,Portland Trail Blazers,Home,19:30,113,127,L
+2251,2025-04-01,Chicago Bulls,Toronto Raptors,Home,20:00,137,118,W
+2252,2025-04-01,Denver Nuggets,Minnesota Timberwolves,Home,22:00,139,140,L
+2253,2025-04-01,Golden State Warriors,Memphis Grizzlies,Away,20:00,134,125,W
+2254,2025-04-01,Memphis Grizzlies,Golden State Warriors,Home,20:00,125,134,L
+2255,2025-04-01,Milwaukee Bucks,Phoenix Suns,Home,19:30,133,123,W
+2256,2025-04-01,Minnesota Timberwolves,Denver Nuggets,Away,22:00,140,139,W
+2257,2025-04-01,New York Knicks,Philadelphia 76ers,Home,19:30,105,91,W
+2258,2025-04-01,Orlando Magic,San Antonio Spurs,Away,20:00,116,105,W
+2259,2025-04-01,Philadelphia 76ers,New York Knicks,Away,19:30,91,105,L
+2260,2025-04-01,Phoenix Suns,Milwaukee Bucks,Away,19:30,123,133,L
+2261,2025-04-01,Portland Trail Blazers,Atlanta Hawks,Away,19:30,127,113,W
+2262,2025-04-01,San Antonio Spurs,Orlando Magic,Home,20:00,105,116,L
+2263,2025-04-01,Toronto Raptors,Chicago Bulls,Away,20:00,118,137,L
+2264,2025-04-02,Atlanta Hawks,Dallas Mavericks,Away,20:30,118,120,L
+2265,2025-04-02,Boston Celtics,Miami Heat,Home,19:30,103,124,L
+2266,2025-04-02,Charlotte Hornets,Indiana Pacers,Away,19:00,105,119,L
+2267,2025-04-02,Cleveland Cavaliers,New York Knicks,Home,19:00,124,105,W
+2268,2025-04-02,Dallas Mavericks,Atlanta Hawks,Home,20:30,120,118,W
+2269,2025-04-02,Denver Nuggets,San Antonio Spurs,Home,21:00,106,113,L
+2270,2025-04-02,Detroit Pistons,Oklahoma City Thunder,Away,21:30,103,119,L
+2271,2025-04-02,Houston Rockets,Utah Jazz,Home,20:00,143,105,W
+2272,2025-04-02,Indiana Pacers,Charlotte Hornets,Home,19:00,119,105,W
+2273,2025-04-02,Los Angeles Clippers,New Orleans Pelicans,Home,22:30,114,98,W
+2274,2025-04-02,Miami Heat,Boston Celtics,Away,19:30,124,103,W
+2275,2025-04-02,New Orleans Pelicans,Los Angeles Clippers,Away,22:30,98,114,L
+2276,2025-04-02,New York Knicks,Cleveland Cavaliers,Away,19:00,105,124,L
+2277,2025-04-02,Oklahoma City Thunder,Detroit Pistons,Home,21:30,119,103,W
+2278,2025-04-02,Sacramento Kings,Washington Wizards,Away,19:00,111,116,L
+2279,2025-04-02,San Antonio Spurs,Denver Nuggets,Away,21:00,113,106,W
+2280,2025-04-02,Utah Jazz,Houston Rockets,Away,20:00,105,143,L
+2281,2025-04-02,Washington Wizards,Sacramento Kings,Home,19:00,116,111,W
+2282,2025-04-03,Brooklyn Nets,Minnesota Timberwolves,Home,19:30,90,105,L
+2283,2025-04-03,Golden State Warriors,Los Angeles Lakers,Away,22:00,123,116,W
+2284,2025-04-03,Los Angeles Lakers,Golden State Warriors,Home,22:00,116,123,L
+2285,2025-04-03,Memphis Grizzlies,Miami Heat,Away,19:30,110,108,W
+2286,2025-04-03,Miami Heat,Memphis Grizzlies,Home,19:30,108,110,L
+2287,2025-04-03,Milwaukee Bucks,Philadelphia 76ers,Away,19:00,126,113,W
+2288,2025-04-03,Minnesota Timberwolves,Brooklyn Nets,Away,19:30,105,90,W
+2289,2025-04-03,Orlando Magic,Washington Wizards,Away,19:00,109,97,W
+2290,2025-04-03,Philadelphia 76ers,Milwaukee Bucks,Home,19:00,113,126,L
+2291,2025-04-03,Portland Trail Blazers,Toronto Raptors,Away,19:30,112,103,W
+2292,2025-04-03,Toronto Raptors,Portland Trail Blazers,Home,19:30,103,112,L
+2293,2025-04-03,Washington Wizards,Orlando Magic,Home,19:00,97,109,L
+2294,2025-04-04,Boston Celtics,Phoenix Suns,Home,19:30,123,103,W
+2295,2025-04-04,Charlotte Hornets,Sacramento Kings,Home,19:00,102,125,L
+2296,2025-04-04,Chicago Bulls,Portland Trail Blazers,Home,20:00,118,113,W
+2297,2025-04-04,Cleveland Cavaliers,San Antonio Spurs,Away,20:00,114,113,W
+2298,2025-04-04,Dallas Mavericks,Los Angeles Clippers,Away,22:30,91,114,L
+2299,2025-04-04,Denver Nuggets,Golden State Warriors,Away,22:00,104,118,L
+2300,2025-04-04,Detroit Pistons,Toronto Raptors,Away,19:30,117,105,W
+2301,2025-04-04,Golden State Warriors,Denver Nuggets,Home,22:00,118,104,W
+2302,2025-04-04,Houston Rockets,Oklahoma City Thunder,Home,20:00,125,111,W
+2303,2025-04-04,Indiana Pacers,Utah Jazz,Home,19:00,140,112,W
+2304,2025-04-04,Los Angeles Clippers,Dallas Mavericks,Home,22:30,114,91,W
+2305,2025-04-04,Los Angeles Lakers,New Orleans Pelicans,Home,22:30,124,108,W
+2306,2025-04-04,New Orleans Pelicans,Los Angeles Lakers,Away,22:30,108,124,L
+2307,2025-04-04,Oklahoma City Thunder,Houston Rockets,Away,20:00,111,125,L
+2308,2025-04-04,Phoenix Suns,Boston Celtics,Away,19:30,103,123,L
+2309,2025-04-04,Portland Trail Blazers,Chicago Bulls,Away,20:00,113,118,L
+2310,2025-04-04,Sacramento Kings,Charlotte Hornets,Away,19:00,125,102,W
+2311,2025-04-04,San Antonio Spurs,Cleveland Cavaliers,Home,20:00,113,114,L
+2312,2025-04-04,Toronto Raptors,Detroit Pistons,Home,19:30,105,117,L
+2313,2025-04-04,Utah Jazz,Indiana Pacers,Away,19:00,112,140,L
+2314,2025-04-05,Atlanta Hawks,New York Knicks,Home,15:00,105,121,L
+2315,2025-04-05,Dallas Mavericks,Los Angeles Clippers,Away,22:30,104,135,L
+2316,2025-04-05,Detroit Pistons,Memphis Grizzlies,Home,19:00,103,109,L
+2317,2025-04-05,Los Angeles Clippers,Dallas Mavericks,Home,22:30,135,104,W
+2318,2025-04-05,Memphis Grizzlies,Detroit Pistons,Away,19:00,109,103,W
+2319,2025-04-05,Miami Heat,Milwaukee Bucks,Home,20:00,115,121,L
+2320,2025-04-05,Milwaukee Bucks,Miami Heat,Away,20:00,121,115,W
+2321,2025-04-05,Minnesota Timberwolves,Philadelphia 76ers,Away,19:00,114,109,W
+2322,2025-04-05,New York Knicks,Atlanta Hawks,Away,15:00,121,105,W
+2323,2025-04-05,Philadelphia 76ers,Minnesota Timberwolves,Home,19:00,109,114,L
+2324,2025-04-06,Atlanta Hawks,Utah Jazz,Home,18:00,147,134,W
+2325,2025-04-06,Boston Celtics,Washington Wizards,Home,18:00,124,90,W
+2326,2025-04-06,Brooklyn Nets,Toronto Raptors,Home,15:30,109,120,L
+2327,2025-04-06,Charlotte Hornets,Chicago Bulls,Home,13:00,117,131,L
+2328,2025-04-06,Chicago Bulls,Charlotte Hornets,Away,13:00,131,117,W
+2329,2025-04-06,Cleveland Cavaliers,Sacramento Kings,Home,18:00,113,120,L
+2330,2025-04-06,Denver Nuggets,Indiana Pacers,Home,20:00,120,125,L
+2331,2025-04-06,Golden State Warriors,Houston Rockets,Home,20:30,96,106,L
+2332,2025-04-06,Houston Rockets,Golden State Warriors,Away,20:30,106,96,W
+2333,2025-04-06,Indiana Pacers,Denver Nuggets,Away,20:00,125,120,W
+2334,2025-04-06,Los Angeles Lakers,Oklahoma City Thunder,Away,15:30,126,99,W
+2335,2025-04-06,Milwaukee Bucks,New Orleans Pelicans,Away,20:30,111,107,W
+2336,2025-04-06,New Orleans Pelicans,Milwaukee Bucks,Home,20:30,107,111,L
+2337,2025-04-06,New York Knicks,Phoenix Suns,Home,19:00,112,98,W
+2338,2025-04-06,Oklahoma City Thunder,Los Angeles Lakers,Home,15:30,99,126,L
+2339,2025-04-06,Phoenix Suns,New York Knicks,Away,19:00,98,112,L
+2340,2025-04-06,Portland Trail Blazers,San Antonio Spurs,Home,18:00,120,109,W
+2341,2025-04-06,Sacramento Kings,Cleveland Cavaliers,Away,18:00,120,113,W
+2342,2025-04-06,San Antonio Spurs,Portland Trail Blazers,Away,18:00,109,120,L
+2343,2025-04-06,Toronto Raptors,Brooklyn Nets,Away,15:30,120,109,W
+2344,2025-04-06,Utah Jazz,Atlanta Hawks,Away,18:00,134,147,L
+2345,2025-04-06,Washington Wizards,Boston Celtics,Away,18:00,90,124,L
+2346,2025-04-07,Detroit Pistons,Sacramento Kings,Home,19:00,117,127,L
+2347,2025-04-07,Miami Heat,Philadelphia 76ers,Home,19:30,117,105,W
+2348,2025-04-07,Philadelphia 76ers,Miami Heat,Away,19:30,105,117,L
+2349,2025-04-07,Sacramento Kings,Detroit Pistons,Away,19:00,127,117,W
+2350,2025-04-08,Atlanta Hawks,Orlando Magic,Away,19:00,112,119,L
+2351,2025-04-08,Boston Celtics,New York Knicks,Away,19:30,119,117,W
+2352,2025-04-08,Brooklyn Nets,New Orleans Pelicans,Home,19:30,119,114,W
+2353,2025-04-08,Charlotte Hornets,Memphis Grizzlies,Home,19:00,100,124,L
+2354,2025-04-08,Chicago Bulls,Cleveland Cavaliers,Away,19:00,113,135,L
+2355,2025-04-08,Cleveland Cavaliers,Chicago Bulls,Home,19:00,135,113,W
+2356,2025-04-08,Golden State Warriors,Phoenix Suns,Away,22:00,133,95,W
+2357,2025-04-08,Indiana Pacers,Washington Wizards,Home,19:00,104,98,W
+2358,2025-04-08,Los Angeles Clippers,San Antonio Spurs,Home,22:30,122,117,W
+2359,2025-04-08,Los Angeles Lakers,Oklahoma City Thunder,Away,20:00,120,136,L
+2360,2025-04-08,Memphis Grizzlies,Charlotte Hornets,Away,19:00,124,100,W
+2361,2025-04-08,Milwaukee Bucks,Minnesota Timberwolves,Home,20:00,110,103,W
+2362,2025-04-08,Minnesota Timberwolves,Milwaukee Bucks,Away,20:00,103,110,L
+2363,2025-04-08,New Orleans Pelicans,Brooklyn Nets,Away,19:30,114,119,L
+2364,2025-04-08,New York Knicks,Boston Celtics,Home,19:30,117,119,L
+2365,2025-04-08,Oklahoma City Thunder,Los Angeles Lakers,Home,20:00,136,120,W
+2366,2025-04-08,Orlando Magic,Atlanta Hawks,Home,19:00,119,112,W
+2367,2025-04-08,Phoenix Suns,Golden State Warriors,Home,22:00,95,133,L
+2368,2025-04-08,San Antonio Spurs,Los Angeles Clippers,Away,22:30,117,122,L
+2369,2025-04-08,Washington Wizards,Indiana Pacers,Away,19:00,98,104,L
+2370,2025-04-09,Boston Celtics,Orlando Magic,Away,19:00,76,96,L
+2371,2025-04-09,Charlotte Hornets,Toronto Raptors,Away,19:30,96,126,L
+2372,2025-04-09,Chicago Bulls,Miami Heat,Home,20:00,119,111,W
+2373,2025-04-09,Dallas Mavericks,Los Angeles Lakers,Home,19:30,97,112,L
+2374,2025-04-09,Denver Nuggets,Sacramento Kings,Away,22:00,124,116,W
+2375,2025-04-09,Golden State Warriors,San Antonio Spurs,Home,22:00,111,114,L
+2376,2025-04-09,Houston Rockets,Los Angeles Clippers,Away,22:30,117,134,L
+2377,2025-04-09,Los Angeles Clippers,Houston Rockets,Home,22:30,134,117,W
+2378,2025-04-09,Los Angeles Lakers,Dallas Mavericks,Away,19:30,112,97,W
+2379,2025-04-09,Miami Heat,Chicago Bulls,Away,20:00,111,119,L
+2380,2025-04-09,Oklahoma City Thunder,Phoenix Suns,Away,22:00,125,112,W
+2381,2025-04-09,Orlando Magic,Boston Celtics,Home,19:00,96,76,W
+2382,2025-04-09,Philadelphia 76ers,Washington Wizards,Away,19:00,122,103,W
+2383,2025-04-09,Phoenix Suns,Oklahoma City Thunder,Home,22:00,112,125,L
+2384,2025-04-09,Portland Trail Blazers,Utah Jazz,Away,21:00,126,133,L
+2385,2025-04-09,Sacramento Kings,Denver Nuggets,Home,22:00,116,124,L
+2386,2025-04-09,San Antonio Spurs,Golden State Warriors,Away,22:00,114,111,W
+2387,2025-04-09,Toronto Raptors,Charlotte Hornets,Home,19:30,126,96,W
+2388,2025-04-09,Utah Jazz,Portland Trail Blazers,Home,21:00,133,126,W
+2389,2025-04-09,Washington Wizards,Philadelphia 76ers,Home,19:00,103,122,L
+2390,2025-04-10,Atlanta Hawks,Brooklyn Nets,Away,19:30,133,109,W
+2391,2025-04-10,Brooklyn Nets,Atlanta Hawks,Home,19:30,109,133,L
+2392,2025-04-10,Cleveland Cavaliers,Indiana Pacers,Away,19:00,112,114,L
+2393,2025-04-10,Detroit Pistons,New York Knicks,Home,19:00,115,106,W
+2394,2025-04-10,Indiana Pacers,Cleveland Cavaliers,Home,19:00,114,112,W
+2395,2025-04-10,Memphis Grizzlies,Minnesota Timberwolves,Home,21:30,125,141,L
+2396,2025-04-10,Milwaukee Bucks,New Orleans Pelicans,Home,20:00,136,111,W
+2397,2025-04-10,Minnesota Timberwolves,Memphis Grizzlies,Away,21:30,141,125,W
+2398,2025-04-10,New Orleans Pelicans,Milwaukee Bucks,Away,20:00,111,136,L
+2399,2025-04-10,New York Knicks,Detroit Pistons,Away,19:00,106,115,L
+2400,2025-04-11,Atlanta Hawks,Philadelphia 76ers,Away,19:00,124,110,W
+2401,2025-04-11,Boston Celtics,Charlotte Hornets,Home,19:30,130,94,W
+2402,2025-04-11,Brooklyn Nets,Minnesota Timberwolves,Away,21:00,91,117,L
+2403,2025-04-11,Charlotte Hornets,Boston Celtics,Away,19:30,94,130,L
+2404,2025-04-11,Chicago Bulls,Washington Wizards,Home,20:00,119,89,W
+2405,2025-04-11,Cleveland Cavaliers,New York Knicks,Away,19:30,108,102,W
+2406,2025-04-11,Dallas Mavericks,Toronto Raptors,Home,20:30,124,102,W
+2407,2025-04-11,Denver Nuggets,Memphis Grizzlies,Home,21:00,117,109,W
+2408,2025-04-11,Detroit Pistons,Milwaukee Bucks,Home,19:00,119,125,L
+2409,2025-04-11,Golden State Warriors,Portland Trail Blazers,Away,22:00,103,86,W
+2410,2025-04-11,Houston Rockets,Los Angeles Lakers,Away,22:30,109,140,L
+2411,2025-04-11,Indiana Pacers,Orlando Magic,Home,19:00,115,129,L
+2412,2025-04-11,Los Angeles Clippers,Sacramento Kings,Away,22:00,101,100,W
+2413,2025-04-11,Los Angeles Lakers,Houston Rockets,Home,22:30,140,109,W
+2414,2025-04-11,Memphis Grizzlies,Denver Nuggets,Away,21:00,109,117,L
+2415,2025-04-11,Miami Heat,New Orleans Pelicans,Away,20:00,153,104,W
+2416,2025-04-11,Milwaukee Bucks,Detroit Pistons,Away,19:00,125,119,W
+2417,2025-04-11,Minnesota Timberwolves,Brooklyn Nets,Home,21:00,117,91,W
+2418,2025-04-11,New Orleans Pelicans,Miami Heat,Home,20:00,104,153,L
+2419,2025-04-11,New York Knicks,Cleveland Cavaliers,Home,19:30,102,108,L
+2420,2025-04-11,Oklahoma City Thunder,Utah Jazz,Away,21:30,145,111,W
+2421,2025-04-11,Orlando Magic,Indiana Pacers,Away,19:00,129,115,W
+2422,2025-04-11,Philadelphia 76ers,Atlanta Hawks,Home,19:00,110,124,L
+2423,2025-04-11,Phoenix Suns,San Antonio Spurs,Home,22:00,117,98,W
+2424,2025-04-11,Portland Trail Blazers,Golden State Warriors,Home,22:00,86,103,L
+2425,2025-04-11,Sacramento Kings,Los Angeles Clippers,Home,22:00,100,101,L
+2426,2025-04-11,San Antonio Spurs,Phoenix Suns,Away,22:00,98,117,L
+2427,2025-04-11,Toronto Raptors,Dallas Mavericks,Away,20:30,102,124,L
+2428,2025-04-11,Utah Jazz,Oklahoma City Thunder,Home,21:30,111,145,L
+2429,2025-04-11,Washington Wizards,Chicago Bulls,Away,20:00,89,119,L
+2430,2025-04-13,Atlanta Hawks,Orlando Magic,Home,13:00,117,105,W
+2431,2025-04-13,Boston Celtics,Charlotte Hornets,Home,13:00,93,86,W
+2432,2025-04-13,Brooklyn Nets,New York Knicks,Home,13:00,105,113,L
+2433,2025-04-13,Charlotte Hornets,Boston Celtics,Away,13:00,86,93,L
+2434,2025-04-13,Chicago Bulls,Philadelphia 76ers,Away,13:00,122,102,W
+2435,2025-04-13,Cleveland Cavaliers,Indiana Pacers,Home,13:00,118,126,L
+2436,2025-04-13,Dallas Mavericks,Memphis Grizzlies,Away,15:30,97,132,L
+2437,2025-04-13,Denver Nuggets,Houston Rockets,Away,15:30,126,111,W
+2438,2025-04-13,Detroit Pistons,Milwaukee Bucks,Away,13:00,133,140,L
+2439,2025-04-13,Golden State Warriors,Los Angeles Clippers,Home,15:30,119,124,L
+2440,2025-04-13,Houston Rockets,Denver Nuggets,Home,15:30,111,126,L
+2441,2025-04-13,Indiana Pacers,Cleveland Cavaliers,Away,13:00,126,118,W
+2442,2025-04-13,Los Angeles Clippers,Golden State Warriors,Away,15:30,124,119,W
+2443,2025-04-13,Los Angeles Lakers,Portland Trail Blazers,Away,15:30,81,109,L
+2444,2025-04-13,Memphis Grizzlies,Dallas Mavericks,Home,15:30,132,97,W
+2445,2025-04-13,Miami Heat,Washington Wizards,Home,13:00,118,119,L
+2446,2025-04-13,Milwaukee Bucks,Detroit Pistons,Home,13:00,140,133,W
+2447,2025-04-13,Minnesota Timberwolves,Utah Jazz,Home,15:30,116,105,W
+2448,2025-04-13,New Orleans Pelicans,Oklahoma City Thunder,Home,15:30,100,115,L
+2449,2025-04-13,New York Knicks,Brooklyn Nets,Away,13:00,113,105,W
+2450,2025-04-13,Oklahoma City Thunder,New Orleans Pelicans,Away,15:30,115,100,W
+2451,2025-04-13,Orlando Magic,Atlanta Hawks,Away,13:00,105,117,L
+2452,2025-04-13,Philadelphia 76ers,Chicago Bulls,Home,13:00,102,122,L
+2453,2025-04-13,Phoenix Suns,Sacramento Kings,Away,15:30,98,109,L
+2454,2025-04-13,Portland Trail Blazers,Los Angeles Lakers,Home,15:30,109,81,W
+2455,2025-04-13,Sacramento Kings,Phoenix Suns,Home,15:30,109,98,W
+2456,2025-04-13,San Antonio Spurs,Toronto Raptors,Home,15:30,125,118,W
+2457,2025-04-13,Toronto Raptors,San Antonio Spurs,Away,15:30,118,125,L
+2458,2025-04-13,Utah Jazz,Minnesota Timberwolves,Away,15:30,105,116,L
+2459,2025-04-13,Washington Wizards,Miami Heat,Away,13:00,119,118,W
